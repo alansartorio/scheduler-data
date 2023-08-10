@@ -1,6 +1,6 @@
 #!/bin/bash
 
-mkdir -p "data/plans"
+mkdir -p "data/plan"
 mkdir -p "data/commissions"
 
 function getJson() {
@@ -14,7 +14,7 @@ function scrapePlans() {
 		fileEncoded=$(echo $plan | sed 's;/;%2f;g')
 		echo "PLAN: $plan"
 		url=$(PLAN="$urlEncoded" envsubst <<< $PLAN_URL)
-		getJson "$url" > "data/plans/$fileEncoded.json"
+		getJson "$url" > "data/plan/$fileEncoded.json"
 	done
 }
 
