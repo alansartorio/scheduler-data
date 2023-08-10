@@ -1,0 +1,267 @@
+{
+  "courseCommissions": {
+    "courseCommission": [
+      {
+        "subjectCode": "32.57",
+        "subjectName": "Proyecto de Buques  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "N",
+        "commissionId": "37670",
+        "quota": "3",
+        "enrolledStudents": "3",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "400F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "22.31",
+        "subjectName": "Diseño de Equipos Electrónicos  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "K",
+        "commissionId": "37783",
+        "quota": "24",
+        "enrolledStudents": "13",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "102T",
+          "building": "SDT",
+          "hourFrom": "19:00",
+          "hourTo": "22:00"
+        }
+      },
+      {
+        "subjectCode": "16.30",
+        "subjectName": "Proyecto Final de Carrera (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO",
+        "commissionId": "38017",
+        "quota": "30",
+        "enrolledStudents": "29",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "803F",
+          "building": "Sede Distrito Financiero",
+          "hourFrom": "13:00",
+          "hourTo": "16:00"
+        }
+      },
+      {
+        "subjectCode": "72.45",
+        "subjectName": "Proyecto Final  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "S",
+        "commissionId": "38021",
+        "quota": "60",
+        "enrolledStudents": "25",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Asincrónico Virtual",
+          "building": "External",
+          "hourFrom": "20:00",
+          "hourTo": "21:00"
+        }
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "38029",
+        "quota": "0",
+        "enrolledStudents": "4",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "700F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "702F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "38030",
+        "quota": "0",
+        "enrolledStudents": "4",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "700F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "702F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38031",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "THURSDAY",
+            "classRoom": "602F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "702F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "D",
+        "commissionId": "38032",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "THURSDAY",
+            "classRoom": "602F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "702F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "31.40",
+        "subjectName": "Proyecto Mecánico  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "M",
+        "commissionId": "38033",
+        "quota": "10",
+        "enrolledStudents": "3",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual Asincrónico",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "31.83",
+        "subjectName": "Proyecto de Materiales  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "M",
+        "commissionId": "38034",
+        "quota": "10",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual Asincrónico",
+          "building": "External",
+          "hourFrom": "13:00",
+          "hourTo": "14:00"
+        }
+      },
+      {
+        "subjectCode": "31.88",
+        "subjectName": "Proyecto Automotor  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "M",
+        "commissionId": "38036",
+        "quota": "10",
+        "enrolledStudents": "4",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual Asincrónico",
+          "building": "External",
+          "hourFrom": "14:00",
+          "hourTo": "15:00"
+        }
+      },
+      {
+        "subjectCode": "31.58",
+        "subjectName": "Proyecto Mecatrónico (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "22/07/23",
+        "courseEnd": "21/07/24",
+        "commissionName": "M",
+        "commissionId": "38083",
+        "quota": "0",
+        "enrolledStudents": "3",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "10:00"
+        }
+      }
+    ]
+  }
+}
