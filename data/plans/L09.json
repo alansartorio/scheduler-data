@@ -1,0 +1,716 @@
+{
+  "careerplan": {
+    "name": "L09",
+    "career": "L",
+    "degreeLevel": "GRADUATE",
+    "since": "2009-03-03T00:00:00-02:00",
+    "section": [
+      {
+        "name": "Ciclo Básico",
+        "terms": {
+          "term": [
+            {
+              "year": "1",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Utilitarios en Informática",
+                    "code": "71.80",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Introducción a la Licenciatura en Adm y Sistemas",
+                    "code": "81.02",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Contables",
+                    "code": "81.07",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Análisis Matemático",
+                    "code": "93.20",
+                    "credits": "6",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "1",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Microeconomía",
+                    "code": "61.81",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.20"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Programación",
+                    "code": "71.85",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "71.80"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Aplicación de las Telecomunicaciones",
+                    "code": "81.08",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Álgebra",
+                    "code": "93.21",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Panorama Histórico Global",
+                    "code": "94.60",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Contabilidad Gerencial",
+                    "code": "81.11",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "81.07"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Comercialización",
+                    "code": "81.20",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Negocios y Tecnología en Internet",
+                    "code": "81.52",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "71.85",
+                        "81.08"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estadística",
+                    "code": "93.39",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.20"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Filosofía",
+                    "code": "94.61",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Gestión de Operaciones",
+                    "code": "11.83",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.39"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Gestión Financiera",
+                    "code": "61.12",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.07",
+                        "93.21"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Gestión de Datos",
+                    "code": "71.88",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.39",
+                        "71.85"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Gestión de Ventas",
+                    "code": "81.21",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.20"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Ética en los Negocios",
+                    "code": "94.62",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés I (analista)",
+                    "code": "94.90",
+                    "credits": "0",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Macroeconomía",
+                    "code": "61.82",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "61.81"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho Público y Privado",
+                    "code": "61.90",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "94.61",
+                        "94.62"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Análisis y Modelado de Procesos de Negocios",
+                    "code": "81.30",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.02",
+                        "71.85",
+                        "81.52"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Integrados de Gestión Empresaria I",
+                    "code": "81.39",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.11",
+                        "71.88",
+                        "81.52"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estructura de las Organizaciones",
+                    "code": "94.40",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "94.61"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Epistemología y Heurística",
+                    "code": "94.63",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "94.61"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Gestión de Proyectos",
+                    "code": "11.84",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.11"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Toma de Decisiones",
+                    "code": "11.85",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.39"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Análisis y Diseño de Aplicaciones Informáticas",
+                    "code": "81.31",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "71.88"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Integrados de Gestión Empresaria II",
+                    "code": "81.36",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "81.39"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Gestión de los Recursos Humanos",
+                    "code": "94.41",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Ciclo Profesional - Orientaciones",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "section",
+              "name": "Comercio Internacional",
+              "credits": "51",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Sistemas de Información",
+              "credits": "51",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Comercio Internacional",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Formación para Emprendedores",
+                    "code": "10.09",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "94.40"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía y Finanzas Internacionales",
+                    "code": "61.40",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "61.82",
+                        "61.12"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Comercio Exterior",
+                    "code": "81.26",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.21"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estrategia Empresaria",
+                    "code": "81.41",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.11",
+                        "61.82",
+                        "81.21",
+                        "61.12",
+                        "94.41",
+                        "11.85"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Arquitectura de la Tecnología Informática",
+                    "code": "81.56",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.31",
+                        "81.52"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Marketing Internacional",
+                    "code": "81.63",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.20"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Derecho Aduanero",
+                    "code": "61.92",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "61.90",
+                        "81.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Comercio Electrónico",
+                    "code": "81.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "81.02",
+                        "81.56",
+                        "81.52"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Impuestos",
+                    "code": "81.25",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "61.90",
+                        "81.11",
+                        "61.82"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Seminario de Actualización",
+                    "code": "81.45",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.36"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Diagnóstico Empresario y Plan de Acción ( Trabajo Final )",
+                    "code": "81.55",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "11.83",
+                        "81.41",
+                        "11.84",
+                        "81.30"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Gestión y Sistemas de Información de la Logística Internacional",
+                    "code": "81.64",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "11.83",
+                        "81.56",
+                        "81.26",
+                        "81.36"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II (licenciado)",
+                    "code": "94.91",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.90"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Sistemas de Información",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Formación para Emprendedores",
+                    "code": "10.09",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "94.40"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Comercio Exterior",
+                    "code": "81.26",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.21"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estrategia Empresaria",
+                    "code": "81.41",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.11",
+                        "61.82",
+                        "81.21",
+                        "61.12",
+                        "11.85",
+                        "94.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Auditoría General y de Sistemas",
+                    "code": "81.46",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "81.31",
+                        "94.40"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Arquitectura de la Tecnología Informática",
+                    "code": "81.56",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.31",
+                        "81.52"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Integrados de Gestión en la Industria de Servicios",
+                    "code": "81.60",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.30",
+                        "81.36"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Comercio Electrónico",
+                    "code": "81.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "81.02",
+                        "81.56",
+                        "81.52"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Impuestos",
+                    "code": "81.25",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "61.90",
+                        "81.11",
+                        "61.82"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Integración de Procesos de Negocios y Aplicaciones Informáticas",
+                    "code": "81.38",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "81.56",
+                        "81.36"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Seminario de Actualización",
+                    "code": "81.45",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "81.36"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Diagnóstico Empresario y Plan de Acción ( Trabajo Final )",
+                    "code": "81.55",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "11.83",
+                        "81.41",
+                        "11.84",
+                        "81.30"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Modelado Avanzado de Procesos e Inteligencia de Negocios",
+                    "code": "81.61",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "81.41",
+                        "71.88",
+                        "81.30",
+                        "81.36"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II (licenciado)",
+                    "code": "94.91",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.90"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      }
+    ]
+  }
+}

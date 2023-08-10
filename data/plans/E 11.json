@@ -1,0 +1,636 @@
+{
+  "careerplan": {
+    "name": "E 11",
+    "career": "E",
+    "degreeLevel": "GRADUATE",
+    "since": "2011-02-27T00:00:00-03:00",
+    "section": [
+      {
+        "name": "Ciclo Básico",
+        "terms": {
+          "term": [
+            {
+              "year": "1",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Química I",
+                    "code": "12.01",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Introducción a la Computación",
+                    "code": "22.06",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática I",
+                    "code": "93.17",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Álgebra Lineal",
+                    "code": "93.18",
+                    "credits": "6",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "1",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Programación I",
+                    "code": "22.07",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Representación",
+                    "code": "31.08",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática II",
+                    "code": "93.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física I",
+                    "code": "93.41",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.17"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Formación General I",
+                    "code": "94.21",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Estática y Resistencia de Materiales",
+                    "code": "31.19",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.41",
+                        "31.08"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática III",
+                    "code": "93.03",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Probabilidad y Estadística",
+                    "code": "93.24",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física II",
+                    "code": "93.42",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Termodinámica",
+                    "code": "31.21",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.42"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Métodos Numéricos",
+                    "code": "93.07",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.03"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física III",
+                    "code": "93.43",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática IV",
+                    "code": "93.65",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metodología del Aprendizaje",
+                    "code": "94.24",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Tecnología de Mat. Eléctricos",
+                    "code": "21.32",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.65",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrotecnia I",
+                    "code": "21.71",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.65"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Algoritmos y Estructura de Datos",
+                    "code": "22.08",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "22.07"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física IV",
+                    "code": "93.44",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.42",
+                        "93.43"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Instrumentos y Mediciones Eléctricas",
+                    "code": "21.74",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.71"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Máquinas Eléctricas I",
+                    "code": "21.80",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "21.71",
+                        "21.32"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica General",
+                    "code": "22.20",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.71"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electromagnetismo",
+                    "code": "22.37",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.65",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Laboratorio de Electrónica",
+                    "code": "22.42",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "21.71"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecánica de Fluidos",
+                    "code": "31.24",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.65"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecanismos y Elementos de Máquinas",
+                    "code": "31.27",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.17"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés I",
+                    "code": "94.51",
+                    "credits": "0",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Ciclo Profesional",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrotecnia II",
+                    "code": "21.79",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.71"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Máquinas Eléctricas II",
+                    "code": "21.81",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "21.80"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación y Control",
+                    "code": "22.58",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.20"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Turbomáquinas",
+                    "code": "31.38",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "31.21",
+                        "31.24"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Instalaciones Eléctricas y Luminotecnia",
+                    "code": "21.65",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "21.81"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Centrales Eléctricas",
+                    "code": "21.82",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "21.74",
+                        "22.58",
+                        "21.81"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transmisión de la Energía Eléctrica",
+                    "code": "21.83",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "21.79",
+                        "22.37"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electivas",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.71"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Eficiencia Energética",
+                    "code": "21.45",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.65"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Proyecto Final  (Anual)",
+                    "code": "21.84",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "21.83",
+                        "21.82",
+                        "21.65"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Eléctricos de Potencia",
+                    "code": "21.85",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "21.83",
+                        "21.81"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Diseño de Líneas de Transmisión y Estaciones Transformadoras",
+                    "code": "21.86",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "21.83"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica de Potencia",
+                    "code": "22.28",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.20"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Mantenimiento de Máquinas e Instalaciones Eléctricas",
+                    "code": "21.72",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "21.65",
+                        "21.81"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Energías Alternativas",
+                    "code": "21.73",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "21.82",
+                        "21.65"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mercado Eléctrico",
+                    "code": "21.87",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "21.83",
+                        "61.23"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Distribución de la Energía Eléctrica",
+                    "code": "21.88",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "21.83",
+                        "21.65"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "21.98",
+                    "credits": "0",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.31",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electivas",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": {
+            "type": "subject",
+            "name": "Formación General III",
+            "code": "94.23",
+            "credits": "3",
+            "dependencies": {
+              "dependency": "94.21"
+            }
+          }
+        }
+      }
+    ]
+  }
+}

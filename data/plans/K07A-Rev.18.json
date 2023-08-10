@@ -1,0 +1,1503 @@
+{
+  "careerplan": {
+    "name": "K07A-Rev.18",
+    "career": "K",
+    "degreeLevel": "GRADUATE",
+    "since": "2018-07-21T00:00:00-03:00",
+    "section": [
+      {
+        "name": "Ciclo Básico",
+        "terms": {
+          "term": [
+            {
+              "year": "1",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Introducción a la Computación",
+                    "code": "22.06",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Representación",
+                    "code": "31.08",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática Discreta",
+                    "code": "93.16",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática I",
+                    "code": "93.17",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Álgebra Lineal",
+                    "code": "93.18",
+                    "credits": "6",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "1",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Programación I",
+                    "code": "22.07",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática II",
+                    "code": "93.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática III",
+                    "code": "93.03",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física I",
+                    "code": "93.41",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.17"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Tecnología de Materiales Electrónicos",
+                    "code": "22.53",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física II",
+                    "code": "93.42",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física III",
+                    "code": "93.43",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática IV",
+                    "code": "93.65",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Formación General I",
+                    "code": "94.21",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electrotecnia I",
+                    "code": "22.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.43"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Algoritmos y Estructura de Datos",
+                    "code": "22.08",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.16",
+                        "22.07"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física Electrónica",
+                    "code": "23.09",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "93.42",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física IV",
+                    "code": "93.44",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "93.42",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática V",
+                    "code": "93.57",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.65"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Teoría de Circuitos",
+                    "code": "22.01",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.02",
+                        "93.57"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica I",
+                    "code": "22.11",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "23.09",
+                        "22.02"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica III",
+                    "code": "22.13",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.02",
+                        "93.16"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Laboratorio de Electrónica",
+                    "code": "22.42",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.02",
+                        "22.53"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Química I",
+                    "code": "12.01",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Análisis de Señales y Sistemas Digitales",
+                    "code": "22.05",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica II",
+                    "code": "22.12",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.11",
+                        "22.01"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Probabilidad y Estadística",
+                    "code": "93.24",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Métodos Numéricos",
+                    "code": "93.54",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "22.07"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés I",
+                    "code": "94.51",
+                    "credits": "0",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Ciclo Profesional - Orientaciones",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "section",
+              "name": "Mecatrónica/Control",
+              "credits": "90",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Procesamiento de Señales",
+              "credits": "90",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Telecomunicaciones",
+              "credits": "90",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Mecatrónica/Control",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electromagnetismo",
+                    "code": "22.37",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transmisión de la Información",
+                    "code": "22.61",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Control",
+                    "code": "22.85",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Lab. de Microprocesadores",
+                    "code": "22.99",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.13",
+                        "93.57",
+                        "22.42"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Señales Aleatorias",
+                    "code": "22.67",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sensores y Actuadores",
+                    "code": "22.88",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.85"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Tecnología de Máquinas",
+                    "code": "31.81",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.41"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metodología del Aprendizaje",
+                    "code": "94.24",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Diseño de Equipos Electrónicos  (Anual)",
+                    "code": "22.31",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.99",
+                        "22.85"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Automación Industrial",
+                    "code": "22.90",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.85"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Control Automático",
+                    "code": "22.93",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.85"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecatrónica Aplicada",
+                    "code": "31.99",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.81"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.32",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica IV",
+                    "code": "22.14",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.85",
+                        "22.53"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica V",
+                    "code": "22.15",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.99"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "23.86",
+                    "credits": "0",
+                    "creditsRequired": "192",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electiva Mecatrónica/Control",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electiva Mecatrónica/Control",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Formación para Emprendedores",
+              "code": "10.09",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Taller de Modelización de Productos",
+              "code": "11.34",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Química II",
+              "code": "12.02",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Neurociencias y Desarrollo Productivo",
+              "code": "16.04",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Microelectrónica",
+              "code": "22.33",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "22.13",
+                  "22.12"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Redes Neuronales",
+              "code": "22.45",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.05"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Laboratorio de Dsp_fpga",
+              "code": "22.49",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "22.05"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Acústica para Ingenieros",
+              "code": "23.05",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "22.02",
+                  "93.57"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Investigación",
+              "code": "23.12",
+              "credits": "3",
+              "creditsRequired": "180",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Deep Learning",
+              "code": "23.14",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.45"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Realidad Virtual",
+              "code": "23.15",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.18",
+                  "22.08"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Procesamiento Avanzado de Señales",
+              "code": "25.86",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.67"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Redes Neuronales II",
+              "code": "25.87",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.45"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Comunicación Estratégica",
+              "code": "94.42",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Procesamiento de Señales",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electromagnetismo",
+                    "code": "22.21",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transmisión de la Información",
+                    "code": "22.61",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Control",
+                    "code": "22.85",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Lab. de Microprocesadores",
+                    "code": "22.99",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.13",
+                        "93.57",
+                        "22.42"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.32",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Señales Aleatorias",
+                    "code": "22.67",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metodología del Aprendizaje",
+                    "code": "94.24",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Diseño de Equipos Electrónicos  (Anual)",
+                    "code": "22.31",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.99",
+                        "22.85"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Redes Neuronales",
+                    "code": "22.45",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Procesamiento Adaptativo de Señales",
+                    "code": "22.46",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.67",
+                        "22.05"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Procesamiento de Imágenes",
+                    "code": "22.48",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "22.67",
+                        "22.05"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Laboratorio de Dsp_fpga",
+                    "code": "22.49",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.05"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electiva Procesamiento de Señales",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electrónica V",
+                    "code": "22.15",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.99"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica de Potencia",
+                    "code": "22.28",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "22.85",
+                        "22.53"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Procesamiento de Voz",
+                    "code": "22.47",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.46"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Comunicaciones Digitales",
+                    "code": "22.64",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.61",
+                        "22.67"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "23.86",
+                    "credits": "0",
+                    "creditsRequired": "192",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electiva Procesamiento de Señales",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Formación para Emprendedores",
+              "code": "10.09",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Taller de Modelización de Productos",
+              "code": "11.34",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Química II",
+              "code": "12.02",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Neurociencias y Desarrollo Productivo",
+              "code": "16.04",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Microelectrónica",
+              "code": "22.33",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "22.13",
+                  "22.12"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Acústica para Ingenieros",
+              "code": "23.05",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "22.02",
+                  "93.57"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Investigación",
+              "code": "23.12",
+              "credits": "3",
+              "creditsRequired": "180",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Deep Learning",
+              "code": "23.14",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.45"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Realidad Virtual",
+              "code": "23.15",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.18",
+                  "22.08"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Procesamiento Avanzado de Señales",
+              "code": "25.86",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.67"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Redes Neuronales II",
+              "code": "25.87",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.45"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Comunicación Estratégica",
+              "code": "94.42",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Telecomunicaciones",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electromagnetismo",
+                    "code": "22.21",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transmisión de la Información",
+                    "code": "22.61",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Control",
+                    "code": "22.85",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Lab. de Microprocesadores",
+                    "code": "22.99",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.13",
+                        "93.57",
+                        "22.42"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Microondas",
+                    "code": "22.29",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.21"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Señales Aleatorias",
+                    "code": "22.67",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "93.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metodología del Aprendizaje",
+                    "code": "94.24",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Antenas y Radiopropagacion",
+                    "code": "22.22",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.21"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Diseño de Equipos Electrónicos  (Anual)",
+                    "code": "22.31",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.99",
+                        "22.85"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Redes Digitales",
+                    "code": "22.66",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.61",
+                        "22.67"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Formación General II",
+                    "code": "23.10",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.32",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electiva Telecomunicaciones",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electrónica V",
+                    "code": "22.15",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.99"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica de Potencia",
+                    "code": "22.28",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "22.85",
+                        "22.53"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Comunicaciones Digitales",
+                    "code": "22.64",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "22.61",
+                        "22.67"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "23.86",
+                    "credits": "0",
+                    "creditsRequired": "192",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electiva Telecomunicaciones",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Formación para Emprendedores",
+              "code": "10.09",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Taller de Modelización de Productos",
+              "code": "11.34",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Química II",
+              "code": "12.02",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Neurociencias y Desarrollo Productivo",
+              "code": "16.04",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Microelectrónica",
+              "code": "22.33",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "22.13",
+                  "22.12"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Laboratorio de Dsp_fpga",
+              "code": "22.49",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "22.05"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Acústica para Ingenieros",
+              "code": "23.05",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "22.02",
+                  "93.57"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Investigación",
+              "code": "23.12",
+              "credits": "3",
+              "creditsRequired": "180",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Deep Learning",
+              "code": "23.14",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.45"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Realidad Virtual",
+              "code": "23.15",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.18",
+                  "22.08"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Procesamiento Avanzado de Señales",
+              "code": "25.86",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.67"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Redes Neuronales II",
+              "code": "25.87",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.45"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Comunicación Estratégica",
+              "code": "94.42",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            }
+          ]
+        }
+      }
+    ]
+  }
+}

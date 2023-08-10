@@ -1,0 +1,2373 @@
+{
+  "careerplan": {
+    "name": "M17 Agosto",
+    "career": "M",
+    "degreeLevel": "GRADUATE",
+    "since": "2017-02-18T00:00:00-03:00",
+    "section": [
+      {
+        "name": "Ciclo Básico",
+        "terms": {
+          "term": [
+            {
+              "year": "1",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Química I",
+                    "code": "12.01",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Representación",
+                    "code": "31.08",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática I",
+                    "code": "93.17",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Álgebra Lineal",
+                    "code": "93.18",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Formación General I",
+                    "code": "94.21",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "1",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Química II",
+                    "code": "12.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "12.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Informática General",
+                    "code": "71.55",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática II",
+                    "code": "93.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física I",
+                    "code": "93.41",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.17"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metodología del Aprendizaje",
+                    "code": "94.24",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Diseño Mecánico",
+                    "code": "31.20",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "12.02",
+                        "93.41",
+                        "31.08"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Introducción a la Programación",
+                    "code": "71.57",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "71.55"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática III",
+                    "code": "93.03",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física II",
+                    "code": "93.42",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Manufactura",
+                    "code": "30.05",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.20"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estática",
+                    "code": "31.34",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física III",
+                    "code": "93.43",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecánica General",
+                    "code": "93.51",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática IV",
+                    "code": "93.65",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "30.05"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrotecnia",
+                    "code": "21.08",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.43"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Ensayos de Materiales",
+                    "code": "31.16",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.34"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Termodinámica",
+                    "code": "31.21",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.42"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática V",
+                    "code": "93.38",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.65"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física IV",
+                    "code": "93.44",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.42",
+                        "93.43"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electrónica General",
+                    "code": "23.06",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "21.08"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecánica de Fluidos",
+                    "code": "31.26",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "31.21",
+                        "93.38"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Resistencia de Materiales",
+                    "code": "31.35",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.38",
+                        "31.34"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Probabilidad y Estadística",
+                    "code": "93.22",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Métodos Numéricos",
+                    "code": "93.66",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "71.57",
+                        "93.03"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés I",
+                    "code": "94.51",
+                    "credits": "0",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Ciclo Profesional - Orientaciones",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "section",
+              "name": "Electivas por Area",
+              "credits": "87",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Focalización  Mecatrónica",
+              "credits": "87",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Focalización Automotriz",
+              "credits": "87",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Focalización Materiales",
+              "credits": "87",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Electivas por Area",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación y Control Industrial",
+                    "code": "22.73",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "23.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos Finitos I",
+                    "code": "30.07",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecanismos",
+                    "code": "31.33",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.51",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transferencia de Calor",
+                    "code": "31.37",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Motores de Combustión Interna",
+                    "credits": "4",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metalurgia Física I",
+                    "code": "30.24",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": "31.16"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos de Máquinas",
+                    "code": "31.04",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "31.35"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Turbomáquinas",
+                    "code": "31.38",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "31.21",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.31",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Proyecto Mecánico  (Anual)",
+                    "code": "31.40",
+                    "credits": "6",
+                    "creditsRequired": "168",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Hidráulica, Neumática y PLC",
+                    "code": "31.66",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.04",
+                        "22.73",
+                        "31.26"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Procesos de Manufactura I",
+                    "code": "30.08",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "30.05",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "30.86",
+                    "credits": "0",
+                    "creditsRequired": "170",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Area Formación General",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electivas (12 de un área, 9 de otra área y 7 de cualquier área)",
+                    "credits": "26",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Area Formación General",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Formación para Emprendedores",
+              "code": "10.09",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Teoría de la Decisión",
+              "code": "11.73",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "11.15"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Formación para Emprendedores",
+              "code": "94.10",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Formación General III",
+              "code": "94.23",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "11.15"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Filosofía",
+              "code": "94.61",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Ética en los Negocios",
+              "code": "94.62",
+              "credits": "3",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Electivas (12 de un área, 9 de otra área y 7 de cualquier área)",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "section",
+              "name": "Area Ambiental",
+              "credits": "16",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Automotriz",
+              "credits": "27",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Biomecánica",
+              "credits": "21",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Energía",
+              "credits": "24",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Gerenciamiento de Proyectos",
+              "credits": "9",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Instalaciones",
+              "credits": "21",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Materiales",
+              "credits": "24",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecatrónica",
+              "credits": "15",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecánica Avanzada",
+              "credits": "15",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecánica Computacional",
+              "credits": "12",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Naval",
+              "credits": "30",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Ambiental",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Residuos sólidos y residuos peligrosos",
+              "code": "12.28",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "12.84"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Ingeniería Ambiental",
+              "code": "12.84",
+              "credits": "4",
+              "dependencies": {
+                "dependency": [
+                  "12.02",
+                  "31.26"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Tratamiento de Efluentes",
+              "code": "12.87",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "12.84"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Energías Alternativas",
+              "code": "21.73",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "21.08"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Transporte Sustentable A",
+              "code": "30.30",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "21.08"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Transporte Sustentable B",
+              "code": "30.31",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "21.08"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Automotriz",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Motores de Combustión Interna",
+              "code": "30.09",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "31.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Sistemas Mecatrónicos del Automóvil",
+              "code": "30.18",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "31.04",
+                  "22.73",
+                  "30.09"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Dinámica del Autómovil",
+              "code": "30.19",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "31.04"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Dinámica del Autómovil Avanzada",
+              "code": "30.20",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.19"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Ciclos Reales en Motores de Combustión Interna",
+              "code": "30.21",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "30.09",
+                  "31.37"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Proceso de Combustión en Motores de Combustión Interna",
+              "code": "30.22",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Estructuras Automotrices",
+              "code": "31.84",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.07"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Transmisiones Automotrices",
+              "code": "31.85",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "31.04",
+                  "30.09"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Biomecánica",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Biología Molecular y Celular",
+              "code": "16.01",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "12.01"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Histología y Anatomía",
+              "code": "16.02",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "16.37",
+                  "16.01"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Biología para Ingenieros",
+              "code": "16.37",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "12.01"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Fisiología Cuantitativa",
+              "code": "16.42",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "16.37",
+                  "22.73",
+                  "16.01"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Energía",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Introducción a la Ingeniería Nuclear",
+              "code": "12.94",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "12.02",
+                  "93.44"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Eficiencia Energética",
+              "code": "21.45",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Energías Alternativas",
+              "code": "21.73",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "21.08"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Motores de Combustión Interna",
+              "code": "30.09",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "31.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Ciclos Reales en Motores de Combustión Interna",
+              "code": "30.21",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "30.09",
+                  "31.37"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Proceso de Combustión en Motores de Combustión Interna",
+              "code": "30.22",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.21"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Gerenciamiento de Proyectos",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Gestión de Proyectos",
+              "code": "11.84",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "11.15",
+                  "61.23"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Costos Industriales",
+              "code": "61.19",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "11.15"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Presupuesto y Control",
+              "code": "61.20",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "61.19"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Instalaciones",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Instalaciones Eléctricas",
+              "code": "21.41",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "21.08"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Mantenimiento Industrial",
+              "code": "30.23",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "11.15",
+                  "31.04"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Instalaciones Industriales",
+              "code": "31.68",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "31.34"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Aire Acondicionado y Refrigeración",
+              "code": "31.73",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "31.21",
+                  "31.37"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Materiales",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Físico-Química de Superficies",
+              "code": "12.37",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "12.02"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción al Proceso de Fabricación de Aceros",
+              "code": "12.46",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "31.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Fractomecánica",
+              "code": "30.10",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "30.24",
+                  "31.35"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Materiales Poliméricos",
+              "code": "31.30",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "12.02"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Procesos de Manufactura II",
+              "code": "31.65",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "30.05",
+                  "31.30",
+                  "30.24"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Integridad Estructural",
+              "code": "31.90",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "31.16",
+                  "31.35"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Tecnología de Materiales Compuestos",
+              "code": "31.94",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "31.35"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Física y Mecánica de Aceros",
+              "code": "31.95",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.24"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Corrosión y Degradación de Materiales",
+              "code": "31.97",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "31.30",
+                  "30.24"
+                ]
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Mecatrónica",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Microprocesadores y Control",
+              "code": "22.57",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "22.73"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Automación Industrial",
+              "code": "22.90",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "22.73"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Control Discreto",
+              "code": "22.94",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "22.57"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Electrónica Industrial",
+              "code": "23.07",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.73"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Control Avanzado",
+              "code": "23.08",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.73"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Sistemas Mecatrónicos",
+              "code": "31.82",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "22.57"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Mecánica Avanzada",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Fractomecánica",
+              "code": "30.10",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "30.24",
+                  "31.35"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Diseño Mecánico Avanzado",
+              "code": "30.12",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "31.33",
+                  "31.04",
+                  "31.92"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Integridad Estructural",
+              "code": "31.90",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "31.16",
+                  "31.35"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Elementos Finitos II",
+              "code": "31.92",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.07"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Mecánica Computacional",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Diseño Mecánico Avanzado",
+              "code": "30.12",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "31.33",
+                  "31.04",
+                  "31.92"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Mecánica de Fluidos Computacional",
+              "code": "30.14",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "31.37"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Elementos Finitos II",
+              "code": "31.92",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.07"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Area Naval",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Construcción Naval",
+              "code": "32.54",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "32.66",
+                  "31.35"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Estructura de Buques",
+              "code": "32.55",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "30.07"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Alistamiento Naval",
+              "code": "32.56",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "31.21",
+                  "32.66",
+                  "31.26"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Hidrostática y Estabilidad",
+              "code": "32.66",
+              "credits": "6",
+              "dependencies": {
+                "dependency": [
+                  "93.02",
+                  "93.03",
+                  "93.41",
+                  "31.08"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Resistencia y Propulsión",
+              "code": "32.67",
+              "credits": "5",
+              "dependencies": {
+                "dependency": "32.66"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Motores de Combustión Interna",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Motores de Combustión Interna",
+              "code": "30.06",
+              "credits": "4",
+              "dependencies": {
+                "dependency": "31.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Motores de Combustión Interna",
+              "code": "30.09",
+              "credits": "6",
+              "dependencies": {
+                "dependency": "31.21"
+              }
+            }
+          ]
+        }
+      },
+      {
+        "name": "Focalización  Mecatrónica",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación y Control Industrial",
+                    "code": "22.73",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "23.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos Finitos I",
+                    "code": "30.07",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecanismos",
+                    "code": "31.33",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.51",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transferencia de Calor",
+                    "code": "31.37",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.31",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "section",
+                    "name": "Motores de Combustión Interna",
+                    "credits": "4",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Microprocesadores y Control",
+                    "code": "22.57",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.73"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metalurgia Física I",
+                    "code": "30.24",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": "31.16"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos de Máquinas",
+                    "code": "31.04",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "31.35"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Turbomáquinas",
+                    "code": "31.38",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "31.21",
+                        "31.26"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Automación Industrial",
+                    "code": "22.90",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "22.73"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Proyecto Mecatrónico (Anual)",
+                    "code": "31.58",
+                    "credits": "6",
+                    "creditsRequired": "168",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Hidráulica, Neumática y PLC",
+                    "code": "31.66",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.04",
+                        "22.73",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Mecatrónicos",
+                    "code": "31.82",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.57"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Electrónica Industrial",
+                    "code": "23.07",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "22.73"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Procesos de Manufactura I",
+                    "code": "30.08",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "30.05",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "30.86",
+                    "credits": "0",
+                    "creditsRequired": "170",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Area Formación General",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electivas de cualquier Área",
+                    "credits": "8",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electivas de cualquier Área",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "section",
+              "name": "Area Ambiental",
+              "credits": "16",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Automotriz",
+              "credits": "27",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Biomecánica",
+              "credits": "21",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Energía",
+              "credits": "24",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Gerenciamiento de Proyectos",
+              "credits": "9",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Instalaciones",
+              "credits": "21",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Materiales",
+              "credits": "24",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecatrónica",
+              "credits": "15",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecánica Avanzada",
+              "credits": "15",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecánica Computacional",
+              "credits": "12",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Naval",
+              "credits": "30",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Focalización Automotriz",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación y Control Industrial",
+                    "code": "22.73",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "23.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos Finitos I",
+                    "code": "30.07",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Motores de Combustión Interna",
+                    "code": "30.09",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "31.21"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecanismos",
+                    "code": "31.33",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.51",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transferencia de Calor",
+                    "code": "31.37",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Ciclos Reales en Motores de Combustión Interna",
+                    "code": "30.21",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "30.09",
+                        "31.37"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metalurgia Física I",
+                    "code": "30.24",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": "31.16"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos de Máquinas",
+                    "code": "31.04",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "31.35"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Turbomáquinas",
+                    "code": "31.38",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "31.21",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.31",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Introducción a la Dinámica del Autómovil",
+                    "code": "30.19",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.04"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Hidráulica, Neumática y PLC",
+                    "code": "31.66",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.04",
+                        "22.73",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transmisiones Automotrices",
+                    "code": "31.85",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.04",
+                        "30.09"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Proyecto Automotor  (Anual)",
+                    "code": "31.88",
+                    "credits": "6",
+                    "creditsRequired": "168",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Procesos de Manufactura I",
+                    "code": "30.08",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "30.05",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas Mecatrónicos del Automóvil",
+                    "code": "30.18",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.04",
+                        "22.73",
+                        "30.09"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "30.86",
+                    "credits": "0",
+                    "creditsRequired": "170",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estructuras Automotrices",
+                    "code": "31.84",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "30.07"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Area Formación General",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electivas de cualquier Area",
+                    "credits": "9",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electivas de cualquier Area",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "section",
+              "name": "Area Ambiental",
+              "credits": "16",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Automotriz",
+              "credits": "27",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Biomecánica",
+              "credits": "21",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Energía",
+              "credits": "24",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Gerenciamiento de Proyectos",
+              "credits": "9",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Instalaciones",
+              "credits": "21",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Materiales",
+              "credits": "24",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecatrónica",
+              "credits": "15",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecánica Avanzada",
+              "credits": "15",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Mecánica Computacional",
+              "credits": "12",
+              "dependencies": null
+            },
+            {
+              "type": "section",
+              "name": "Area Naval",
+              "credits": "30",
+              "dependencies": null
+            }
+          ]
+        }
+      },
+      {
+        "name": "Focalización Materiales",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación y Control Industrial",
+                    "code": "22.73",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "23.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos Finitos I",
+                    "code": "30.07",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Materiales Poliméricos",
+                    "code": "31.30",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "12.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Mecanismos",
+                    "code": "31.33",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.51",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Transferencia de Calor",
+                    "code": "31.37",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.66",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Motores de Combustión Interna",
+                    "credits": "4",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.22"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metalurgia Física I",
+                    "code": "30.24",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": "31.16"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Elementos de Máquinas",
+                    "code": "31.04",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "31.35"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Turbomáquinas",
+                    "code": "31.38",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "31.21",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.31",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Procesos de Manufactura II",
+                    "code": "31.65",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "30.05",
+                        "31.30",
+                        "30.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Hidráulica, Neumática y PLC",
+                    "code": "31.66",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.04",
+                        "22.73",
+                        "31.26"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Proyecto de Materiales  (Anual)",
+                    "code": "31.83",
+                    "credits": "6",
+                    "creditsRequired": "168",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Tecnología de Materiales Compuestos",
+                    "code": "31.94",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.35"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física y Mecánica de Aceros",
+                    "code": "31.95",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "30.24"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Introducción al Proceso de Fabricación de Aceros",
+                    "code": "12.46",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "31.21"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Procesos de Manufactura I",
+                    "code": "30.08",
+                    "credits": "4",
+                    "dependencies": {
+                      "dependency": [
+                        "30.05",
+                        "31.35"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "30.86",
+                    "credits": "0",
+                    "creditsRequired": "170",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Corrosión y Degradación de Materiales",
+                    "code": "31.97",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "31.30",
+                        "30.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Area Formación General",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electivas de cualquier Área",
+                    "credits": "8",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      }
+    ]
+  }
+}

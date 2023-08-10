@@ -1,0 +1,1085 @@
+{
+  "careerplan": {
+    "name": "Bio-13",
+    "career": "BIO",
+    "degreeLevel": "GRADUATE",
+    "since": "2013-07-29T00:00:00-03:00",
+    "section": [
+      {
+        "name": "Ciclo Básico",
+        "terms": {
+          "term": [
+            {
+              "year": "1",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Química I",
+                    "code": "12.01",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Representación",
+                    "code": "31.08",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática I",
+                    "code": "93.17",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Álgebra Lineal",
+                    "code": "93.18",
+                    "credits": "6",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Formación General I",
+                    "code": "94.21",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "1",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Química II",
+                    "code": "12.45",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "12.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Informática General",
+                    "code": "71.20",
+                    "credits": "3",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática II",
+                    "code": "93.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física I",
+                    "code": "93.41",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.17"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Metodología del Aprendizaje",
+                    "code": "94.24",
+                    "credits": "3",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Biología Molecular y Celular",
+                    "code": "16.01",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "12.45"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Estructura de Datos y Programación",
+                    "code": "71.44",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "71.20"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática III",
+                    "code": "93.03",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.18",
+                        "93.17"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física II",
+                    "code": "93.42",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "2",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Histología y Anatomía",
+                    "code": "16.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "16.01"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Probabilidad y Estadística",
+                    "code": "93.24",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física III",
+                    "code": "93.43",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.03",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática IV",
+                    "code": "93.65",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.02",
+                        "93.03"
+                      ]
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Fisiología",
+                    "code": "16.03",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "16.02"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Biomateriales",
+                    "code": "16.12",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "16.02",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrotecnia",
+                    "code": "21.06",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.43"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Física IV",
+                    "code": "93.44",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.42",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Matemática V",
+                    "code": "93.57",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "93.65"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "3",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Señales y Sistemas",
+                    "code": "16.06",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "21.06"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Biomecánica",
+                    "code": "16.13",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "16.02",
+                        "93.41"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Fisiología Cuantitativa",
+                    "code": "16.14",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "93.57",
+                        "16.03",
+                        "93.43"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Electrónica Analógica y Digital",
+                    "code": "23.02",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "71.44",
+                        "21.06"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Métodos Numéricos",
+                    "code": "93.54",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "71.44",
+                        "93.03"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés I",
+                    "code": "94.51",
+                    "credits": "0",
+                    "dependencies": null
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Ciclo Profesional",
+        "terms": {
+          "term": [
+            {
+              "year": "4",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Procesamiento de Señales Biomédicas",
+                    "code": "16.15",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "16.03",
+                        "16.06"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación Biomédica I",
+                    "code": "16.17",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "16.03",
+                        "23.02"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Biomedicina Estructural y Computacional",
+                    "code": "16.20",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "71.44",
+                        "16.03"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Sistemas de Control",
+                    "code": "23.03",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "16.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Derecho para Ingenieros",
+                    "code": "61.31",
+                    "credits": "3",
+                    "creditsRequired": "144",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "4",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Organización Industrial",
+                    "code": "11.15",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "94.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Procesamiento de Imágenes Biomédicas",
+                    "code": "16.16",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "16.15"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Instrumentación Biomédica II",
+                    "code": "16.18",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "16.17"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Biosensores",
+                    "code": "16.19",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "16.03",
+                        "23.02"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Bioinformática",
+                    "code": "16.21",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": "16.20"
+                    }
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "1",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Informática Médica",
+                    "code": "16.22",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "71.44",
+                        "16.14"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Órganos Artificiales",
+                    "code": "16.23",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "16.12",
+                        "16.14"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Ingeniería de Rehabilitación",
+                    "code": "16.24",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "16.16",
+                        "16.18"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Proyecto Final de Carrera (Anual)",
+                    "code": "16.30",
+                    "credits": "6",
+                    "creditsRequired": "180",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Formación General II",
+                    "code": "94.28",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": [
+                        "94.21",
+                        "94.24"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "section",
+                    "name": "Electivas",
+                    "credits": "12",
+                    "dependencies": null
+                  }
+                ]
+              }
+            },
+            {
+              "year": "5",
+              "period": "2",
+              "entries": {
+                "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.06"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Ingeniería Hospitalaria",
+                    "code": "16.33",
+                    "credits": "6",
+                    "dependencies": {
+                      "dependency": [
+                        "16.16",
+                        "16.18"
+                      ]
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Práctica Laboral",
+                    "code": "16.86",
+                    "credits": "0",
+                    "creditsRequired": "170",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Economía para Ingenieros",
+                    "code": "61.23",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Inglés II",
+                    "code": "94.52",
+                    "credits": "0",
+                    "dependencies": {
+                      "dependency": "94.51"
+                    }
+                  }
+                ]
+              }
+            }
+          ]
+        },
+        "withoutTerm": null
+      },
+      {
+        "name": "Electivas",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Creatividad",
+              "code": "10.07",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Energías Renovables",
+              "code": "10.08",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Formación para Emprendedores",
+              "code": "10.09",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Energías Renovables con Aprendizaje Comunitario",
+              "code": "10.13",
+              "credits": "4",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Taller de Modelización de Productos",
+              "code": "11.34",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Gestión de Calidad",
+              "code": "11.76",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "11.15"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Química Orgánica I",
+              "code": "12.32",
+              "credits": "4",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Ingeniería Ambiental",
+              "code": "12.84",
+              "credits": "4",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "La Evolución de la Calidad y la Mejora Continua",
+              "code": "14.24",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Analytics",
+              "code": "14.72",
+              "credits": "1",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Solar Energy",
+              "code": "14.79",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Neurociencias y Desarrollo Productivo",
+              "code": "16.04",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Neurobiología de la toma de decisiones",
+              "code": "16.07",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Seminario Metodología de Investigación",
+              "code": "16.08",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Ventilación Mecánica",
+              "code": "16.09",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Neurociencias",
+              "code": "16.26",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "16.16",
+                  "16.17"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Ingeniería de Tejidos",
+              "code": "16.27",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.17"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Computación de Alto Desempeño y Distribuida",
+              "code": "16.28",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "71.44"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Diseño de Fármacos",
+              "code": "16.29",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Normativa Biomédica y Marco Regulatorio",
+              "code": "16.31",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.17"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Redes Neuronales en Bioingeniería",
+              "code": "16.32",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "16.16",
+                  "16.17"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Bioestadística",
+              "code": "16.43",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.24",
+                  "16.03"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Física Médica",
+              "code": "16.44",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.44",
+                  "16.17"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Edición Genética",
+              "code": "16.45",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Reprogramación celular y epigenética",
+              "code": "16.46",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Biología",
+              "code": "16.49",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Int. a la Ciencia de Datos Aplicados a la Salud",
+              "code": "16.51",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Inmunología Biológica",
+              "code": "16.52",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.03"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Biotecnología aplicada",
+              "code": "16.53",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.03"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Regulaciones Biomédicas",
+              "code": "16.54",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Biología",
+              "code": "16.55",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Bioimpresión 3D",
+              "code": "16.56",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Robótica Bioinspirada",
+              "code": "16.57",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "23.02"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Biomecánica del Deporte",
+              "code": "16.58",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "16.13",
+                  "16.15"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Microfluídica",
+              "code": "16.59",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "93.41"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Neurociencias del Lenguaje: aplicaciones clínicas y tecnológicas",
+              "code": "16.60",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "16.03"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción al Diseño de Fármacos",
+              "code": "16.61",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "16.01"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Neurobiología del Aprendizaje y el Control Motor Orientado al Deporte",
+              "code": "16.81",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.03"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Programación I",
+              "code": "22.07",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Acústica para Ingenieros",
+              "code": "23.05",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.57",
+                  "21.06"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Control Avanzado",
+              "code": "23.08",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "23.03"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Realidad Virtual",
+              "code": "23.15",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "71.44",
+                  "93.18"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Estática y Resistencia de Materiales",
+              "code": "31.19",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Termodinámica",
+              "code": "31.25",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Economía de la Salud",
+              "code": "61.05",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "61.23"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Programación web",
+              "code": "71.38",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "71.44"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Aprendizaje Automático (Machine Learning)",
+              "code": "72.75",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "71.44",
+                  "93.24"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Internet de las Cosas (IoT)",
+              "code": "72.90",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "71.44"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Neurorobótica",
+              "code": "73.61",
+              "credits": "1",
+              "dependencies": {
+                "dependency": [
+                  "93.65",
+                  "93.54"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Fundamentos del desarrollo de software y análisis de datos en Python",
+              "code": "81.75",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "71.44"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Analítica del Deporte",
+              "code": "82.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Análisis Matemático IV",
+              "code": "92.09",
+              "credits": "0",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Formación General III",
+              "code": "94.23",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": {
+                "dependency": "94.21"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Administración de Recursos Humanos",
+              "code": "94.27",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Comunicación Estratégica",
+              "code": "94.42",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": {
+                "dependency": "94.21"
+              }
+            }
+          ]
+        }
+      }
+    ]
+  }
+}
