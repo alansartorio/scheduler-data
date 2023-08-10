@@ -8,15 +8,16 @@ on:
 
 jobs:
   scheduled:
+    environment: scraper
     runs-on: ubuntu-latest
     steps:
     - name: Check out this repo
       uses: actions/checkout@v2
     - name: Fetch latest data
       env:
-        API_KEY: ${{ scraper.API_KEY }}
-        PLAN_URL: ${{ scraper.PLAN_URL }}
-        COMMISSIONS_URL: ${{ scraper.COMMISSIONS_URL }}
+        API_KEY: ${{ secrets.API_KEY }}
+        PLAN_URL: ${{ secrets.PLAN_URL }}
+        COMMISSIONS_URL: ${{ secrets.COMMISSIONS_URL }}
       run: .github/scrape.sh
     - name: Commit and push if it changed
       run: |-
