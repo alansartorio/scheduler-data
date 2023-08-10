@@ -1,4 +1,4 @@
 #!/bin/bash
 
-mkdir -p test-files
-touch test-files/test-file.json
+mkdir -p data
+touch data/test-file.json
