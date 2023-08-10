@@ -11,9 +11,10 @@ function scrapePlans() {
 	jq -r 'flatten(1) | .[]' .github/plans.json | while read plan
 	do
 		urlEncoded=$(echo $plan | jq -sRr @uri)
+		fileEncoded=$(printf '%q' "$plan")
 		echo "PLAN: $plan"
 		url=$(PLAN="$urlEncoded" envsubst <<< $PLAN_URL)
-		getJson "$url" > "data/plans/$plan.json"
+		getJson "$url" > "data/plans/$fileEncoded.json"
 	done
 }
 
