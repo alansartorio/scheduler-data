@@ -6817,7 +6817,7 @@
         "enrolledStudents": "17",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "703F",
+          "classRoom": "702F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "14:00",
           "hourTo": "17:00"
@@ -14642,6 +14642,24 @@
           "building": "External",
           "hourFrom": "20:00",
           "hourTo": "21:00"
+        }
+      },
+      {
+        "subjectCode": "73.60",
+        "subjectName": "Introducción a la Robótica Empresarial",
+        "subjectType": "SEMINARY",
+        "courseStart": "01/09/23",
+        "courseEnd": "29/09/23",
+        "commissionName": "A",
+        "commissionId": "38275",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "14:00",
+          "hourTo": "17:00"
         }
       }
     ]
