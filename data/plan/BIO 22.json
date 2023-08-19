@@ -619,7 +619,10 @@
               "code": "16.23",
               "credits": "6",
               "dependencies": {
-                "dependency": "16.02"
+                "dependency": [
+                  "16.14",
+                  "16.64"
+                ]
               }
             },
             {
