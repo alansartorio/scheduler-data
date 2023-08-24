@@ -4797,7 +4797,7 @@
         "enrolledStudents": "8",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "804F",
+          "classRoom": "502F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -7278,7 +7278,7 @@
         "commissionName": "A",
         "commissionId": "37479",
         "quota": "10",
-        "enrolledStudents": "5",
+        "enrolledStudents": "6",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -14653,7 +14653,7 @@
         "commissionName": "A",
         "commissionId": "38275",
         "quota": "0",
-        "enrolledStudents": "7",
+        "enrolledStudents": "9",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Presencial",
