@@ -3893,15 +3893,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "101T",
-            "building": "SDT",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
-          },
-          {
-            "day": "WEDNESDAY",
-            "classRoom": "102T",
-            "building": "SDT",
+            "classRoom": "004R",
+            "building": "Sede Rectorado",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           },
@@ -14653,7 +14646,7 @@
         "commissionName": "A",
         "commissionId": "38275",
         "quota": "0",
-        "enrolledStudents": "9",
+        "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Presencial",
