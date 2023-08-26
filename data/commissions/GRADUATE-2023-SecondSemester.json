@@ -10573,7 +10573,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "S901",
+            "classRoom": "603F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "18:30",
             "hourTo": "21:30"
@@ -14646,7 +14646,7 @@
         "commissionName": "A",
         "commissionId": "38275",
         "quota": "0",
-        "enrolledStudents": "10",
+        "enrolledStudents": "11",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Presencial",
