@@ -13989,8 +13989,8 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "S102",
-            "building": "Sede Rectorado",
+            "classRoom": "101T",
+            "building": "SDT",
             "hourFrom": "18:00",
             "hourTo": "22:00"
           }
@@ -14653,6 +14653,276 @@
           "building": "Sede Distrito Financiero",
           "hourFrom": "14:00",
           "hourTo": "17:00"
+        }
+      },
+      {
+        "subjectCode": "73.61",
+        "subjectName": "Neurorobótica",
+        "subjectType": "SEMINARY",
+        "courseStart": "04/09/23",
+        "courseEnd": "02/10/23",
+        "commissionName": "A",
+        "commissionId": "38306",
+        "quota": "20",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "14:00",
+          "hourTo": "17:00"
+        }
+      },
+      {
+        "subjectCode": "92.09",
+        "subjectName": "Complementos de Análisis Matemático IV",
+        "subjectType": "SEMINARY",
+        "courseStart": "15/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38307",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
+      },
+      {
+        "subjectCode": "16.60",
+        "subjectName": "Neurociencias del Lenguaje: aplicaciones clínicas y tecnológicas",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38308",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
+      },
+      {
+        "subjectCode": "14.03",
+        "subjectName": "Gestión de la Innovación",
+        "subjectType": "SEMINARY",
+        "courseStart": "13/09/23",
+        "courseEnd": "04/10/23",
+        "commissionName": "A",
+        "commissionId": "38309",
+        "quota": "15",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "14.24",
+        "subjectName": "La Evolución de la Calidad y la Mejora Continua",
+        "subjectType": "SEMINARY",
+        "courseStart": "12/09/23",
+        "courseEnd": "03/10/23",
+        "commissionName": "A",
+        "commissionId": "38310",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "14.97",
+        "subjectName": "Diseño Circular: Sustentabilidad e Innovación en la Cadena de Valor.",
+        "subjectType": "SEMINARY",
+        "courseStart": "14/09/23",
+        "courseEnd": "05/10/23",
+        "commissionName": "A",
+        "commissionId": "38311",
+        "quota": "15",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "13:00"
+        }
+      },
+      {
+        "subjectCode": "15.06",
+        "subjectName": "Storytelling aplicado a los negocios",
+        "subjectType": "SEMINARY",
+        "courseStart": "12/09/23",
+        "courseEnd": "03/10/23",
+        "commissionName": "A",
+        "commissionId": "38312",
+        "quota": "15",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "15.07",
+        "subjectName": "Conceptos de Minería para Ing. Industriales",
+        "subjectType": "SEMINARY",
+        "courseStart": "13/09/23",
+        "courseEnd": "04/10/23",
+        "commissionName": "A",
+        "commissionId": "38313",
+        "quota": "15",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "14:00",
+          "hourTo": "17:00"
+        }
+      },
+      {
+        "subjectCode": "15.09",
+        "subjectName": "Agile, Lean y Lean Six Sigma",
+        "subjectType": "SEMINARY",
+        "courseStart": "15/09/23",
+        "courseEnd": "06/10/23",
+        "commissionName": "A",
+        "commissionId": "38314",
+        "quota": "15",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "61.34",
+        "subjectName": "Valuación de Empresas",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38315",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
+      },
+      {
+        "subjectCode": "61.11",
+        "subjectName": "Derecho Laboral y Seguridad Social en la Empresa",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38316",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
+      },
+      {
+        "subjectCode": "81.13",
+        "subjectName": "Futuros Posibles",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38317",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "13:00"
+        }
+      },
+      {
+        "subjectCode": "81.72",
+        "subjectName": "Introducción a la realidad virtual",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38318",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual asincrónico",
+          "building": "External",
+          "hourFrom": "19:30",
+          "hourTo": "20:30"
+        }
+      },
+      {
+        "subjectCode": "81.73",
+        "subjectName": "Introducción a la IOT",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38319",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual asincrónico",
+          "building": "External",
+          "hourFrom": "16:00",
+          "hourTo": "17:00"
+        }
+      },
+      {
+        "subjectCode": "81.74",
+        "subjectName": "Introducción a la realidad aumentada",
+        "subjectType": "SEMINARY",
+        "courseStart": "11/09/23",
+        "courseEnd": "20/10/23",
+        "commissionName": "A",
+        "commissionId": "38320",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual asincrónico",
+          "building": "External",
+          "hourFrom": "21:00",
+          "hourTo": "22:00"
         }
       }
     ]
