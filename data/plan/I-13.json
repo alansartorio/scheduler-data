@@ -2160,6 +2160,15 @@
             },
             {
               "type": "subject",
+              "name": "Valuación de Empresas",
+              "code": "61.34",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "61.50"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Data Analytics",
               "code": "72.93",
               "credits": "2",
