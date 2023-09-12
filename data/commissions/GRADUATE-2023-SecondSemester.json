@@ -14682,7 +14682,7 @@
         "commissionName": "A",
         "commissionId": "38307",
         "quota": "0",
-        "enrolledStudents": "29",
+        "enrolledStudents": "30",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual sincrónico",
@@ -14710,24 +14710,6 @@
         }
       },
       {
-        "subjectCode": "14.03",
-        "subjectName": "Gestión de la Innovación",
-        "subjectType": "SEMINARY",
-        "courseStart": "13/09/23",
-        "courseEnd": "04/10/23",
-        "commissionName": "A",
-        "commissionId": "38309",
-        "quota": "15",
-        "enrolledStudents": "2",
-        "courseCommissionTimes": {
-          "day": "WEDNESDAY",
-          "classRoom": "Virtual sincrónico",
-          "building": "External",
-          "hourFrom": "09:00",
-          "hourTo": "12:00"
-        }
-      },
-      {
         "subjectCode": "14.24",
         "subjectName": "La Evolución de la Calidad y la Mejora Continua",
         "subjectType": "SEMINARY",
@@ -14746,24 +14728,6 @@
         }
       },
       {
-        "subjectCode": "14.97",
-        "subjectName": "Diseño Circular: Sustentabilidad e Innovación en la Cadena de Valor.",
-        "subjectType": "SEMINARY",
-        "courseStart": "14/09/23",
-        "courseEnd": "05/10/23",
-        "commissionName": "A",
-        "commissionId": "38311",
-        "quota": "15",
-        "enrolledStudents": "1",
-        "courseCommissionTimes": {
-          "day": "THURSDAY",
-          "classRoom": "Virtual sincrónico",
-          "building": "External",
-          "hourFrom": "10:00",
-          "hourTo": "13:00"
-        }
-      },
-      {
         "subjectCode": "15.06",
         "subjectName": "Storytelling aplicado a los negocios",
         "subjectType": "SEMINARY",
@@ -14779,24 +14743,6 @@
           "building": "External",
           "hourFrom": "09:00",
           "hourTo": "12:00"
-        }
-      },
-      {
-        "subjectCode": "15.07",
-        "subjectName": "Conceptos de Minería para Ing. Industriales",
-        "subjectType": "SEMINARY",
-        "courseStart": "13/09/23",
-        "courseEnd": "04/10/23",
-        "commissionName": "A",
-        "commissionId": "38313",
-        "quota": "15",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": {
-          "day": "WEDNESDAY",
-          "classRoom": "Virtual sincrónico",
-          "building": "External",
-          "hourFrom": "14:00",
-          "hourTo": "17:00"
         }
       },
       {
@@ -14880,7 +14826,7 @@
         "commissionName": "A",
         "commissionId": "38318",
         "quota": "0",
-        "enrolledStudents": "22",
+        "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
