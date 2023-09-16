@@ -14682,7 +14682,7 @@
         "commissionName": "A",
         "commissionId": "38307",
         "quota": "0",
-        "enrolledStudents": "30",
+        "enrolledStudents": "31",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual sincrónico",
@@ -14772,7 +14772,7 @@
         "commissionName": "A",
         "commissionId": "38315",
         "quota": "0",
-        "enrolledStudents": "13",
+        "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual sincrónico",
@@ -14811,8 +14811,8 @@
         "enrolledStudents": "8",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "Presencial",
-          "building": "External",
+          "classRoom": "502F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "10:00",
           "hourTo": "13:00"
         }
