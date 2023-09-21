@@ -720,7 +720,7 @@
         "commissionName": "M",
         "commissionId": "37153",
         "quota": "24",
-        "enrolledStudents": "16",
+        "enrolledStudents": "15",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -11343,8 +11343,8 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "S101T",
-          "building": "SDT",
+          "classRoom": "S901",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
