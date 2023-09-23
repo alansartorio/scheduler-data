@@ -1069,7 +1069,7 @@
         "commissionName": "B",
         "commissionId": "37168",
         "quota": "32",
-        "enrolledStudents": "31",
+        "enrolledStudents": "30",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -1565,7 +1565,7 @@
         "commissionName": "A",
         "commissionId": "37669",
         "quota": "42",
-        "enrolledStudents": "38",
+        "enrolledStudents": "37",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "901F",
@@ -1834,7 +1834,7 @@
         "commissionName": "Inglés",
         "commissionId": "37724",
         "quota": "36",
-        "enrolledStudents": "36",
+        "enrolledStudents": "35",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Híbrida",
