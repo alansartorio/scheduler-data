@@ -3133,7 +3133,7 @@
         "commissionName": "C",
         "commissionId": "37736",
         "quota": "42",
-        "enrolledStudents": "41",
+        "enrolledStudents": "40",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -7951,7 +7951,7 @@
         "commissionName": "B",
         "commissionId": "37588",
         "quota": "72",
-        "enrolledStudents": "73",
+        "enrolledStudents": "72",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
@@ -9947,7 +9947,7 @@
         "commissionName": "A",
         "commissionId": "37872",
         "quota": "40",
-        "enrolledStudents": "39",
+        "enrolledStudents": "38",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -11535,7 +11535,7 @@
         "commissionName": "E",
         "commissionId": "38025",
         "quota": "40",
-        "enrolledStudents": "40",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -13030,7 +13030,7 @@
         "commissionName": "H",
         "commissionId": "37980",
         "quota": "49",
-        "enrolledStudents": "47",
+        "enrolledStudents": "46",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -14879,8 +14879,8 @@
         "courseEnd": "31/10/23",
         "commissionName": "S",
         "commissionId": "38340",
-        "quota": "0",
-        "enrolledStudents": "15",
+        "quota": "16",
+        "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Virtual",
@@ -14995,6 +14995,114 @@
           "building": "External",
           "hourFrom": "17:00",
           "hourTo": "20:00"
+        }
+      },
+      {
+        "subjectCode": "14.03",
+        "subjectName": "Gestión de la Innovación",
+        "subjectType": "SEMINARY",
+        "courseStart": "24/10/23",
+        "courseEnd": "14/11/23",
+        "commissionName": "A",
+        "commissionId": "38348",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "14.14",
+        "subjectName": "Introducción a la Consultoría",
+        "subjectType": "SEMINARY",
+        "courseStart": "26/10/23",
+        "courseEnd": "23/11/23",
+        "commissionName": "A",
+        "commissionId": "38349",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "19:00",
+          "hourTo": "21:00"
+        }
+      },
+      {
+        "subjectCode": "14.97",
+        "subjectName": "Diseño Circular: Sustentabilidad e Innovación en la Cadena de Valor.",
+        "subjectType": "SEMINARY",
+        "courseStart": "26/10/23",
+        "courseEnd": "16/11/23",
+        "commissionName": "A",
+        "commissionId": "38350",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "13:00"
+        }
+      },
+      {
+        "subjectCode": "15.06",
+        "subjectName": "Storytelling aplicado a los negocios",
+        "subjectType": "SEMINARY",
+        "courseStart": "25/10/23",
+        "courseEnd": "15/11/23",
+        "commissionName": "A",
+        "commissionId": "38351",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "15.07",
+        "subjectName": "Conceptos de Minería para Ing. Industriales",
+        "subjectType": "SEMINARY",
+        "courseStart": "25/10/23",
+        "courseEnd": "22/11/23",
+        "commissionName": "A",
+        "commissionId": "38352",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "14:00",
+          "hourTo": "17:00"
+        }
+      },
+      {
+        "subjectCode": "15.05",
+        "subjectName": "Políticas y Sustentabilidad",
+        "subjectType": "SEMINARY",
+        "courseStart": "31/10/23",
+        "courseEnd": "28/11/23",
+        "commissionName": "A",
+        "commissionId": "38353",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual sincrónico",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "12:00"
         }
       }
     ]
