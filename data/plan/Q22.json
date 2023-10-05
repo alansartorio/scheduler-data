@@ -912,6 +912,15 @@
             },
             {
               "type": "subject",
+              "name": "Nanotecnología",
+              "code": "17.16",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "12.20"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Mecánica de Fluidos Computacional",
               "code": "30.14",
               "credits": "3",

@@ -3484,7 +3484,7 @@
         "commissionName": "A",
         "commissionId": "37748",
         "quota": "45",
-        "enrolledStudents": "34",
+        "enrolledStudents": "33",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Híbrido",
@@ -3502,7 +3502,7 @@
         "commissionName": "B",
         "commissionId": "37749",
         "quota": "8",
-        "enrolledStudents": "6",
+        "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "400F",
