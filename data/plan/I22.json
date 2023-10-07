@@ -695,6 +695,15 @@
             },
             {
               "type": "subject",
+              "name": "Aplicaciones avanzadas de estadística",
+              "code": "15.11",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "11.67"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Neurociencias y Desarrollo Productivo",
               "code": "16.04",
               "credits": "3",
