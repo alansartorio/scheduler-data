@@ -634,6 +634,15 @@
             },
             {
               "type": "subject",
+              "name": "Ingeniería de Tejidos",
+              "code": "16.27",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.01"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Diseño de Fármacos",
               "code": "16.29",
               "credits": "3",
