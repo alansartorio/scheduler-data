@@ -14945,7 +14945,7 @@
         "commissionName": "A",
         "commissionId": "38343",
         "quota": "0",
-        "enrolledStudents": "3",
+        "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
@@ -14963,7 +14963,7 @@
         "commissionName": "A",
         "commissionId": "38344",
         "quota": "0",
-        "enrolledStudents": "5",
+        "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
@@ -14981,7 +14981,7 @@
         "commissionName": "A",
         "commissionId": "38345",
         "quota": "0",
-        "enrolledStudents": "16",
+        "enrolledStudents": "17",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
@@ -14999,7 +14999,7 @@
         "commissionName": "A",
         "commissionId": "38346",
         "quota": "0",
-        "enrolledStudents": "9",
+        "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual sincrónico",
@@ -15017,7 +15017,7 @@
         "commissionName": "A",
         "commissionId": "38348",
         "quota": "0",
-        "enrolledStudents": "2",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Virtual sincrónico",
@@ -15053,7 +15053,7 @@
         "commissionName": "A",
         "commissionId": "38350",
         "quota": "0",
-        "enrolledStudents": "2",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual sincrónico",
@@ -15071,7 +15071,7 @@
         "commissionName": "A",
         "commissionId": "38351",
         "quota": "0",
-        "enrolledStudents": "5",
+        "enrolledStudents": "6",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Virtual sincrónico",
@@ -15115,6 +15115,17 @@
           "hourFrom": "10:00",
           "hourTo": "12:00"
         }
+      },
+      {
+        "subjectCode": "15.11",
+        "subjectName": "Aplicaciones avanzadas de estadística",
+        "subjectType": "SEMINARY",
+        "courseStart": "24/10/23",
+        "courseEnd": "21/11/23",
+        "commissionName": "A",
+        "commissionId": "38360",
+        "quota": "15",
+        "enrolledStudents": "0"
       }
     ]
   }
