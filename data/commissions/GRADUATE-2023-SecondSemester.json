@@ -1035,7 +1035,7 @@
         "commissionName": "A",
         "commissionId": "37167",
         "quota": "18",
-        "enrolledStudents": "17",
+        "enrolledStudents": "16",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -1394,7 +1394,7 @@
         "commissionName": "A",
         "commissionId": "37183",
         "quota": "42",
-        "enrolledStudents": "33",
+        "enrolledStudents": "32",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "701F",
@@ -2208,7 +2208,7 @@
         "commissionName": "Inglés",
         "commissionId": "37731",
         "quota": "40",
-        "enrolledStudents": "32",
+        "enrolledStudents": "31",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "201R",
@@ -7271,7 +7271,7 @@
         "commissionName": "A",
         "commissionId": "37479",
         "quota": "10",
-        "enrolledStudents": "6",
+        "enrolledStudents": "5",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -14682,7 +14682,7 @@
         "commissionName": "A",
         "commissionId": "38307",
         "quota": "0",
-        "enrolledStudents": "33",
+        "enrolledStudents": "34",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual sincrónico",
@@ -14945,7 +14945,7 @@
         "commissionName": "A",
         "commissionId": "38343",
         "quota": "0",
-        "enrolledStudents": "5",
+        "enrolledStudents": "6",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
@@ -14981,7 +14981,7 @@
         "commissionName": "A",
         "commissionId": "38345",
         "quota": "0",
-        "enrolledStudents": "20",
+        "enrolledStudents": "22",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
@@ -14999,7 +14999,7 @@
         "commissionName": "A",
         "commissionId": "38346",
         "quota": "0",
-        "enrolledStudents": "11",
+        "enrolledStudents": "12",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual sincrónico",
@@ -15035,7 +15035,7 @@
         "commissionName": "A",
         "commissionId": "38349",
         "quota": "0",
-        "enrolledStudents": "4",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual sincrónico",
@@ -15053,7 +15053,7 @@
         "commissionName": "A",
         "commissionId": "38350",
         "quota": "0",
-        "enrolledStudents": "6",
+        "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual sincrónico",
@@ -15081,42 +15081,6 @@
         }
       },
       {
-        "subjectCode": "15.07",
-        "subjectName": "Conceptos de Minería para Ing. Industriales",
-        "subjectType": "SEMINARY",
-        "courseStart": "25/10/23",
-        "courseEnd": "22/11/23",
-        "commissionName": "A",
-        "commissionId": "38352",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": {
-          "day": "WEDNESDAY",
-          "classRoom": "Virtual sincrónico",
-          "building": "External",
-          "hourFrom": "14:00",
-          "hourTo": "17:00"
-        }
-      },
-      {
-        "subjectCode": "15.05",
-        "subjectName": "Políticas y Sustentabilidad",
-        "subjectType": "SEMINARY",
-        "courseStart": "31/10/23",
-        "courseEnd": "28/11/23",
-        "commissionName": "A",
-        "commissionId": "38353",
-        "quota": "0",
-        "enrolledStudents": "1",
-        "courseCommissionTimes": {
-          "day": "TUESDAY",
-          "classRoom": "Virtual sincrónico",
-          "building": "External",
-          "hourFrom": "10:00",
-          "hourTo": "12:00"
-        }
-      },
-      {
         "subjectCode": "15.11",
         "subjectName": "Aplicaciones avanzadas de estadística",
         "subjectType": "SEMINARY",
@@ -15125,7 +15089,14 @@
         "commissionName": "A",
         "commissionId": "38360",
         "quota": "15",
-        "enrolledStudents": "0"
+        "enrolledStudents": "5",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial - SDF",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
       }
     ]
   }
