@@ -2159,6 +2159,14 @@
             },
             {
               "type": "subject",
+              "name": "Derecho Digital",
+              "code": "61.08",
+              "credits": "1",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Derecho Laboral y Seguridad Social en la Empresa",
               "code": "61.11",
               "credits": "1",

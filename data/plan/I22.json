@@ -993,6 +993,14 @@
           "withoutTerm": [
             {
               "type": "subject",
+              "name": "Derecho Digital",
+              "code": "61.08",
+              "credits": "1",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Programación web",
               "code": "71.38",
               "credits": "3",
