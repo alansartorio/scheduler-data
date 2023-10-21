@@ -6069,6 +6069,28 @@
         "commissionId": "38894",
         "quota": "0",
         "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.16",
+        "subjectName": "Metalurgia Física I",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "38896",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.81",
+        "subjectName": "Tecnología de Máquinas",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "K",
+        "commissionId": "38897",
+        "quota": "0",
+        "enrolledStudents": "0"
       }
     ]
   }
