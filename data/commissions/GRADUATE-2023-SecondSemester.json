@@ -5913,7 +5913,7 @@
         "commissionName": "Q",
         "commissionId": "37864",
         "quota": "48",
-        "enrolledStudents": "22",
+        "enrolledStudents": "21",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "201T",
@@ -10226,7 +10226,7 @@
         "commissionName": "A",
         "commissionId": "37878",
         "quota": "24",
-        "enrolledStudents": "16",
+        "enrolledStudents": "15",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -11671,7 +11671,7 @@
         "commissionName": "A",
         "commissionId": "38035",
         "quota": "40",
-        "enrolledStudents": "40",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -12248,7 +12248,7 @@
         "commissionName": "E",
         "commissionId": "37960",
         "quota": "30",
-        "enrolledStudents": "27",
+        "enrolledStudents": "26",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
