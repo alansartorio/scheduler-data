@@ -5475,7 +5475,7 @@
         "commissionName": "S1",
         "commissionId": "37822",
         "quota": "65",
-        "enrolledStudents": "65",
+        "enrolledStudents": "64",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -11058,7 +11058,7 @@
         "commissionName": "S2",
         "commissionId": "37946",
         "quota": "67",
-        "enrolledStudents": "67",
+        "enrolledStudents": "66",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -12452,7 +12452,7 @@
         "commissionName": "S1",
         "commissionId": "37964",
         "quota": "40",
-        "enrolledStudents": "40",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -13222,7 +13222,7 @@
         "commissionName": "S",
         "commissionId": "37986",
         "quota": "42",
-        "enrolledStudents": "42",
+        "enrolledStudents": "41",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
