@@ -1816,7 +1816,7 @@
         "commissionName": "Español",
         "commissionId": "37204",
         "quota": "87",
-        "enrolledStudents": "86",
+        "enrolledStudents": "85",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Híbrida",
@@ -6861,7 +6861,7 @@
         "commissionName": "C",
         "commissionId": "38067",
         "quota": "40",
-        "enrolledStudents": "28",
+        "enrolledStudents": "27",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual",
@@ -7978,7 +7978,7 @@
         "commissionName": "C",
         "commissionId": "37589",
         "quota": "42",
-        "enrolledStudents": "42",
+        "enrolledStudents": "41",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "103R",
@@ -11113,7 +11113,7 @@
         "commissionName": "A",
         "commissionId": "37947",
         "quota": "41",
-        "enrolledStudents": "40",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
