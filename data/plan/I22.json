@@ -747,6 +747,14 @@
             },
             {
               "type": "subject",
+              "name": "Transición Energética y Sustentabilidad",
+              "code": "47.86",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Derecho Laboral y Seguridad Social en la Empresa",
               "code": "61.11",
               "credits": "1",

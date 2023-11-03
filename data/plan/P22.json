@@ -779,6 +779,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Análisis Matemático IV",
+              "code": "92.99",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Formación General III",
               "code": "94.23",
               "credits": "3",
