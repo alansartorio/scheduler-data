@@ -3133,7 +3133,7 @@
         "commissionName": "C",
         "commissionId": "37736",
         "quota": "42",
-        "enrolledStudents": "40",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -9947,7 +9947,7 @@
         "commissionName": "A",
         "commissionId": "37872",
         "quota": "40",
-        "enrolledStudents": "37",
+        "enrolledStudents": "36",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -10117,7 +10117,7 @@
         "commissionName": "F",
         "commissionId": "37903",
         "quota": "41",
-        "enrolledStudents": "40",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -10445,7 +10445,7 @@
         "commissionName": "H",
         "commissionId": "37899",
         "quota": "40",
-        "enrolledStudents": "31",
+        "enrolledStudents": "30",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual",
@@ -10751,7 +10751,7 @@
         "commissionName": "K1",
         "commissionId": "38225",
         "quota": "24",
-        "enrolledStudents": "21",
+        "enrolledStudents": "20",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "102T",
@@ -11501,7 +11501,7 @@
         "commissionName": "D",
         "commissionId": "38023",
         "quota": "30",
-        "enrolledStudents": "26",
+        "enrolledStudents": "25",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -11705,7 +11705,7 @@
         "commissionName": "B",
         "commissionId": "38037",
         "quota": "30",
-        "enrolledStudents": "29",
+        "enrolledStudents": "28",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -12214,7 +12214,7 @@
         "commissionName": "D",
         "commissionId": "37959",
         "quota": "30",
-        "enrolledStudents": "30",
+        "enrolledStudents": "29",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -12826,7 +12826,7 @@
         "commissionName": "A",
         "commissionId": "37973",
         "quota": "40",
-        "enrolledStudents": "37",
+        "enrolledStudents": "36",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
