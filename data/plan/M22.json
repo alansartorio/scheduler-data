@@ -420,31 +420,10 @@
             },
             {
               "type": "subject",
-              "name": "Complementos de Instrumentación y Control",
-              "code": "23.19",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Finanzas de la Empresa",
               "code": "61.50",
               "credits": "3",
               "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Complementos de Física de la Relatividad",
-              "code": "92.92",
-              "credits": "2",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Complementos de Química",
-              "code": "92.93",
-              "credits": "1",
               "dependencies": null
             },
             {
@@ -961,6 +940,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Diseño Mecánico Avanzado",
               "code": "30.12",
               "credits": "6",
@@ -1348,6 +1334,34 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Métodos Numéricos Avanzados",
               "code": "93.75",
               "credits": "6",
@@ -1701,6 +1715,13 @@
                   "23.18"
                 ]
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -2115,6 +2136,34 @@
               "dependencies": {
                 "dependency": "72.31"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -2486,6 +2535,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Motores de Combustión Interna",
               "code": "30.09",
               "credits": "6",
@@ -2880,6 +2936,34 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Métodos Numéricos Avanzados",
               "code": "93.75",
               "credits": "6",
@@ -3207,6 +3291,13 @@
                   "23.18"
                 ]
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -3647,6 +3738,34 @@
               "dependencies": {
                 "dependency": "72.31"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -4020,6 +4139,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Motores de Combustión Interna",
               "code": "30.09",
               "credits": "6",
@@ -4417,6 +4543,34 @@
               "dependencies": {
                 "dependency": "72.31"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -4802,6 +4956,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Motores de Combustión Interna",
               "code": "30.09",
               "credits": "6",
@@ -5190,6 +5351,34 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Métodos Numéricos Avanzados",
               "code": "93.75",
               "credits": "6",
@@ -5544,6 +5733,13 @@
                   "23.18"
                 ]
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -5960,6 +6156,34 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Métodos Numéricos Avanzados",
               "code": "93.75",
               "credits": "6",
@@ -6270,6 +6494,13 @@
               "dependencies": {
                 "dependency": "22.57"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -6730,6 +6961,34 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Métodos Numéricos Avanzados",
               "code": "93.75",
               "credits": "6",
@@ -7074,6 +7333,13 @@
                   "23.18"
                 ]
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -7497,6 +7763,34 @@
               "dependencies": {
                 "dependency": "72.31"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -7883,6 +8177,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Diseño Mecánico Avanzado",
               "code": "30.12",
               "credits": "6",
@@ -8267,6 +8568,34 @@
               "dependencies": {
                 "dependency": "72.31"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -8674,6 +9003,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Motores de Combustión Interna",
               "code": "30.09",
               "credits": "6",
@@ -9041,6 +9377,34 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Métodos Numéricos Avanzados",
               "code": "93.75",
               "credits": "6",
@@ -9351,6 +9715,13 @@
                   "21.08"
                 ]
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Instrumentación y Control",
+              "code": "23.19",
+              "credits": "3",
+              "dependencies": null
             },
             {
               "type": "subject",
@@ -9808,6 +10179,34 @@
               "dependencies": {
                 "dependency": "72.31"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física",
+              "code": "92.91",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física de la Relatividad",
+              "code": "92.92",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Química",
+              "code": "92.93",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
