@@ -962,6 +962,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Análisis Matemático IV",
+              "code": "92.99",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Metodología del Aprendizaje",
               "code": "94.24",
               "credits": "3",
