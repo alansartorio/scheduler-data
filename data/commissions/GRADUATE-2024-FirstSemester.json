@@ -2724,7 +2724,7 @@
         "commissionName": "A",
         "commissionId": "38584",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "61.19",
@@ -2768,7 +2768,7 @@
         "commissionName": "A",
         "commissionId": "38588",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "4"
       },
       {
         "subjectCode": "61.12",
@@ -2845,7 +2845,7 @@
         "commissionName": "A",
         "commissionId": "38595",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "61.28",
@@ -3021,7 +3021,7 @@
         "commissionName": "ESPAÑOL",
         "commissionId": "38611",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "4"
       },
       {
         "subjectCode": "81.20",
@@ -3043,7 +3043,7 @@
         "commissionName": "A",
         "commissionId": "38613",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "81.23",
@@ -3274,7 +3274,7 @@
         "commissionName": "A",
         "commissionId": "38634",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "94.60",
@@ -3351,7 +3351,7 @@
         "commissionName": "A",
         "commissionId": "38641",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "94.63",
@@ -3439,7 +3439,7 @@
         "commissionName": "A",
         "commissionId": "38649",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "81.03",
@@ -3450,7 +3450,7 @@
         "commissionName": "A",
         "commissionId": "38654",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "81.03",
@@ -3472,7 +3472,7 @@
         "commissionName": "A",
         "commissionId": "38656",
         "quota": "8",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "94.64",
@@ -3549,7 +3549,7 @@
         "commissionName": "A",
         "commissionId": "38664",
         "quota": "0",
-        "enrolledStudents": "6"
+        "enrolledStudents": "9"
       },
       {
         "subjectCode": "94.09",
@@ -3593,7 +3593,7 @@
         "commissionName": "A",
         "commissionId": "38668",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "82.01",
@@ -3648,7 +3648,7 @@
         "commissionName": "A",
         "commissionId": "38673",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "82.06",
@@ -3670,7 +3670,7 @@
         "commissionName": "A",
         "commissionId": "38675",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "3"
       },
       {
         "subjectCode": "82.08",
@@ -3681,7 +3681,7 @@
         "commissionName": "A",
         "commissionId": "38676",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "82.11",
@@ -3747,7 +3747,7 @@
         "commissionName": "A",
         "commissionId": "38682",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "82.15",
@@ -3780,7 +3780,7 @@
         "commissionName": "A",
         "commissionId": "38686",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "6"
       },
       {
         "subjectCode": "61.87",
@@ -3824,7 +3824,7 @@
         "commissionName": "A",
         "commissionId": "38690",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "81.28",
@@ -3901,7 +3901,7 @@
         "commissionName": "A",
         "commissionId": "38697",
         "quota": "0",
-        "enrolledStudents": "5"
+        "enrolledStudents": "8"
       },
       {
         "subjectCode": "81.43",
@@ -3967,7 +3967,7 @@
         "commissionName": "Español",
         "commissionId": "38703",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "4"
       },
       {
         "subjectCode": "81.53",
@@ -4022,7 +4022,7 @@
         "commissionName": "A",
         "commissionId": "38708",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "81.59",
@@ -4033,7 +4033,7 @@
         "commissionName": "A",
         "commissionId": "38709",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "81.68",
@@ -4253,7 +4253,7 @@
         "commissionName": "A",
         "commissionId": "38729",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "10.16",
@@ -4341,7 +4341,7 @@
         "commissionName": "A",
         "commissionId": "38737",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "47.86",
@@ -4407,7 +4407,7 @@
         "commissionName": "A",
         "commissionId": "38743",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "10.02",
@@ -4429,7 +4429,7 @@
         "commissionName": "A",
         "commissionId": "38745",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "10.07",
@@ -4451,7 +4451,7 @@
         "commissionName": "A",
         "commissionId": "38747",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "10.09",
@@ -4484,7 +4484,7 @@
         "commissionName": "A",
         "commissionId": "38750",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "11.02",
@@ -4495,7 +4495,7 @@
         "commissionName": "A",
         "commissionId": "38751",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "11.02",
@@ -4605,7 +4605,7 @@
         "commissionName": "A",
         "commissionId": "38761",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "3"
       },
       {
         "subjectCode": "11.39",
@@ -4627,7 +4627,7 @@
         "commissionName": "A",
         "commissionId": "38763",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "11.46",
@@ -4649,7 +4649,7 @@
         "commissionName": "A",
         "commissionId": "38765",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "11.59",
@@ -4671,7 +4671,7 @@
         "commissionName": "A",
         "commissionId": "38767",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "11.63",
@@ -4693,7 +4693,7 @@
         "commissionName": "A",
         "commissionId": "38769",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "11.67",
@@ -4726,7 +4726,7 @@
         "commissionName": "A",
         "commissionId": "38772",
         "quota": "0",
-        "enrolledStudents": "6"
+        "enrolledStudents": "8"
       },
       {
         "subjectCode": "11.73",
@@ -4770,7 +4770,7 @@
         "commissionName": "A",
         "commissionId": "38776",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "6"
       },
       {
         "subjectCode": "11.76",
@@ -4858,7 +4858,7 @@
         "commissionName": "A",
         "commissionId": "38784",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "11.83",
@@ -4880,7 +4880,7 @@
         "commissionName": "A",
         "commissionId": "38786",
         "quota": "0",
-        "enrolledStudents": "6"
+        "enrolledStudents": "7"
       },
       {
         "subjectCode": "11.84",
@@ -4902,7 +4902,7 @@
         "commissionName": "A",
         "commissionId": "38788",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "11.87",
@@ -5386,7 +5386,7 @@
         "commissionName": "A",
         "commissionId": "38832",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "72.90",
@@ -5397,7 +5397,7 @@
         "commissionName": "S",
         "commissionId": "38833",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "3"
       },
       {
         "subjectCode": "72.97",
@@ -5507,7 +5507,7 @@
         "commissionName": "K",
         "commissionId": "38843",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "22.56",
@@ -5639,7 +5639,7 @@
         "commissionName": "A",
         "commissionId": "38855",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "3"
       },
       {
         "subjectCode": "71.22",
@@ -5782,7 +5782,7 @@
         "commissionName": "S",
         "commissionId": "38868",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "72.08",
@@ -5815,7 +5815,7 @@
         "commissionName": "S",
         "commissionId": "38871",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "72.25",
@@ -5837,7 +5837,7 @@
         "commissionName": "S",
         "commissionId": "38873",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "72.31",
@@ -5925,7 +5925,7 @@
         "commissionName": "S",
         "commissionId": "38881",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "72.39",
@@ -5947,7 +5947,7 @@
         "commissionName": "S",
         "commissionId": "38883",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "72.41",
@@ -5980,7 +5980,7 @@
         "commissionName": "S",
         "commissionId": "38886",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "4"
       },
       {
         "subjectCode": "72.45",
@@ -6024,7 +6024,7 @@
         "commissionName": "S",
         "commissionId": "38890",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "2"
       },
       {
         "subjectCode": "72.80",
