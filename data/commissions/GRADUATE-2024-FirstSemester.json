@@ -3670,7 +3670,7 @@
         "commissionName": "A",
         "commissionId": "38675",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "4"
       },
       {
         "subjectCode": "82.08",
@@ -3725,7 +3725,7 @@
         "commissionName": "A",
         "commissionId": "38680",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "81.05",
@@ -4726,7 +4726,7 @@
         "commissionName": "A",
         "commissionId": "38772",
         "quota": "0",
-        "enrolledStudents": "8"
+        "enrolledStudents": "9"
       },
       {
         "subjectCode": "11.73",
@@ -5969,7 +5969,7 @@
         "commissionName": "S",
         "commissionId": "38885",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "72.44",
@@ -5980,7 +5980,7 @@
         "commissionName": "S",
         "commissionId": "38886",
         "quota": "0",
-        "enrolledStudents": "4"
+        "enrolledStudents": "5"
       },
       {
         "subjectCode": "72.45",
@@ -6090,6 +6090,17 @@
         "commissionName": "K",
         "commissionId": "38897",
         "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.04",
+        "subjectName": "Elementos de Máquinas",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "38942",
+        "quota": "42",
         "enrolledStudents": "0"
       }
     ]
