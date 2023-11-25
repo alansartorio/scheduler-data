@@ -122,7 +122,10 @@
                     "code": "16.01",
                     "credits": "6",
                     "dependencies": {
-                      "dependency": "13.02"
+                      "dependency": [
+                        "13.02",
+                        "16.55"
+                      ]
                     }
                   },
                   {
@@ -464,7 +467,12 @@
                   "code": "16.30",
                   "credits": "6",
                   "creditsRequired": "192",
-                  "dependencies": null
+                  "dependencies": {
+                    "dependency": [
+                      "16.63",
+                      "16.18"
+                    ]
+                  }
                 }
               }
             },

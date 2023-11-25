@@ -508,7 +508,9 @@
                     "code": "16.30",
                     "credits": "6",
                     "creditsRequired": "180",
-                    "dependencies": null
+                    "dependencies": {
+                      "dependency": "16.18"
+                    }
                   },
                   {
                     "type": "subject",
