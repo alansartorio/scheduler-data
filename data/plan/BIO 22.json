@@ -1025,6 +1025,13 @@
             },
             {
               "type": "subject",
+              "name": "Complementos de Matemática",
+              "code": "92.90",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Complementos de Física de la Relatividad",
               "code": "92.92",
               "credits": "2",

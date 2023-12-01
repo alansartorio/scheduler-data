@@ -1,0 +1,182 @@
+{
+  "courseCommissions": {
+    "courseCommission": [
+      {
+        "subjectCode": "31.40",
+        "subjectName": "Proyecto Mecánico  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "M",
+        "commissionId": "38371",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.83",
+        "subjectName": "Proyecto de Materiales  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "M",
+        "commissionId": "38372",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "38383",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "38384",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.90",
+        "subjectName": "Proyecto de Plantas  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "38385",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.58",
+        "subjectName": "Proyecto Mecatrónico (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "M",
+        "commissionId": "38404",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.88",
+        "subjectName": "Proyecto Automotor  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "M",
+        "commissionId": "38408",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "32.57",
+        "subjectName": "Proyecto de Buques  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "N",
+        "commissionId": "38416",
+        "quota": "0",
+        "enrolledStudents": "2"
+      },
+      {
+        "subjectCode": "16.30",
+        "subjectName": "Proyecto Final de Carrera (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO",
+        "commissionId": "38445",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "10.01",
+        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "38739",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "10.01",
+        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "38740",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "10.01",
+        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "38741",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "10.01",
+        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "38742",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "41.34",
+        "subjectName": "Desarrollo de Yacimientos (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "38812",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.31",
+        "subjectName": "Diseño de Equipos Electrónicos  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "38842",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "72.45",
+        "subjectName": "Proyecto Final  (Anual)",
+        "subjectType": "ANNUAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "S",
+        "commissionId": "38887",
+        "quota": "0",
+        "enrolledStudents": "0"
+      }
+    ]
+  }
+}

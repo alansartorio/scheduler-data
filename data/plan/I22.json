@@ -1058,7 +1058,7 @@
               "type": "subject",
               "name": "Demanda Energética",
               "code": "10.18",
-              "credits": "1",
+              "credits": "2",
               "creditsRequired": "72",
               "dependencies": null
             },
@@ -1066,7 +1066,7 @@
               "type": "subject",
               "name": "Tecnologías Energéticas Disruptivas",
               "code": "10.19",
-              "credits": "1",
+              "credits": "2",
               "creditsRequired": "72",
               "dependencies": null
             },
@@ -1074,7 +1074,7 @@
               "type": "subject",
               "name": "Introducción al Desarrollo Energético Sustentable",
               "code": "10.20",
-              "credits": "1",
+              "credits": "2",
               "creditsRequired": "72",
               "dependencies": null
             }
