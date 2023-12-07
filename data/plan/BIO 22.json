@@ -823,6 +823,40 @@
             },
             {
               "type": "subject",
+              "name": "Neurociencia Computacional",
+              "code": "16.82",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "71.59",
+                  "92.03",
+                  "16.03"
+                ]
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a cultivos celulares derivados de tejido nervioso",
+              "code": "16.83",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "16.55"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Informática en Salud",
+              "code": "16.84",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "16.02",
+                  "16.03"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Introducción a la Ingeniería Ambiental",
               "code": "17.15",
               "credits": "3",
