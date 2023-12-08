@@ -1022,6 +1022,17 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "16.81",
+        "subjectName": "Neurobiología del Aprendizaje y el Control Motor Orientado al Deporte",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO",
+        "commissionId": "38975",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "16.01",
         "subjectName": "Biología Molecular y Celular",
         "subjectType": "NORMAL",
@@ -1031,6 +1042,17 @@
         "commissionId": "38430",
         "quota": "0",
         "enrolledStudents": "1"
+      },
+      {
+        "subjectCode": "16.01",
+        "subjectName": "Biología Molecular y Celular",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO B",
+        "commissionId": "38964",
+        "quota": "0",
+        "enrolledStudents": "0"
       },
       {
         "subjectCode": "16.02",
@@ -1051,6 +1073,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38432",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "16.03",
+        "subjectName": "Fisiología",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO B",
+        "commissionId": "38965",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -1205,7 +1238,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38446",
-        "quota": "8",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1238,8 +1271,30 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38449",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "1"
+      },
+      {
+        "subjectCode": "16.64",
+        "subjectName": "Mecánica de biomateriales y tejidos",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO",
+        "commissionId": "38971",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "16.68",
+        "subjectName": "Señales y Sistemas",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO",
+        "commissionId": "38973",
+        "quota": "0",
+        "enrolledStudents": "0"
       },
       {
         "subjectCode": "13.02",
@@ -1249,6 +1304,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38450",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "13.02",
+        "subjectName": "Fundamentos de Química Orgánica",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "38966",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -1357,6 +1423,17 @@
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38963",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38460",
         "quota": "0",
@@ -1451,6 +1528,28 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "16.55",
+        "subjectName": "Biología",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "D",
+        "commissionId": "38967",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "16.55",
+        "subjectName": "Biología",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "E",
+        "commissionId": "38968",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "31.08",
         "subjectName": "Sistemas de Representación",
         "subjectType": "NORMAL",
@@ -1480,6 +1579,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38471",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.08",
+        "subjectName": "Sistemas de Representación",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "D",
+        "commissionId": "38970",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -1544,6 +1654,17 @@
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
+        "commissionName": "K1",
+        "commissionId": "38972",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "31.08",
+        "subjectName": "Sistemas de Representación",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38477",
         "quota": "0",
@@ -1557,7 +1678,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38478",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1568,7 +1689,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38479",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1579,7 +1700,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38480",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1590,7 +1711,18 @@
         "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38481",
-        "quota": "49",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.20",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "E",
+        "commissionId": "38985",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1605,6 +1737,17 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "71.30",
+        "subjectName": "Introducción a la tecnología informática",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "38969",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "71.58",
         "subjectName": "Informática General",
         "subjectType": "NORMAL",
@@ -1612,6 +1755,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38483",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.58",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "E",
+        "commissionId": "38974",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -1935,17 +2089,6 @@
         "enrolledStudents": "0"
       },
       {
-        "subjectCode": "92.04",
-        "subjectName": "Análisis Matemàtico IV",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "D",
-        "commissionId": "38513",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
         "subjectCode": "92.05",
         "subjectName": "Análisis Matemático IV",
         "subjectType": "NORMAL",
@@ -1964,6 +2107,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38515",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "92.05",
+        "subjectName": "Análisis Matemático IV",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38982",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -2144,6 +2298,17 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "93.21",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38986",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "93.24",
         "subjectName": "Probabilidad y Estadística",
         "subjectType": "NORMAL",
@@ -2184,6 +2349,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38535",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.26",
+        "subjectName": "Análisis Matemático I",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38981",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -2232,6 +2408,17 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "93.35",
+        "subjectName": "Lógica Computacional",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38983",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "93.36",
         "subjectName": "Probabilidad",
         "subjectType": "NORMAL",
@@ -2261,6 +2448,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38542",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.39",
+        "subjectName": "Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "38980",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -2628,17 +2826,6 @@
         "enrolledStudents": "0"
       },
       {
-        "subjectCode": "93.51",
-        "subjectName": "Mecánica General",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "Q",
-        "commissionId": "38576",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
         "subjectCode": "93.54",
         "subjectName": "Métodos Numéricos",
         "subjectType": "NORMAL",
@@ -2701,6 +2888,50 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38582",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.61",
+        "subjectName": "Física IV",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "38976",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.61",
+        "subjectName": "Física IV",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "38977",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.61",
+        "subjectName": "Física IV",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38978",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.61",
+        "subjectName": "Física IV",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "D",
+        "commissionId": "38979",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -2954,6 +3185,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38605",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "61.82",
+        "subjectName": "Macroeconomía",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38984",
         "quota": "0",
         "enrolledStudents": "0"
       },
