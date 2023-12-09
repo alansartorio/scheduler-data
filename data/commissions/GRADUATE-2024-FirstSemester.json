@@ -1338,7 +1338,14 @@
         "commissionName": "S",
         "commissionId": "38452",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "08:00",
+          "hourTo": "11:00"
+        }
       },
       {
         "subjectCode": "12.09",
@@ -1349,7 +1356,14 @@
         "commissionName": "S2",
         "commissionId": "38453",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "08:00",
+          "hourTo": "11:00"
+        }
       },
       {
         "subjectCode": "12.19",
@@ -1360,7 +1374,23 @@
         "commissionName": "Q",
         "commissionId": "38454",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "18:00"
+          }
+        ]
       },
       {
         "subjectCode": "12.20",
