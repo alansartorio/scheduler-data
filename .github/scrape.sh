@@ -3,12 +3,14 @@
 mkdir -p "data/plan"
 mkdir -p "data/commissions"
 
+plansFile=.github/plans.json
+
 function getJson() {
 	wget "$1" -O - | jq .
 }
 
 function scrapePlans() {
-	jq -r 'flatten(1) | .[]' .github/plans.json | while read plan
+	jq -r 'flatten(1) | .[]' "$plansFile" | while read plan
 	do
 		urlEncoded=$(echo $plan | jq -sRr @uri)
 		fileEncoded=$(echo $plan | sed 's;/;%2f;g')
@@ -67,3 +69,4 @@ function scrapeCommissions() {
 
 scrapePlans
 scrapeCommissions
+cp "$plansFile" "data/plans.json"
