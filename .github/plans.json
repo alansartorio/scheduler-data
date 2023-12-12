@@ -3,9 +3,9 @@
   "Ingeniería Civil": ["C23"],
   "Ingeniería Electricista": ["E 11", "E 11A"],
   "Ingeniería Electrónica": ["K22", "K07-Rev.18", "K07A-Rev.18"],
-  "Ingeniería en Informática": ["S10 - Rev18", "S10 A - Rev18"],
+  "Ingeniería en Informática": ["S10 - Rev18", "S10 A - Rev18", "S10-Rev23"],
   "Ingeniería en Petróleo": ["P22", "P05-Rev.18", "P-13", "P05"],
-  "Ingeniería Industrial": ["I22", "I-13", "I-13T", "I04", "I87/4"],
+  "Ingeniería Industrial": ["I22", "I-13", "I-13T"],
   "Ingeniería Mecánica": [
     "M22",
     "M09 - Rev18 (Agosto)",
