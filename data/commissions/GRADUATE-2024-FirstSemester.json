@@ -9,19 +9,19 @@
         "courseEnd": "21/07/24",
         "commissionName": "N",
         "commissionId": "37670",
-        "quota": "3",
+        "quota": "0",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "PRESENCIAL",
+            "classRoom": "Presencial",
             "building": "External",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "PRESNECIAL",
+            "classRoom": "Presencial",
             "building": "External",
             "hourFrom": "18:00",
             "hourTo": "21:00"
@@ -95,7 +95,7 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial / HIBRIDA",
+            "classRoom": "Presencial",
             "building": "External",
             "hourFrom": "18:00",
             "hourTo": "21:00"
@@ -122,61 +122,7 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial / HIBRIDA",
-            "building": "External",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
-          },
-          {
-            "day": "FRIDAY",
-            "classRoom": "Presencial / HIBRIDA",
-            "building": "External",
-            "hourFrom": "19:00",
-            "hourTo": "22:00"
-          }
-        ]
-      },
-      {
-        "subjectCode": "12.90",
-        "subjectName": "Proyecto de Plantas  (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "22/07/23",
-        "courseEnd": "21/07/24",
-        "commissionName": "C",
-        "commissionId": "38031",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": [
-          {
-            "day": "THURSDAY",
-            "classRoom": "Presencial / HIBRIDA",
-            "building": "External",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
-          },
-          {
-            "day": "FRIDAY",
-            "classRoom": "Presencial / HIBRIDA",
-            "building": "External",
-            "hourFrom": "19:00",
-            "hourTo": "22:00"
-          }
-        ]
-      },
-      {
-        "subjectCode": "12.90",
-        "subjectName": "Proyecto de Plantas  (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "22/07/23",
-        "courseEnd": "21/07/24",
-        "commissionName": "D",
-        "commissionId": "38032",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": [
-          {
-            "day": "THURSDAY",
-            "classRoom": "Presencial / HIBRIDA",
+            "classRoom": "Presencial",
             "building": "External",
             "hourFrom": "18:00",
             "hourTo": "21:00"
@@ -198,7 +144,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "M",
         "commissionId": "38033",
-        "quota": "10",
+        "quota": "0",
         "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "SATURDAY",
@@ -216,7 +162,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "M",
         "commissionId": "38034",
-        "quota": "10",
+        "quota": "0",
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "SATURDAY",
@@ -292,7 +238,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "Q",
         "commissionId": "38363",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -325,7 +271,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38366",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "1"
       },
       {
@@ -560,6 +506,28 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "17.02",
+        "subjectName": "Procesos Industriales",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39002",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.03",
+        "subjectName": "Bioquímica y Microbiología Aplicadas",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39003",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "30.03",
         "subjectName": "Instalaciones Térmicas",
         "subjectType": "NORMAL",
@@ -569,17 +537,6 @@
         "commissionId": "38388",
         "quota": "0",
         "enrolledStudents": "1"
-      },
-      {
-        "subjectCode": "30.03",
-        "subjectName": "Instalaciones Térmicas",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "B",
-        "commissionId": "38389",
-        "quota": "0",
-        "enrolledStudents": "0"
       },
       {
         "subjectCode": "30.24",
@@ -637,6 +594,28 @@
         "enrolledStudents": "1"
       },
       {
+        "subjectCode": "30.43",
+        "subjectName": "Diseño Mecánico III A",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39011",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.44",
+        "subjectName": "Diseño Mecánico III B",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39012",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "30.51",
         "subjectName": "Introducción a la Ingeniería Mecánica",
         "subjectType": "NORMAL",
@@ -644,6 +623,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38395",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.62",
+        "subjectName": "Materiales para la Industria Química",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39018",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -666,6 +656,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38397",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.89",
+        "subjectName": "Mecánica de Sólidos",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "39020",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -886,7 +887,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "N",
         "commissionId": "38417",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "2"
       },
       {
@@ -901,6 +902,50 @@
         "enrolledStudents": "1"
       },
       {
+        "subjectCode": "30.32",
+        "subjectName": "Termodinámica y sus aplicaciones",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39008",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.45",
+        "subjectName": "Diseño Mecánico IV",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39013",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.47",
+        "subjectName": "Termofluidos I",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39014",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "30.50",
+        "subjectName": "Mecánica del Continuo",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39015",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "12.25",
         "subjectName": "Ingeniería de Reacciones y Reactores II",
         "subjectType": "NORMAL",
@@ -908,6 +953,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "Q1",
         "commissionId": "38419",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.16",
+        "subjectName": "Nanotecnología",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39006",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -923,13 +979,35 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "17.09",
+        "subjectName": "Industrias Químicas",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39005",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "12.27",
         "subjectName": "Simulación de Procesos",
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
-        "commissionName": "INGLES",
-        "commissionId": "38421",
+        "commissionName": "Q",
+        "commissionId": "39001",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.05",
+        "subjectName": "Control de Procesos",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39004",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -1008,7 +1086,14 @@
         "commissionName": "A",
         "commissionId": "38428",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
       },
       {
         "subjectCode": "16.81",
@@ -1041,7 +1126,23 @@
         "commissionName": "BIO",
         "commissionId": "38430",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "1",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
       },
       {
         "subjectCode": "16.01",
@@ -1052,7 +1153,14 @@
         "commissionName": "BIO B",
         "commissionId": "38964",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "13:00"
+        }
       },
       {
         "subjectCode": "16.02",
@@ -1074,7 +1182,23 @@
         "commissionName": "BIO",
         "commissionId": "38432",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:30",
+            "hourTo": "21:30"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "19:00"
+          }
+        ]
       },
       {
         "subjectCode": "16.03",
@@ -1085,7 +1209,14 @@
         "commissionName": "BIO B",
         "commissionId": "38965",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "19:00",
+          "hourTo": "22:00"
+        }
       },
       {
         "subjectCode": "16.04",
@@ -1107,7 +1238,23 @@
         "commissionName": "BIO",
         "commissionId": "38434",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "13:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "19:00"
+          }
+        ]
       },
       {
         "subjectCode": "16.15",
@@ -1118,7 +1265,23 @@
         "commissionName": "BIO",
         "commissionId": "38435",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "2",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "19:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "17:00",
+            "hourTo": "20:00"
+          }
+        ]
       },
       {
         "subjectCode": "16.16",
@@ -1129,7 +1292,23 @@
         "commissionName": "BIO",
         "commissionId": "38436",
         "quota": "0",
-        "enrolledStudents": "7"
+        "enrolledStudents": "7",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "11:00",
+            "hourTo": "14:00"
+          }
+        ]
       },
       {
         "subjectCode": "16.17",
@@ -1151,7 +1330,23 @@
         "commissionName": "BIO",
         "commissionId": "38438",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "1",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
       },
       {
         "subjectCode": "16.19",
@@ -1239,7 +1434,14 @@
         "commissionName": "BIO",
         "commissionId": "38446",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
       },
       {
         "subjectCode": "16.44",
@@ -1250,7 +1452,14 @@
         "commissionName": "BIO",
         "commissionId": "38447",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "14:00",
+          "hourTo": "17:00"
+        }
       },
       {
         "subjectCode": "16.50",
@@ -1272,7 +1481,14 @@
         "commissionName": "A",
         "commissionId": "38449",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "1",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "13:00",
+          "hourTo": "16:00"
+        }
       },
       {
         "subjectCode": "16.64",
@@ -1305,7 +1521,30 @@
         "commissionName": "A",
         "commissionId": "38450",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "10:00"
+          }
+        ]
       },
       {
         "subjectCode": "13.02",
@@ -1316,7 +1555,30 @@
         "commissionName": "B",
         "commissionId": "38966",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "15:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "10:00"
+          }
+        ]
       },
       {
         "subjectCode": "13.03",
@@ -1327,7 +1589,30 @@
         "commissionName": "Q",
         "commissionId": "38451",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "10:00",
+            "hourTo": "12:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "11:30",
+            "hourTo": "14:30"
+          }
+        ]
       },
       {
         "subjectCode": "12.09",
@@ -1401,7 +1686,30 @@
         "commissionName": "Q",
         "commissionId": "38455",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "17:00",
+            "hourTo": "19:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "15:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "18:00"
+          }
+        ]
       },
       {
         "subjectCode": "12.33",
@@ -1412,7 +1720,30 @@
         "commissionName": "Q",
         "commissionId": "38456",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "10:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:00"
+          }
+        ]
       },
       {
         "subjectCode": "12.34",
@@ -1709,7 +2040,14 @@
         "commissionName": "A",
         "commissionId": "38478",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "17:00",
+          "hourTo": "20:00"
+        }
       },
       {
         "subjectCode": "71.20",
@@ -1720,7 +2058,14 @@
         "commissionName": "B",
         "commissionId": "38479",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "17:00",
+          "hourTo": "20:00"
+        }
       },
       {
         "subjectCode": "71.20",
@@ -1731,7 +2076,14 @@
         "commissionName": "C",
         "commissionId": "38480",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "17:00",
+          "hourTo": "20:00"
+        }
       },
       {
         "subjectCode": "71.20",
@@ -1742,7 +2094,14 @@
         "commissionName": "D",
         "commissionId": "38481",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "08:00",
+          "hourTo": "11:00"
+        }
       },
       {
         "subjectCode": "71.20",
@@ -1753,7 +2112,14 @@
         "commissionName": "E",
         "commissionId": "38985",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "17:00",
+          "hourTo": "20:00"
+        }
       },
       {
         "subjectCode": "71.30",
@@ -2234,6 +2600,28 @@
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38992",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "D",
+        "commissionId": "38993",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
         "commissionName": "E",
         "commissionId": "38523",
         "quota": "0",
@@ -2247,6 +2635,17 @@
         "courseEnd": "21/07/24",
         "commissionName": "F",
         "commissionId": "38524",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "G",
+        "commissionId": "38995",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -2357,6 +2756,39 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38533",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "C",
+        "commissionId": "38988",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "D",
+        "commissionId": "38989",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "E",
+        "commissionId": "38990",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -2674,6 +3106,28 @@
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
+        "commissionName": "F",
+        "commissionId": "38996",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.42",
+        "subjectName": "Física II",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "G",
+        "commissionId": "38997",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.42",
+        "subjectName": "Física II",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "38559",
         "quota": "0",
@@ -2762,6 +3216,17 @@
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
+        "commissionName": "F",
+        "commissionId": "38998",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.43",
+        "subjectName": "Física III",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
         "commissionName": "MNP",
         "commissionId": "38567",
         "quota": "0",
@@ -2808,39 +3273,6 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38571",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "93.44",
-        "subjectName": "Física IV",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "C",
-        "commissionId": "38572",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "93.44",
-        "subjectName": "Física IV",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "K",
-        "commissionId": "38573",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "93.44",
-        "subjectName": "Física IV",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "MPNBIO",
-        "commissionId": "38574",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -3316,6 +3748,17 @@
         "commissionId": "38613",
         "quota": "0",
         "enrolledStudents": "5"
+      },
+      {
+        "subjectCode": "81.21",
+        "subjectName": "Gestión de Ventas",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "38991",
+        "quota": "0",
+        "enrolledStudents": "0"
       },
       {
         "subjectCode": "81.23",
@@ -4041,7 +4484,30 @@
         "commissionName": "A",
         "commissionId": "38684",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "11:00",
+            "hourTo": "14:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          },
+          {
+            "day": "SATURDAY",
+            "classRoom": "Asincronico",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "09:00"
+          }
+        ]
       },
       {
         "subjectCode": "61.14",
@@ -4502,6 +4968,50 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38727",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "81.24",
+        "subjectName": "Internacionalización de la Empresa",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "38994",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "81.72",
+        "subjectName": "Introducción a la realidad virtual",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39007",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "81.73",
+        "subjectName": "Introducción a la IOT",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39010",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "81.74",
+        "subjectName": "Introducción a la realidad aumentada",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39017",
         "quota": "0",
         "enrolledStudents": "0"
       },
@@ -6365,6 +6875,17 @@
         "enrolledStudents": "0"
       },
       {
+        "subjectCode": "30.52",
+        "subjectName": "Mecánica Aplicada",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39016",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "31.04",
         "subjectName": "Elementos de Máquinas",
         "subjectType": "NORMAL",
@@ -6372,7 +6893,51 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38942",
-        "quota": "42",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "16.80",
+        "subjectName": "Microfluídica",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "BIO",
+        "commissionId": "38987",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "92.07",
+        "subjectName": "Análisis Matemático V",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "K",
+        "commissionId": "39000",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "32.71",
+        "subjectName": "Proyecto de Embarcaciones de Trabajo",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "N",
+        "commissionId": "39009",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "81.95",
+        "subjectName": "Proyecto de lanzamiento de productos o servicios (Trabajo Final)",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39019",
+        "quota": "0",
         "enrolledStudents": "0"
       }
     ]
