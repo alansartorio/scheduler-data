@@ -109,40 +109,7 @@
         "commissionName": "A",
         "commissionId": "38739",
         "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "10.01",
-        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "31/12/24",
-        "commissionName": "B",
-        "commissionId": "38740",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "10.01",
-        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "31/12/24",
-        "commissionName": "C",
-        "commissionId": "38741",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "10.01",
-        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "31/12/24",
-        "commissionName": "D",
-        "commissionId": "38742",
-        "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "1"
       },
       {
         "subjectCode": "41.34",
