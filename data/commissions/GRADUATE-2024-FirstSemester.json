@@ -3080,7 +3080,23 @@
         "commissionName": "A",
         "commissionId": "38503",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "13:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.03",
@@ -3091,7 +3107,23 @@
         "commissionName": "B",
         "commissionId": "38504",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "09:00",
+            "hourTo": "12:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.03",
@@ -3102,7 +3134,23 @@
         "commissionName": "C",
         "commissionId": "38505",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "13:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.03",
@@ -3113,7 +3161,23 @@
         "commissionName": "D",
         "commissionId": "38506",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "10:00",
+            "hourTo": "12:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "12:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.03",
@@ -3124,7 +3188,23 @@
         "commissionName": "E",
         "commissionId": "38507",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "15:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.03",
@@ -3135,7 +3215,23 @@
         "commissionName": "F",
         "commissionId": "38508",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "13:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.03",
@@ -3146,7 +3242,30 @@
         "commissionName": "G",
         "commissionId": "38509",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "10:00",
+            "hourTo": "12:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          }
+        ]
       },
       {
         "subjectCode": "92.04",
@@ -3584,7 +3703,30 @@
         "commissionName": "A",
         "commissionId": "38527",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.20",
@@ -3595,7 +3737,30 @@
         "commissionName": "B",
         "commissionId": "38528",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "12:00",
+            "hourTo": "14:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.20",
@@ -3606,7 +3771,30 @@
         "commissionName": "C",
         "commissionId": "38529",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "11:00",
+            "hourTo": "13:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "11:00",
+            "hourTo": "13:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.21",
@@ -4843,7 +5031,23 @@
         "commissionName": "A",
         "commissionId": "38976",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "13:00",
+            "hourTo": "15:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.61",
@@ -4854,7 +5058,23 @@
         "commissionName": "B",
         "commissionId": "38977",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "18:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "18:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.61",
@@ -4865,7 +5085,23 @@
         "commissionName": "C",
         "commissionId": "38978",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.61",
@@ -4876,7 +5112,23 @@
         "commissionName": "D",
         "commissionId": "38979",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "16:00"
+          }
+        ]
       },
       {
         "subjectCode": "93.75",
@@ -5077,7 +5329,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "Presencial",
+            "classRoom": "Virtual",
             "building": "External",
             "hourFrom": "15:00",
             "hourTo": "17:00"
@@ -5111,7 +5363,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "Presencial",
+            "classRoom": "Virtual",
             "building": "External",
             "hourFrom": "13:00",
             "hourTo": "15:00"
@@ -9624,6 +9876,17 @@
         "enrolledStudents": "1"
       },
       {
+        "subjectCode": "73.61",
+        "subjectName": "Neurorobótica",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "39109",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
         "subjectCode": "22.10",
         "subjectName": "Electrónica e Instrumentación",
         "subjectType": "NORMAL",
@@ -9774,7 +10037,23 @@
         "commissionName": "K",
         "commissionId": "38841",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "18:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
       },
       {
         "subjectCode": "22.31",
@@ -9785,7 +10064,14 @@
         "commissionName": "K",
         "commissionId": "38842",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "19:00",
+          "hourTo": "22:00"
+        }
       },
       {
         "subjectCode": "22.45",
@@ -9814,7 +10100,14 @@
         "commissionName": "A",
         "commissionId": "38844",
         "quota": "0",
-        "enrolledStudents": "3"
+        "enrolledStudents": "3",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
       },
       {
         "subjectCode": "22.57",
@@ -9852,7 +10145,23 @@
         "commissionName": "K",
         "commissionId": "38846",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "19:00"
+          }
+        ]
       },
       {
         "subjectCode": "22.67",
@@ -9930,7 +10239,23 @@
         "commissionName": "A",
         "commissionId": "38851",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
       },
       {
         "subjectCode": "23.07",
@@ -9949,17 +10274,6 @@
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
-      },
-      {
-        "subjectCode": "23.09",
-        "subjectName": "Física Electrónica",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "A",
-        "commissionId": "38853",
-        "quota": "0",
-        "enrolledStudents": "0"
       },
       {
         "subjectCode": "23.15",
@@ -9981,7 +10295,14 @@
         "commissionName": "K",
         "commissionId": "39027",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "08:00",
+          "hourTo": "11:00"
+        }
       },
       {
         "subjectCode": "25.10",
@@ -9992,7 +10313,30 @@
         "commissionName": "A",
         "commissionId": "39028",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "16:00",
+            "hourTo": "18:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:30",
+            "hourTo": "20:30"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "12:00"
+          }
+        ]
       },
       {
         "subjectCode": "25.12",
@@ -10057,7 +10401,23 @@
         "commissionName": "K",
         "commissionId": "39032",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "10:00",
+            "hourTo": "13:00"
+          }
+        ]
       },
       {
         "subjectCode": "25.15",
@@ -10068,7 +10428,23 @@
         "commissionName": "K",
         "commissionId": "39034",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
       },
       {
         "subjectCode": "25.16",
@@ -10079,7 +10455,14 @@
         "commissionName": "K",
         "commissionId": "39033",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Laboratorio",
+          "building": "External",
+          "hourFrom": "17:00",
+          "hourTo": "20:30"
+        }
       },
       {
         "subjectCode": "71.22",
@@ -10358,17 +10741,6 @@
         "enrolledStudents": "0"
       },
       {
-        "subjectCode": "72.33",
-        "subjectName": "Programación Orientada a Objetos",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "S2",
-        "commissionId": "39048",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
         "subjectCode": "72.34",
         "subjectName": "Estructura de Datos y Algoritmos",
         "subjectType": "NORMAL",
@@ -10575,7 +10947,23 @@
         "commissionName": "K",
         "commissionId": "39039",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "14:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "09:30",
+            "hourTo": "12:30"
+          }
+        ]
       },
       {
         "subjectCode": "25.21",
@@ -10586,7 +10974,23 @@
         "commissionName": "K",
         "commissionId": "39040",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "21:00"
+          }
+        ]
       },
       {
         "subjectCode": "25.22",
@@ -10597,7 +11001,23 @@
         "commissionName": "K",
         "commissionId": "39041",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "17:00",
+            "hourTo": "19:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "17:00",
+            "hourTo": "19:00"
+          }
+        ]
       },
       {
         "subjectCode": "25.23",
@@ -10791,7 +11211,23 @@
         "commissionName": "K",
         "commissionId": "39000",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "10:00",
+            "hourTo": "12:00"
+          }
+        ]
       },
       {
         "subjectCode": "32.71",
@@ -10842,7 +11278,14 @@
         "commissionName": "K",
         "commissionId": "39043",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "13:00"
+        }
       },
       {
         "subjectCode": "16.82",
