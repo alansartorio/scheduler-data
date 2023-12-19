@@ -109,7 +109,14 @@
         "commissionName": "A",
         "commissionId": "38739",
         "quota": "0",
-        "enrolledStudents": "1"
+        "enrolledStudents": "1",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial / Asincrónico",
+          "building": "External",
+          "hourFrom": "19:00",
+          "hourTo": "22:00"
+        }
       },
       {
         "subjectCode": "41.34",
@@ -149,7 +156,14 @@
         "commissionName": "S",
         "commissionId": "38887",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual asincrónico",
+          "building": "External",
+          "hourFrom": "20:00",
+          "hourTo": "21:00"
+        }
       }
     ]
   }
