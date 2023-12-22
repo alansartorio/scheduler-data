@@ -921,6 +921,41 @@
             },
             {
               "type": "subject",
+              "name": "Seminario de Diseño Asistido por Computadora (CAD)",
+              "code": "17.17",
+              "credits": "0",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Caracterización de Suelos y Remediación",
+              "code": "17.18",
+              "credits": "2",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Calidad de Aire",
+              "code": "17.19",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Agua y Efluentes Líquidos",
+              "code": "17.20",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Temática Social",
+              "code": "17.21",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Mecánica de Fluidos Computacional",
               "code": "30.14",
               "credits": "3",

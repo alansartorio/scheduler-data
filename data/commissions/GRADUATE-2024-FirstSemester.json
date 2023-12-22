@@ -54,7 +54,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38017",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "29",
         "courseCommissionTimes": [
           {
@@ -171,7 +171,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "M",
         "commissionId": "38036",
-        "quota": "10",
+        "quota": "0",
         "enrolledStudents": "4",
         "courseCommissionTimes": {
           "day": "SATURDAY",
@@ -8656,7 +8656,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38648",
-        "quota": "16",
+        "quota": "0",
         "enrolledStudents": "1",
         "courseCommissionTimes": [
           {
@@ -8746,7 +8746,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38656",
-        "quota": "8",
+        "quota": "0",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
@@ -10861,7 +10861,14 @@
         "commissionName": "A",
         "commissionId": "38745",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "2",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
       },
       {
         "subjectCode": "10.04",
@@ -10872,7 +10879,14 @@
         "commissionName": "B",
         "commissionId": "39053",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
       },
       {
         "subjectCode": "10.07",
@@ -11027,7 +11041,14 @@
         "commissionName": "A",
         "commissionId": "39058",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial / Asincrónico",
+          "building": "External",
+          "hourFrom": "18:30",
+          "hourTo": "21:30"
+        }
       },
       {
         "subjectCode": "10.99",
@@ -11184,7 +11205,23 @@
         "commissionName": "A",
         "commissionId": "38758",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
       },
       {
         "subjectCode": "11.16",
@@ -11195,7 +11232,23 @@
         "commissionName": "B",
         "commissionId": "38759",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
       },
       {
         "subjectCode": "11.39",
@@ -12124,7 +12177,23 @@
         "commissionName": "A",
         "commissionId": "38810",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "18:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
       },
       {
         "subjectCode": "41.29",
@@ -12333,7 +12402,14 @@
         "commissionName": "A",
         "commissionId": "39099",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
       },
       {
         "subjectCode": "22.33",
@@ -12652,7 +12728,7 @@
         "quota": "0",
         "enrolledStudents": "1",
         "courseCommissionTimes": {
-          "day": "FRIDAY",
+          "day": "WEDNESDAY",
           "classRoom": "Virtual",
           "building": "External",
           "hourFrom": "18:00",
@@ -12736,7 +12812,7 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": [
           {
-            "day": "WEDNESDAY",
+            "day": "TUESDAY",
             "classRoom": "Presencial",
             "building": "External",
             "hourFrom": "15:00",
@@ -13173,11 +13249,11 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": [
           {
-            "day": "WEDNESDAY",
+            "day": "TUESDAY",
             "classRoom": "Presencial",
             "building": "External",
-            "hourFrom": "09:00",
-            "hourTo": "11:00"
+            "hourFrom": "10:00",
+            "hourTo": "12:00"
           },
           {
             "day": "FRIDAY",
@@ -15114,6 +15190,141 @@
             "hourTo": "22:00"
           }
         ]
+      },
+      {
+        "subjectCode": "17.17",
+        "subjectName": "Seminario de Diseño Asistido por Computadora (CAD)",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39127",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "11:00"
+        }
+      },
+      {
+        "subjectCode": "17.18",
+        "subjectName": "Caracterización de Suelos y Remediación",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39128",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "18:30",
+          "hourTo": "21:30"
+        }
+      },
+      {
+        "subjectCode": "17.19",
+        "subjectName": "Calidad de Aire",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39129",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "18:30",
+          "hourTo": "21:30"
+        }
+      },
+      {
+        "subjectCode": "46.42",
+        "subjectName": "Registros de Pozo I",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "P",
+        "commissionId": "39130",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "18:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "18:00",
+            "hourTo": "21:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "16.46",
+        "subjectName": "Reprogramación celular y epigenética",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "14/03/24",
+        "commissionName": "BIO",
+        "commissionId": "39131",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Híbrido",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
+      },
+      {
+        "subjectCode": "16.83",
+        "subjectName": "Introducción a cultivos celulares derivados de tejido nervioso",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "12/03/24",
+        "commissionName": "BIO",
+        "commissionId": "39132",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Híbrido",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "16.45",
+        "subjectName": "Edición Genética",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "14/03/24",
+        "commissionName": "BIO",
+        "commissionId": "39133",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Híbrido",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
       }
     ]
   }
