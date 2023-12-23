@@ -2368,7 +2368,14 @@
         "commissionName": "BIO",
         "commissionId": "38445",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
       },
       {
         "subjectCode": "16.43",
@@ -15276,7 +15283,7 @@
         "subjectCode": "16.46",
         "subjectName": "Reprogramación celular y epigenética",
         "subjectType": "SEMINARY",
-        "courseStart": "19/02/24",
+        "courseStart": "08/02/24",
         "courseEnd": "14/03/24",
         "commissionName": "BIO",
         "commissionId": "39131",
@@ -15294,7 +15301,7 @@
         "subjectCode": "16.83",
         "subjectName": "Introducción a cultivos celulares derivados de tejido nervioso",
         "subjectType": "SEMINARY",
-        "courseStart": "19/02/24",
+        "courseStart": "06/02/24",
         "courseEnd": "12/03/24",
         "commissionName": "BIO",
         "commissionId": "39132",
@@ -15312,7 +15319,7 @@
         "subjectCode": "16.45",
         "subjectName": "Edición Genética",
         "subjectType": "SEMINARY",
-        "courseStart": "19/02/24",
+        "courseStart": "08/02/24",
         "courseEnd": "14/03/24",
         "commissionName": "BIO",
         "commissionId": "39133",
