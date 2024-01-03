@@ -311,6 +311,13 @@
                   },
                   {
                     "type": "subject",
+                    "name": "Castellano",
+                    "code": "94.50",
+                    "credits": "0",
+                    "dependencies": null
+                  },
+                  {
+                    "type": "subject",
                     "name": "Inglés I",
                     "code": "94.51",
                     "credits": "0",

@@ -1073,6 +1073,15 @@
             },
             {
               "type": "subject",
+              "name": "Análisis de Información Biomédica",
+              "code": "82.12",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "81.75"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Analítica del Deporte",
               "code": "82.19",
               "credits": "3",

@@ -8901,6 +8901,24 @@
         }
       },
       {
+        "subjectCode": "94.07",
+        "subjectName": "Cultura Latinoamericana",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Inglés",
+        "commissionId": "39344",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
+          "building": "External",
+          "hourFrom": "11:00",
+          "hourTo": "14:00"
+        }
+      },
+      {
         "subjectCode": "94.09",
         "subjectName": "Cultura, Identidad y Política",
         "subjectType": "NORMAL",
@@ -9272,8 +9290,8 @@
           "day": "WEDNESDAY",
           "classRoom": "Presencial",
           "building": "External",
-          "hourFrom": "09:00",
-          "hourTo": "12:00"
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
         }
       },
       {
