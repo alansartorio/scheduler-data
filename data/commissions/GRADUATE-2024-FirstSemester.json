@@ -8891,7 +8891,7 @@
         "commissionName": "A",
         "commissionId": "38664",
         "quota": "0",
-        "enrolledStudents": "11",
+        "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Presencial",
@@ -8909,7 +8909,7 @@
         "commissionName": "Inglés",
         "commissionId": "39344",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "11",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Presencial",
