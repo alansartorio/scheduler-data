@@ -1712,11 +1712,11 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": [
           {
-            "day": "TUESDAY",
+            "day": "MONDAY",
             "classRoom": "Presencial",
             "building": "External",
-            "hourFrom": "14:00",
-            "hourTo": "16:00"
+            "hourFrom": "13:00",
+            "hourTo": "15:00"
           },
           {
             "day": "FRIDAY",
@@ -7596,7 +7596,7 @@
         "commissionName": "Inglés",
         "commissionId": "38612",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Híbrida",
@@ -13424,7 +13424,7 @@
         "commissionName": "A",
         "commissionId": "38855",
         "quota": "0",
-        "enrolledStudents": "4",
+        "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "Presencial",
