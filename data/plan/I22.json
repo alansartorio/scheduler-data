@@ -781,16 +781,6 @@
             },
             {
               "type": "subject",
-              "name": "Estructura de Datos y Programación",
-              "code": "71.45",
-              "credits": "6",
-              "creditsRequired": "72",
-              "dependencies": {
-                "dependency": "71.88"
-              }
-            },
-            {
-              "type": "subject",
               "name": "Teoría de Juegos y Estrategia",
               "code": "81.04",
               "credits": "3",
