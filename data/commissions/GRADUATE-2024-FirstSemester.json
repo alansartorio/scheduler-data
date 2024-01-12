@@ -14,15 +14,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "400F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           }
@@ -103,8 +103,8 @@
         "enrolledStudents": "4",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "Presencial",
-          "building": "External",
+          "classRoom": "201F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -121,8 +121,8 @@
         "enrolledStudents": "4",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "Presencial",
-          "building": "External",
+          "classRoom": "201F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -2055,7 +2055,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "102R",
+            "classRoom": "S102",
             "building": "Sede Rectorado",
             "hourFrom": "18:30",
             "hourTo": "21:30"
@@ -2323,7 +2323,23 @@
         "commissionName": "BIO",
         "commissionId": "38442",
         "quota": "0",
-        "enrolledStudents": "0"
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "403F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:30",
+            "hourTo": "21:30"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "202F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "18:30",
+            "hourTo": "21:30"
+          }
+        ]
       },
       {
         "subjectCode": "16.23",
@@ -2487,7 +2503,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "101R",
+            "classRoom": "S101",
             "building": "Sede Rectorado",
             "hourFrom": "16:00",
             "hourTo": "19:00"
@@ -2801,15 +2817,15 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "104R",
-            "building": "Sede Rectorado",
+            "classRoom": "Laboratorio",
+            "building": "External",
             "hourFrom": "08:00",
             "hourTo": "11:00"
           },
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "101R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -2910,15 +2926,15 @@
           },
           {
             "day": "TUESDAY",
-            "classRoom": "003R",
-            "building": "Sede Rectorado",
+            "classRoom": "Laboratorio",
+            "building": "External",
             "hourFrom": "08:00",
             "hourTo": "11:00"
           },
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "005R",
+            "building": "Sede Rectorado",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           }
@@ -5330,8 +5346,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "002R",
+            "building": "Sede Rectorado",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           }
@@ -5364,8 +5380,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "007R",
+            "building": "Sede Rectorado",
             "hourFrom": "15:00",
             "hourTo": "17:00"
           }
@@ -7430,8 +7446,8 @@
           },
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "501F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
@@ -7559,8 +7575,8 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "006R",
+            "building": "Sede Rectorado",
             "hourFrom": "11:00",
             "hourTo": "13:00"
           },
@@ -9998,8 +10014,8 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "202R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
@@ -10232,8 +10248,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "400F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "20:00"
           },
@@ -11942,8 +11958,15 @@
             "day": "MONDAY",
             "classRoom": "Virtual",
             "building": "External",
-            "hourFrom": "15:00",
-            "hourTo": "17:00"
+            "hourFrom": "16:00",
+            "hourTo": "18:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "10:00"
           },
           {
             "day": "TUESDAY",
@@ -11951,13 +11974,6 @@
             "building": "External",
             "hourFrom": "20:00",
             "hourTo": "22:00"
-          },
-          {
-            "day": "THURSDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "08:00",
-            "hourTo": "10:00"
           }
         ]
       },
@@ -11987,8 +12003,8 @@
             "day": "MONDAY",
             "classRoom": "Laboratorio",
             "building": "External",
-            "hourFrom": "17:00",
-            "hourTo": "19:00"
+            "hourFrom": "18:00",
+            "hourTo": "20:00"
           },
           {
             "day": "THURSDAY",
@@ -12014,8 +12030,8 @@
             "day": "MONDAY",
             "classRoom": "Virtual",
             "building": "External",
-            "hourFrom": "17:00",
-            "hourTo": "19:00"
+            "hourFrom": "18:00",
+            "hourTo": "20:00"
           },
           {
             "day": "TUESDAY",
@@ -12603,7 +12619,7 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "THURSDAY",
-          "classRoom": "102T",
+          "classRoom": "002T",
           "building": "SDT",
           "hourFrom": "19:00",
           "hourTo": "22:00"
@@ -12766,6 +12782,24 @@
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "21:00"
+        }
+      },
+      {
+        "subjectCode": "73.21",
+        "subjectName": "Desarrollo de Aplicaciones Móviles Multiplataforma",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "S",
+        "commissionId": "38835",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Presencial",
           "building": "External",
           "hourFrom": "18:00",
           "hourTo": "21:00"
@@ -13025,7 +13059,7 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "103R",
+            "classRoom": "S103",
             "building": "Sede Rectorado",
             "hourFrom": "17:00",
             "hourTo": "21:00"
