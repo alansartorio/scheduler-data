@@ -40,7 +40,7 @@
         "enrolledStudents": "13",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "102T",
+          "classRoom": "S101T",
           "building": "SDT",
           "hourFrom": "19:00",
           "hourTo": "22:00"
@@ -891,8 +891,8 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "THURSDAY",
-          "classRoom": "006R",
-          "building": "Sede Rectorado",
+          "classRoom": "402F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "16:00",
           "hourTo": "19:00"
         }
@@ -1433,8 +1433,8 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "800F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "S102",
+          "building": "Sede Rectorado",
           "hourFrom": "16:00",
           "hourTo": "19:00"
         }
@@ -1713,15 +1713,15 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "104R",
-            "building": "Sede Rectorado",
+            "classRoom": "601F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           },
           {
             "day": "FRIDAY",
-            "classRoom": "102T",
-            "building": "SDT",
+            "classRoom": "801F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           }
@@ -1811,8 +1811,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "201T",
-          "building": "SDT",
+          "classRoom": "800F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "22:00"
         }
@@ -1946,8 +1946,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "003T",
-          "building": "SDT",
+          "classRoom": "803F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "09:00",
           "hourTo": "12:00"
         }
@@ -2201,15 +2201,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "504F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "803F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "17:00",
             "hourTo": "20:00"
           }
@@ -2618,8 +2618,8 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "104R",
-            "building": "Sede Rectorado",
+            "classRoom": "004T",
+            "building": "SDT",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
@@ -3089,8 +3089,8 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "004R",
+            "building": "Sede Rectorado",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
@@ -4092,8 +4092,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "101R",
-            "building": "Sede Rectorado",
+            "classRoom": "001T",
+            "building": "SDT",
             "hourFrom": "11:00",
             "hourTo": "13:00"
           }
@@ -4966,8 +4966,8 @@
           },
           {
             "day": "TUESDAY",
-            "classRoom": "203R",
-            "building": "Sede Rectorado",
+            "classRoom": "102T",
+            "building": "SDT",
             "hourFrom": "11:00",
             "hourTo": "13:00"
           },
@@ -5074,15 +5074,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "601F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "701F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
@@ -5108,15 +5108,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "502F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "501F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           },
@@ -5142,15 +5142,15 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "801F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "301F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -5176,15 +5176,15 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "801F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "302F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
@@ -5210,15 +5210,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "601F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
           {
             "day": "FRIDAY",
-            "classRoom": "401F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "005T",
+            "building": "SDT",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -5332,15 +5332,15 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "102T",
-            "building": "SDT",
+            "classRoom": "007R",
+            "building": "Sede Rectorado",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
           {
             "day": "TUESDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "003R",
+            "building": "Sede Rectorado",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           },
@@ -5538,15 +5538,15 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "301F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "202R",
+            "building": "Sede Rectorado",
             "hourFrom": "12:00",
             "hourTo": "15:00"
           },
           {
             "day": "FRIDAY",
-            "classRoom": "301F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "102T",
+            "building": "SDT",
             "hourFrom": "11:00",
             "hourTo": "14:00"
           }
@@ -5565,15 +5565,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "901F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "104R",
+            "building": "Sede Rectorado",
             "hourFrom": "11:00",
             "hourTo": "14:00"
           },
           {
             "day": "FRIDAY",
-            "classRoom": "601F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "102T",
+            "building": "SDT",
             "hourFrom": "08:00",
             "hourTo": "11:00"
           }
@@ -6673,8 +6673,8 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "404F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "14:00",
             "hourTo": "18:00"
           }
@@ -7022,8 +7022,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "004R",
-          "building": "Sede Rectorado",
+          "classRoom": "301F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -7059,8 +7059,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "402F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "102R",
+            "building": "Sede Rectorado",
             "hourFrom": "15:00",
             "hourTo": "18:00"
           }
@@ -7106,8 +7106,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "403F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "S101",
+            "building": "Sede Rectorado",
             "hourFrom": "18:30",
             "hourTo": "21:30"
           },
@@ -7348,8 +7348,8 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "501F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "005T",
+          "building": "SDT",
           "hourFrom": "11:00",
           "hourTo": "14:00"
         }
@@ -7366,8 +7366,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "802F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "003T",
+          "building": "SDT",
           "hourFrom": "08:00",
           "hourTo": "11:00"
         }
@@ -7384,8 +7384,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "901F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "004R",
+          "building": "Sede Rectorado",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -7402,8 +7402,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "901F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "004R",
+          "building": "Sede Rectorado",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -7446,8 +7446,8 @@
           },
           {
             "day": "TUESDAY",
-            "classRoom": "501F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "003T",
+            "building": "SDT",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
@@ -7473,8 +7473,8 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "401F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "102T",
+            "building": "SDT",
             "hourFrom": "13:00",
             "hourTo": "16:00"
           },
@@ -7644,8 +7644,8 @@
         "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "THURSDAY",
-          "classRoom": "802F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "005T",
+          "building": "SDT",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -7662,8 +7662,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "502F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "201T",
+          "building": "SDT",
           "hourFrom": "19:00",
           "hourTo": "22:00"
         }
@@ -7906,7 +7906,7 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "202R",
+            "classRoom": "103R",
             "building": "Sede Rectorado",
             "hourFrom": "14:00",
             "hourTo": "16:00"
@@ -8117,8 +8117,8 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "801F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "201R",
+            "building": "Sede Rectorado",
             "hourFrom": "16:00",
             "hourTo": "18:00"
           },
@@ -8506,7 +8506,7 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "202R",
+            "classRoom": "103R",
             "building": "Sede Rectorado",
             "hourFrom": "14:00",
             "hourTo": "16:00"
@@ -8550,8 +8550,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "400F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "S102",
+          "building": "Sede Rectorado",
           "hourFrom": "08:00",
           "hourTo": "11:00"
         }
@@ -8586,8 +8586,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "702F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "005T",
+          "building": "SDT",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -8604,8 +8604,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "504F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "102T",
+          "building": "SDT",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -8622,8 +8622,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "THURSDAY",
-          "classRoom": "503F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "103R",
+          "building": "Sede Rectorado",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -8852,17 +8852,6 @@
             "hourTo": "18:00"
           }
         ]
-      },
-      {
-        "subjectCode": "94.64",
-        "subjectName": "Prácticas Expositivas",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "C",
-        "commissionId": "38660",
-        "quota": "0",
-        "enrolledStudents": "0"
       },
       {
         "subjectCode": "61.03",
@@ -9115,8 +9104,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "603F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "002T",
+          "building": "SDT",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -9134,15 +9123,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "704F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "09:00",
             "hourTo": "12:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "903F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "004T",
+            "building": "SDT",
             "hourFrom": "17:00",
             "hourTo": "20:00"
           }
@@ -9161,8 +9150,8 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "802F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "004T",
+            "building": "SDT",
             "hourFrom": "19:00",
             "hourTo": "22:00"
           },
@@ -9404,8 +9393,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "701F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "101R",
+            "building": "Sede Rectorado",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
@@ -9705,8 +9694,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "501F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "201R",
+          "building": "Sede Rectorado",
           "hourFrom": "18:30",
           "hourTo": "21:00"
         }
@@ -9813,22 +9802,11 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "301F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "203R",
+          "building": "Sede Rectorado",
           "hourFrom": "18:30",
           "hourTo": "21:30"
         }
-      },
-      {
-        "subjectCode": "81.57",
-        "subjectName": "Arquitectura de soluciones digitales",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "B",
-        "commissionId": "38707",
-        "quota": "0",
-        "enrolledStudents": "0"
       },
       {
         "subjectCode": "81.58",
@@ -10203,7 +10181,7 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "202R",
+            "classRoom": "103R",
             "building": "Sede Rectorado",
             "hourFrom": "14:00",
             "hourTo": "16:00"
@@ -10552,7 +10530,7 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "804F",
+            "classRoom": "501F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "19:00",
             "hourTo": "22:00"
@@ -10579,7 +10557,7 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "804F",
+            "classRoom": "501F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "19:00",
             "hourTo": "22:00"
@@ -10634,7 +10612,7 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "002T",
+          "classRoom": "201T",
           "building": "SDT",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -11538,8 +11516,8 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "801F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "201T",
+            "building": "SDT",
             "hourFrom": "14:00",
             "hourTo": "17:00"
           }
@@ -11665,8 +11643,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "002T",
-          "building": "SDT",
+          "classRoom": "601F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "10:00",
           "hourTo": "13:00"
         }
@@ -12195,8 +12173,8 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "S101",
-            "building": "Sede Rectorado",
+            "classRoom": "403F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           }
@@ -12214,8 +12192,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "002T",
-          "building": "SDT",
+          "classRoom": "504F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -12233,8 +12211,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "004T",
-            "building": "SDT",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "15:00",
             "hourTo": "18:00"
           },
@@ -12313,8 +12291,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "101T",
-          "building": "SDT",
+          "classRoom": "604F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "16:00",
           "hourTo": "18:00"
         }
@@ -12331,8 +12309,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "400F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "S103",
+          "building": "Sede Rectorado",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -13052,7 +13030,7 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "102T",
+            "classRoom": "S101T",
             "building": "SDT",
             "hourFrom": "14:00",
             "hourTo": "16:00"
@@ -13446,7 +13424,7 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "803F",
+            "classRoom": "503F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "22:00"
@@ -13779,8 +13757,8 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "301F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "201T",
+            "building": "SDT",
             "hourFrom": "16:00",
             "hourTo": "19:00"
           },
@@ -14015,7 +13993,7 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "203R",
+          "classRoom": "007R",
           "building": "Sede Rectorado",
           "hourFrom": "08:00",
           "hourTo": "11:00"
@@ -14061,8 +14039,8 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "501F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "104R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "11:00"
           },
@@ -14095,8 +14073,8 @@
           },
           {
             "day": "TUESDAY",
-            "classRoom": "501F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "003R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "11:00"
           }
@@ -14115,8 +14093,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "501F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "001T",
+            "building": "SDT",
             "hourFrom": "18:30",
             "hourTo": "21:30"
           },
@@ -14142,15 +14120,15 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "301F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "102T",
+            "building": "SDT",
             "hourFrom": "13:00",
             "hourTo": "16:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "401F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "101R",
+            "building": "Sede Rectorado",
             "hourFrom": "09:00",
             "hourTo": "12:00"
           }
@@ -14223,8 +14201,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "901F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "004T",
+            "building": "SDT",
             "hourFrom": "15:00",
             "hourTo": "18:00"
           },
@@ -14382,8 +14360,8 @@
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "601F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "102T",
+          "building": "SDT",
           "hourFrom": "10:00",
           "hourTo": "13:00"
         }
@@ -14480,7 +14458,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "102T",
+            "classRoom": "S101T",
             "building": "SDT",
             "hourFrom": "09:30",
             "hourTo": "12:30"
@@ -15174,8 +15152,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "001T",
-          "building": "SDT",
+          "classRoom": "804F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -15310,8 +15288,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "S102",
-            "building": "Sede Rectorado",
+            "classRoom": "S901",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "15:00",
             "hourTo": "18:00"
           },
