@@ -127,7 +127,7 @@
         "commissionName": "M",
         "commissionId": "38404",
         "quota": "0",
-        "enrolledStudents": "6",
+        "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual Asincrónico",
@@ -190,7 +190,7 @@
         "commissionName": "BIO",
         "commissionId": "38445",
         "quota": "0",
-        "enrolledStudents": "9",
+        "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "401F",
@@ -244,7 +244,7 @@
         "commissionName": "K",
         "commissionId": "38842",
         "quota": "0",
-        "enrolledStudents": "9",
+        "enrolledStudents": "11",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "S102",
@@ -262,7 +262,7 @@
         "commissionName": "S",
         "commissionId": "38887",
         "quota": "0",
-        "enrolledStudents": "22",
+        "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
