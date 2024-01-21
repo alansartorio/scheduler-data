@@ -208,7 +208,7 @@
         "commissionName": "A",
         "commissionId": "38739",
         "quota": "0",
-        "enrolledStudents": "71",
+        "enrolledStudents": "72",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "902F",
@@ -262,7 +262,7 @@
         "commissionName": "S",
         "commissionId": "38887",
         "quota": "0",
-        "enrolledStudents": "23",
+        "enrolledStudents": "25",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
