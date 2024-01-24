@@ -432,10 +432,7 @@
                     "code": "12.13",
                     "credits": "6",
                     "dependencies": {
-                      "dependency": [
-                        "12.11",
-                        "12.12"
-                      ]
+                      "dependency": "12.11"
                     }
                   },
                   {
@@ -453,10 +450,7 @@
                     "code": "12.40",
                     "credits": "3",
                     "dependencies": {
-                      "dependency": [
-                        "12.11",
-                        "12.12"
-                      ]
+                      "dependency": "12.12"
                     }
                   },
                   {
@@ -465,10 +459,7 @@
                     "code": "12.41",
                     "credits": "1",
                     "dependencies": {
-                      "dependency": [
-                        "12.11",
-                        "12.12"
-                      ]
+                      "dependency": "12.12"
                     }
                   },
                   {

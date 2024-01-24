@@ -590,6 +590,20 @@
             },
             {
               "type": "subject",
+              "name": "Taller de Modelización de Productos",
+              "code": "11.34",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Química II",
+              "code": "12.02",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Neurociencias y Desarrollo Productivo",
               "code": "16.04",
               "credits": "3",

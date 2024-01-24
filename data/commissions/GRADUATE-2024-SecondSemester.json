@@ -190,7 +190,7 @@
         "commissionName": "BIO",
         "commissionId": "38445",
         "quota": "0",
-        "enrolledStudents": "11",
+        "enrolledStudents": "12",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "401F",
@@ -213,8 +213,8 @@
           "day": "MONDAY",
           "classRoom": "902F",
           "building": "Sede Distrito Financiero",
-          "hourFrom": "19:00",
-          "hourTo": "22:00"
+          "hourFrom": "12:00",
+          "hourTo": "15:00"
         }
       },
       {
