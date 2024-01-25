@@ -127,7 +127,7 @@
         "commissionName": "M",
         "commissionId": "38404",
         "quota": "0",
-        "enrolledStudents": "8",
+        "enrolledStudents": "9",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual Asincrónico",
@@ -145,7 +145,7 @@
         "commissionName": "M",
         "commissionId": "38408",
         "quota": "0",
-        "enrolledStudents": "2",
+        "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
@@ -190,7 +190,7 @@
         "commissionName": "BIO",
         "commissionId": "38445",
         "quota": "0",
-        "enrolledStudents": "12",
+        "enrolledStudents": "13",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "401F",
@@ -208,14 +208,23 @@
         "commissionName": "A",
         "commissionId": "38739",
         "quota": "0",
-        "enrolledStudents": "76",
-        "courseCommissionTimes": {
-          "day": "MONDAY",
-          "classRoom": "902F",
-          "building": "Sede Distrito Financiero",
-          "hourFrom": "12:00",
-          "hourTo": "15:00"
-        }
+        "enrolledStudents": "77",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "902F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "12:00",
+            "hourTo": "15:00"
+          },
+          {
+            "day": "MONDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          }
+        ]
       },
       {
         "subjectCode": "41.34",
@@ -262,7 +271,7 @@
         "commissionName": "S",
         "commissionId": "38887",
         "quota": "0",
-        "enrolledStudents": "27",
+        "enrolledStudents": "30",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Virtual asincrónico",
