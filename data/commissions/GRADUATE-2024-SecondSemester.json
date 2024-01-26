@@ -190,7 +190,7 @@
         "commissionName": "BIO",
         "commissionId": "38445",
         "quota": "0",
-        "enrolledStudents": "13",
+        "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "401F",
@@ -209,22 +209,13 @@
         "commissionId": "38739",
         "quota": "0",
         "enrolledStudents": "77",
-        "courseCommissionTimes": [
-          {
-            "day": "MONDAY",
-            "classRoom": "902F",
-            "building": "Sede Distrito Financiero",
-            "hourFrom": "12:00",
-            "hourTo": "15:00"
-          },
-          {
-            "day": "MONDAY",
-            "classRoom": "Presencial",
-            "building": "External",
-            "hourFrom": "19:00",
-            "hourTo": "22:00"
-          }
-        ]
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "902F",
+          "building": "Sede Distrito Financiero",
+          "hourFrom": "19:00",
+          "hourTo": "22:00"
+        }
       },
       {
         "subjectCode": "41.34",
@@ -253,7 +244,7 @@
         "commissionName": "K",
         "commissionId": "38842",
         "quota": "0",
-        "enrolledStudents": "13",
+        "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "S102",
