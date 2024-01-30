@@ -1923,7 +1923,7 @@
         "commissionName": "A",
         "commissionId": "38426",
         "quota": "0",
-        "enrolledStudents": "13",
+        "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "S101T",
@@ -5487,7 +5487,7 @@
         "commissionName": "C",
         "commissionId": "38983",
         "quota": "0",
-        "enrolledStudents": "6",
+        "enrolledStudents": "7",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -7015,7 +7015,7 @@
         "commissionName": "A",
         "commissionId": "38583",
         "quota": "0",
-        "enrolledStudents": "68",
+        "enrolledStudents": "69",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -8168,7 +8168,7 @@
         "commissionName": "B",
         "commissionId": "38632",
         "quota": "0",
-        "enrolledStudents": "16",
+        "enrolledStudents": "17",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -9163,7 +9163,7 @@
         "commissionName": "A",
         "commissionId": "38674",
         "quota": "0",
-        "enrolledStudents": "58",
+        "enrolledStudents": "59",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "701F",
@@ -10635,7 +10635,7 @@
         "commissionName": "A",
         "commissionId": "38732",
         "quota": "0",
-        "enrolledStudents": "15",
+        "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "202R",
@@ -11043,7 +11043,7 @@
         "commissionName": "A",
         "commissionId": "38749",
         "quota": "0",
-        "enrolledStudents": "14",
+        "enrolledStudents": "15",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -11079,7 +11079,7 @@
         "commissionName": "A",
         "commissionId": "38750",
         "quota": "0",
-        "enrolledStudents": "2"
+        "enrolledStudents": "4"
       },
       {
         "subjectCode": "11.10",
@@ -14214,7 +14214,7 @@
         "commissionName": "S",
         "commissionId": "38884",
         "quota": "0",
-        "enrolledStudents": "32",
+        "enrolledStudents": "33",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -14266,7 +14266,7 @@
         "commissionName": "S",
         "commissionId": "38886",
         "quota": "0",
-        "enrolledStudents": "44",
+        "enrolledStudents": "45",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -15402,6 +15402,24 @@
             "hourTo": "17:00"
           }
         ]
+      },
+      {
+        "subjectCode": "17.22",
+        "subjectName": "Cálculo de Huella de Carbono en Organizaciones",
+        "subjectType": "SEMINARY",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Q",
+        "commissionId": "39528",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "13:00",
+          "hourTo": "16:00"
+        }
       }
     ]
   }
