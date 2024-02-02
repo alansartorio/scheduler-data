@@ -404,6 +404,7 @@
                   "name": "Proyecto Final de Ingeniería Industrial (Anual)",
                   "code": "10.01",
                   "credits": "6",
+                  "creditsRequired": "160",
                   "dependencies": null
                 }
               }
@@ -565,6 +566,14 @@
               "code": "10.23",
               "credits": "3",
               "creditsRequired": "145",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Apoyo Proyecto Final de Carrera",
+              "code": "10.98",
+              "credits": "6",
+              "creditsRequired": "160",
               "dependencies": null
             },
             {
