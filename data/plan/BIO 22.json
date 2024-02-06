@@ -231,7 +231,7 @@
                     "code": "16.03",
                     "credits": "6",
                     "dependencies": {
-                      "dependency": "16.01"
+                      "dependency": "16.02"
                     }
                   },
                   {
@@ -701,6 +701,15 @@
             },
             {
               "type": "subject",
+              "name": "Inmunología Biológica",
+              "code": "16.52",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.03"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Biotecnología aplicada",
               "code": "16.53",
               "credits": "3",
@@ -825,7 +834,10 @@
               "code": "16.80",
               "credits": "3",
               "dependencies": {
-                "dependency": "93.61"
+                "dependency": [
+                  "23.02",
+                  "16.64"
+                ]
               }
             },
             {

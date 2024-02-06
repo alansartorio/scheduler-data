@@ -582,10 +582,7 @@
                     "code": "12.84",
                     "credits": "4",
                     "dependencies": {
-                      "dependency": [
-                        "12.24",
-                        "12.12"
-                      ]
+                      "dependency": "12.24"
                     }
                   },
                   {
@@ -699,9 +696,7 @@
               "name": "Seguridad Ocupacional y Ambiental",
               "code": "12.83",
               "credits": "3",
-              "dependencies": {
-                "dependency": "21.08"
-              }
+              "dependencies": null
             },
             {
               "type": "subject",

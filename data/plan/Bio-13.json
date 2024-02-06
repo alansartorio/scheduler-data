@@ -916,6 +916,18 @@
             },
             {
               "type": "subject",
+              "name": "Microfluídica",
+              "code": "16.80",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "16.13",
+                  "23.02"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Neurobiología del Aprendizaje y el Control Motor Orientado al Deporte",
               "code": "16.81",
               "credits": "3",
