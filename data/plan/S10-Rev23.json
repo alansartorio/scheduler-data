@@ -1149,6 +1149,19 @@
             },
             {
               "type": "subject",
+              "name": "Arquitectura de soluciones digitales",
+              "code": "81.57",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "72.07",
+                  "72.37",
+                  "72.35"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Cloud Computing",
               "code": "82.08",
               "credits": "3",
