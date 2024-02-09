@@ -1311,6 +1311,15 @@
             },
             {
               "type": "subject",
+              "name": "Inteligencia Artificial Generativa",
+              "code": "82.22",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "81.57"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Propiedad Intelectual y Nuevas Tecnologías",
               "code": "94.15",
               "credits": "3",

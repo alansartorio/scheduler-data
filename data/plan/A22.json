@@ -900,6 +900,15 @@
                   "71.45"
                 ]
               }
+            },
+            {
+              "type": "subject",
+              "name": "Inteligencia Artificial Generativa",
+              "code": "82.22",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "82.05"
+              }
             }
           ]
         }
