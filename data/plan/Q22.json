@@ -1157,6 +1157,13 @@
             },
             {
               "type": "subject",
+              "name": "Macroeconomía",
+              "code": "61.82",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Gestión de Servicios",
               "code": "81.59",
               "credits": "3",

@@ -412,14 +412,6 @@
             },
             {
               "type": "subject",
-              "name": "Prototipado e Impresión 3D",
-              "code": "11.19",
-              "credits": "3",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Teoría de la Decisión",
               "code": "11.73",
               "credits": "3",
@@ -847,6 +839,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
@@ -1625,6 +1625,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
@@ -2456,6 +2464,14 @@
           "withoutTerm": [
             {
               "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
               "code": "12.46",
               "credits": "3",
@@ -3222,6 +3238,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
@@ -4060,6 +4084,14 @@
           "withoutTerm": [
             {
               "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Señales y Sistemas",
               "code": "16.06",
               "credits": "3",
@@ -4865,6 +4897,14 @@
           "withoutTerm": [
             {
               "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
               "code": "12.46",
               "credits": "3",
@@ -5643,6 +5683,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
@@ -6440,6 +6488,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
@@ -7243,6 +7299,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
@@ -8086,6 +8150,14 @@
           "withoutTerm": [
             {
               "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",
               "code": "12.46",
               "credits": "3",
@@ -8924,6 +8996,14 @@
           "withoutTerm": [
             {
               "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Señales y Sistemas",
               "code": "16.06",
               "credits": "3",
@@ -9682,6 +9762,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Prototipado e Impresión 3D",
+              "code": "11.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Introducción al Proceso de Fabricación de Aceros",

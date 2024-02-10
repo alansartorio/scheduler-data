@@ -308,10 +308,7 @@
                     "code": "12.96",
                     "credits": "1",
                     "dependencies": {
-                      "dependency": [
-                        "12.20",
-                        "12.19"
-                      ]
+                      "dependency": "12.20"
                     }
                   },
                   {

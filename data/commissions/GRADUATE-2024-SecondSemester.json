@@ -190,7 +190,7 @@
         "commissionName": "BIO",
         "commissionId": "38445",
         "quota": "0",
-        "enrolledStudents": "14",
+        "enrolledStudents": "15",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "404F",
@@ -243,7 +243,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "K",
         "commissionId": "38842",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
