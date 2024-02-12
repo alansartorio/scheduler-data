@@ -12410,7 +12410,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38825",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "24",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -12428,7 +12428,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38826",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "32",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -13094,7 +13094,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39028",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "20",
         "courseCommissionTimes": [
           {
@@ -13128,7 +13128,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39030",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "10",
         "courseCommissionTimes": [
           {
@@ -13182,7 +13182,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39032",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "5",
         "courseCommissionTimes": [
           {
@@ -13281,7 +13281,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38855",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "85",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -13299,7 +13299,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38856",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "38",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -13317,7 +13317,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38857",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "19",
         "courseCommissionTimes": [
           {
@@ -13344,7 +13344,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38858",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "26",
         "courseCommissionTimes": [
           {
@@ -13371,7 +13371,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38859",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "25",
         "courseCommissionTimes": [
           {
@@ -13398,7 +13398,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38860",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "52",
         "courseCommissionTimes": [
           {
@@ -13425,7 +13425,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38861",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "5",
         "courseCommissionTimes": [
           {
@@ -13452,7 +13452,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38862",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "14",
         "courseCommissionTimes": [
           {
@@ -13479,7 +13479,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "E",
         "commissionId": "38863",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "34",
         "courseCommissionTimes": [
           {
@@ -13506,7 +13506,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "F",
         "commissionId": "38864",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "24",
         "courseCommissionTimes": [
           {
@@ -13533,7 +13533,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38865",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -13551,7 +13551,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38866",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "2",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -13569,7 +13569,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S1",
         "commissionId": "38867",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "FRIDAY",
@@ -13587,7 +13587,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38868",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "38",
         "courseCommissionTimes": [
           {
@@ -13668,7 +13668,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38871",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "103",
         "courseCommissionTimes": [
           {
@@ -13695,7 +13695,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38872",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "25",
         "courseCommissionTimes": [
           {
@@ -13824,7 +13824,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38875",
-        "quota": "0",
+        "quota": "48",
         "enrolledStudents": "49",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -13842,7 +13842,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38876",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "63",
         "courseCommissionTimes": [
           {
@@ -13869,7 +13869,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38877",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "74",
         "courseCommissionTimes": [
           {
@@ -13896,7 +13896,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38878",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "41",
         "courseCommissionTimes": [
           {
@@ -13923,7 +13923,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38879",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "44",
         "courseCommissionTimes": [
           {
@@ -13950,7 +13950,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38880",
-        "quota": "0",
+        "quota": "48",
         "enrolledStudents": "46",
         "courseCommissionTimes": [
           {
@@ -13977,7 +13977,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38881",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "22",
         "courseCommissionTimes": [
           {
@@ -14004,7 +14004,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S1",
         "commissionId": "39050",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "15",
         "courseCommissionTimes": [
           {
@@ -14058,7 +14058,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38883",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "46",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -14281,7 +14281,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39039",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "21",
         "courseCommissionTimes": [
           {
@@ -14308,7 +14308,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39040",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "18",
         "courseCommissionTimes": [
           {
@@ -14335,7 +14335,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39041",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "10",
         "courseCommissionTimes": [
           {
@@ -14362,7 +14362,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39042",
-        "quota": "0",
+        "quota": "9",
         "enrolledStudents": "9",
         "courseCommissionTimes": [
           {
@@ -14848,7 +14848,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39038",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "15",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -14866,7 +14866,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39043",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "19",
         "courseCommissionTimes": {
           "day": "MONDAY",
