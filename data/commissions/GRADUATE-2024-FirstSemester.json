@@ -54,7 +54,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38017",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "29",
         "courseCommissionTimes": [
           {
@@ -494,7 +494,7 @@
         "commissionName": "A",
         "commissionId": "38373",
         "quota": "24",
-        "enrolledStudents": "9",
+        "enrolledStudents": "10",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -1911,7 +1911,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38424",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -1929,7 +1929,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38425",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "29",
         "courseCommissionTimes": [
           {
@@ -1956,7 +1956,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38426",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -1992,7 +1992,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38428",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "33",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -2021,7 +2021,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38975",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -2039,7 +2039,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38430",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "31",
         "courseCommissionTimes": [
           {
@@ -2066,7 +2066,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38431",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
@@ -2093,7 +2093,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38432",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "14",
         "courseCommissionTimes": [
           {
@@ -2120,7 +2120,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO 2",
         "commissionId": "39122",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "9",
         "courseCommissionTimes": [
           {
@@ -2147,7 +2147,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38433",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "24",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -2165,7 +2165,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38434",
-        "quota": "0",
+        "quota": "16",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
@@ -2192,7 +2192,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38435",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "15",
         "courseCommissionTimes": [
           {
@@ -2219,7 +2219,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38436",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "26",
         "courseCommissionTimes": [
           {
@@ -2246,7 +2246,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38437",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "17",
         "courseCommissionTimes": [
           {
@@ -2280,7 +2280,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38438",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "21",
         "courseCommissionTimes": [
           {
@@ -2307,7 +2307,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38439",
-        "quota": "0",
+        "quota": "4",
         "enrolledStudents": "20",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -2325,7 +2325,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38440",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "5",
         "courseCommissionTimes": [
           {
@@ -2352,7 +2352,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38441",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "19",
         "courseCommissionTimes": [
           {
@@ -2379,7 +2379,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38442",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "14",
         "courseCommissionTimes": [
           {
@@ -2451,8 +2451,8 @@
         "courseEnd": "31/12/24",
         "commissionName": "BIO",
         "commissionId": "38445",
-        "quota": "0",
-        "enrolledStudents": "15",
+        "quota": "16",
+        "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "404F",
@@ -2523,7 +2523,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38449",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "1",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -2541,7 +2541,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38971",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "27",
         "courseCommissionTimes": [
           {
@@ -2575,7 +2575,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38973",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "43",
         "courseCommissionTimes": [
           {
@@ -2636,7 +2636,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38966",
-        "quota": "30",
+        "quota": "24",
         "enrolledStudents": "20",
         "courseCommissionTimes": [
           {
@@ -2655,8 +2655,8 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "104R",
-            "building": "Sede Rectorado",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           }
@@ -2704,12 +2704,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38452",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "17",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "101T",
-          "building": "SDT",
+          "classRoom": "101R",
+          "building": "Sede Rectorado",
           "hourFrom": "08:00",
           "hourTo": "11:00"
         }
@@ -2722,7 +2722,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S2",
         "commissionId": "38453",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "73",
         "courseCommissionTimes": {
           "day": "FRIDAY",
@@ -2806,14 +2806,14 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "S103",
-            "building": "Sede Rectorado",
+            "classRoom": "005T",
+            "building": "SDT",
             "hourFrom": "08:00",
             "hourTo": "11:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "003T",
+            "classRoom": "004T",
             "building": "SDT",
             "hourFrom": "08:00",
             "hourTo": "10:00"
@@ -2835,7 +2835,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38457",
-        "quota": "18",
+        "quota": "16",
         "enrolledStudents": "11",
         "courseCommissionTimes": [
           {
@@ -2854,7 +2854,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "504F",
+            "classRoom": "404F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "10:00",
             "hourTo": "12:00"
@@ -3073,7 +3073,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "G",
         "commissionId": "38463",
-        "quota": "40",
+        "quota": "30",
         "enrolledStudents": "4",
         "courseCommissionTimes": [
           {
@@ -3092,7 +3092,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "101R",
+            "classRoom": "004R",
             "building": "Sede Rectorado",
             "hourFrom": "14:00",
             "hourTo": "16:00"
@@ -3467,7 +3467,7 @@
         "enrolledStudents": "32",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "101R",
+          "classRoom": "007R",
           "building": "Sede Rectorado",
           "hourFrom": "17:00",
           "hourTo": "20:00"
@@ -3539,7 +3539,7 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "002R",
+          "classRoom": "007R",
           "building": "Sede Rectorado",
           "hourFrom": "17:00",
           "hourTo": "20:00"
@@ -4028,12 +4028,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38497",
-        "quota": "30",
+        "quota": "40",
         "enrolledStudents": "60",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "104R",
+            "classRoom": "101R",
             "building": "Sede Rectorado",
             "hourFrom": "11:00",
             "hourTo": "13:00"
@@ -4130,7 +4130,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "F",
         "commissionId": "38500",
-        "quota": "24",
+        "quota": "40",
         "enrolledStudents": "17",
         "courseCommissionTimes": [
           {
@@ -4142,14 +4142,14 @@
           },
           {
             "day": "TUESDAY",
-            "classRoom": "001T",
-            "building": "SDT",
+            "classRoom": "001R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "001T",
+            "classRoom": "201T",
             "building": "SDT",
             "hourFrom": "11:00",
             "hourTo": "13:00"
@@ -4164,12 +4164,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "H",
         "commissionId": "38502",
-        "quota": "30",
+        "quota": "40",
         "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "104R",
+            "classRoom": "101R",
             "building": "Sede Rectorado",
             "hourFrom": "09:00",
             "hourTo": "11:00"
@@ -4237,8 +4237,8 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "101R",
-            "building": "Sede Rectorado",
+            "classRoom": "101T",
+            "building": "SDT",
             "hourFrom": "09:00",
             "hourTo": "12:00"
           }
@@ -4264,8 +4264,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "005R",
-            "building": "Sede Rectorado",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "14:00",
             "hourTo": "16:00"
           }
@@ -4284,8 +4284,8 @@
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "101R",
-            "building": "Sede Rectorado",
+            "classRoom": "101T",
+            "building": "SDT",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
@@ -4318,8 +4318,8 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "006R",
-            "building": "Sede Rectorado",
+            "classRoom": "101T",
+            "building": "SDT",
             "hourFrom": "12:00",
             "hourTo": "15:00"
           }
@@ -4360,27 +4360,27 @@
         "courseEnd": "21/07/24",
         "commissionName": "G",
         "commissionId": "38509",
-        "quota": "40",
+        "quota": "24",
         "enrolledStudents": "16",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "003R",
-            "building": "Sede Rectorado",
+            "classRoom": "101T",
+            "building": "SDT",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           },
           {
             "day": "TUESDAY",
-            "classRoom": "201T",
+            "classRoom": "001T",
             "building": "SDT",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "006R",
-            "building": "Sede Rectorado",
+            "classRoom": "005T",
+            "building": "SDT",
             "hourFrom": "12:00",
             "hourTo": "14:00"
           }
@@ -4532,7 +4532,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "004R",
+            "classRoom": "101R",
             "building": "Sede Rectorado",
             "hourFrom": "14:00",
             "hourTo": "16:00"
@@ -4619,7 +4619,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38520",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "46",
         "courseCommissionTimes": {
           "day": "FRIDAY",
@@ -5045,7 +5045,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38530",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "4",
         "courseCommissionTimes": [
           {
@@ -5072,7 +5072,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38531",
-        "quota": "0",
+        "quota": "48",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
@@ -5099,7 +5099,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38986",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
@@ -5194,7 +5194,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38988",
-        "quota": "24",
+        "quota": "40",
         "enrolledStudents": "24",
         "courseCommissionTimes": [
           {
@@ -5206,8 +5206,8 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "007R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -5228,7 +5228,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38989",
-        "quota": "24",
+        "quota": "40",
         "enrolledStudents": "18",
         "courseCommissionTimes": [
           {
@@ -5240,8 +5240,8 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "007R",
+            "building": "Sede Rectorado",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
@@ -5262,7 +5262,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "E",
         "commissionId": "38990",
-        "quota": "24",
+        "quota": "40",
         "enrolledStudents": "23",
         "courseCommissionTimes": [
           {
@@ -5274,8 +5274,8 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "005T",
-            "building": "SDT",
+            "classRoom": "003R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -5328,8 +5328,8 @@
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "201T",
-            "building": "SDT",
+            "classRoom": "101R",
+            "building": "Sede Rectorado",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -5595,8 +5595,8 @@
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "202R",
-            "building": "Sede Rectorado",
+            "classRoom": "004T",
+            "building": "SDT",
             "hourFrom": "12:00",
             "hourTo": "15:00"
           },
@@ -6120,13 +6120,13 @@
         "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38557",
-        "quota": "40",
+        "quota": "24",
         "enrolledStudents": "24",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "003R",
-            "building": "Sede Rectorado",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "08:00",
             "hourTo": "10:00"
           },
@@ -6154,13 +6154,13 @@
         "courseEnd": "21/07/24",
         "commissionName": "E",
         "commissionId": "38558",
-        "quota": "30",
+        "quota": "24",
         "enrolledStudents": "14",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
-            "classRoom": "005R",
-            "building": "Sede Rectorado",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "10:00",
             "hourTo": "12:00"
           },
@@ -6392,7 +6392,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38563",
-        "quota": "8",
+        "quota": "48",
         "enrolledStudents": "56",
         "courseCommissionTimes": [
           {
@@ -6404,8 +6404,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "S102",
-            "building": "Sede Rectorado",
+            "classRoom": "201T",
+            "building": "SDT",
             "hourFrom": "15:00",
             "hourTo": "17:00"
           },
@@ -6445,7 +6445,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "104R",
+            "classRoom": "004R",
             "building": "Sede Rectorado",
             "hourFrom": "18:00",
             "hourTo": "20:00"
@@ -6664,7 +6664,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38570",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "32",
         "courseCommissionTimes": [
           {
@@ -6691,7 +6691,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38571",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "34",
         "courseCommissionTimes": [
           {
@@ -6857,14 +6857,14 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "004R",
+            "classRoom": "007R",
             "building": "Sede Rectorado",
             "hourFrom": "14:00",
             "hourTo": "16:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "004R",
+            "classRoom": "007R",
             "building": "Sede Rectorado",
             "hourFrom": "16:00",
             "hourTo": "18:00"
@@ -6886,7 +6886,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38581",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "93",
         "courseCommissionTimes": [
           {
@@ -6913,7 +6913,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38582",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "21",
         "courseCommissionTimes": [
           {
@@ -6940,7 +6940,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38976",
-        "quota": "9",
+        "quota": "48",
         "enrolledStudents": "61",
         "courseCommissionTimes": [
           {
@@ -6952,8 +6952,8 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "S101",
-            "building": "Sede Rectorado",
+            "classRoom": "201T",
+            "building": "SDT",
             "hourFrom": "13:00",
             "hourTo": "15:00"
           }
@@ -6979,7 +6979,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "005T",
+            "classRoom": "102T",
             "building": "SDT",
             "hourFrom": "16:00",
             "hourTo": "18:00"
@@ -7075,11 +7075,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38586",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "25",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "301F",
+          "classRoom": "501F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -7104,8 +7104,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38588",
-        "quota": "0",
-        "enrolledStudents": "22",
+        "quota": "30",
+        "enrolledStudents": "21",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -7116,7 +7116,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "102R",
+            "classRoom": "004R",
             "building": "Sede Rectorado",
             "hourFrom": "15:00",
             "hourTo": "18:00"
@@ -7131,7 +7131,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38589",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "30",
         "courseCommissionTimes": [
           {
@@ -7158,7 +7158,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "Inglés",
         "commissionId": "38590",
-        "quota": "0",
+        "quota": "9",
         "enrolledStudents": "1",
         "courseCommissionTimes": [
           {
@@ -7170,7 +7170,7 @@
           },
           {
             "day": "FRIDAY",
-            "classRoom": "005R",
+            "classRoom": "S101",
             "building": "Sede Rectorado",
             "hourFrom": "18:30",
             "hourTo": "21:30"
@@ -7185,7 +7185,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "38591",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "52",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -7203,7 +7203,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38594",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "22",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -7221,12 +7221,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38595",
-        "quota": "30",
+        "quota": "36",
         "enrolledStudents": "27",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "201F",
+            "classRoom": "801F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "12:00",
             "hourTo": "15:00"
@@ -7289,7 +7289,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "AM",
         "commissionId": "38597",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "25",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -7307,7 +7307,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BM",
         "commissionId": "38598",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "47",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -7325,7 +7325,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "CM",
         "commissionId": "38599",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "32",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -7343,7 +7343,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "D",
         "commissionId": "38600",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "18",
         "courseCommissionTimes": {
           "day": "FRIDAY",
@@ -7361,7 +7361,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38601",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "29",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -7379,7 +7379,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38602",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "22",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -7397,7 +7397,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38603",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "18",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -7415,7 +7415,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38604",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "30",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -7433,12 +7433,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38605",
-        "quota": "0",
+        "quota": "1",
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "901F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "Presencial",
+          "building": "External",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -7451,7 +7451,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38984",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "34",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -7538,7 +7538,7 @@
         "commissionName": "B",
         "commissionId": "38609",
         "quota": "0",
-        "enrolledStudents": "19",
+        "enrolledStudents": "18",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
@@ -7572,7 +7572,7 @@
         "commissionName": "C",
         "commissionId": "38610",
         "quota": "0",
-        "enrolledStudents": "33",
+        "enrolledStudents": "34",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -7642,7 +7642,7 @@
         "commissionName": "A",
         "commissionId": "38613",
         "quota": "0",
-        "enrolledStudents": "24",
+        "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "005T",
@@ -8087,7 +8087,7 @@
         "commissionName": "A",
         "commissionId": "38628",
         "quota": "36",
-        "enrolledStudents": "25",
+        "enrolledStudents": "24",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
@@ -8851,11 +8851,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38663",
-        "quota": "18",
+        "quota": "16",
         "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "202F",
+          "classRoom": "404F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
@@ -9046,7 +9046,7 @@
         "commissionName": "A",
         "commissionId": "38670",
         "quota": "0",
-        "enrolledStudents": "12",
+        "enrolledStudents": "13",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "Virtual",
@@ -9178,21 +9178,10 @@
         "subjectType": "NORMAL",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
-        "commissionName": "A",
-        "commissionId": "38676",
-        "quota": "0",
-        "enrolledStudents": "6"
-      },
-      {
-        "subjectCode": "82.08",
-        "subjectName": "Cloud Computing",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
         "commissionName": "AWS",
         "commissionId": "39021",
         "quota": "0",
-        "enrolledStudents": "6",
+        "enrolledStudents": "12",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "702F",
@@ -9299,7 +9288,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38682",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "13",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -9378,12 +9367,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38686",
-        "quota": "0",
+        "quota": "16",
         "enrolledStudents": "9",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
-            "classRoom": "902F",
+            "classRoom": "604F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "16:00",
             "hourTo": "18:00"
@@ -9744,7 +9733,7 @@
         "commissionName": "A",
         "commissionId": "38705",
         "quota": "0",
-        "enrolledStudents": "31",
+        "enrolledStudents": "32",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual",
@@ -9762,7 +9751,7 @@
         "commissionName": "A",
         "commissionId": "38706",
         "quota": "0",
-        "enrolledStudents": "38",
+        "enrolledStudents": "39",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "203R",
@@ -9837,7 +9826,7 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "Presencial",
+          "classRoom": "Virtual",
           "building": "External",
           "hourFrom": "18:30",
           "hourTo": "21:30"
@@ -10220,7 +10209,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38727",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "2",
         "courseCommissionTimes": [
           {
@@ -10481,7 +10470,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39024",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -10499,7 +10488,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39044",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "11",
         "courseCommissionTimes": [
           {
@@ -10511,7 +10500,7 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "501F",
+            "classRoom": "904F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "19:00",
             "hourTo": "22:00"
@@ -10580,7 +10569,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38732",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -10598,12 +10587,30 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38733",
-        "quota": "0",
-        "enrolledStudents": "63",
+        "quota": "41",
+        "enrolledStudents": "41",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "202R",
           "building": "Sede Rectorado",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
+      },
+      {
+        "subjectCode": "11.28",
+        "subjectName": "Sistemas Complejos",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "Piloto",
+        "commissionId": "39583",
+        "quota": "10",
+        "enrolledStudents": "10",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -10776,7 +10783,7 @@
         "enrolledStudents": "79",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "Presencial",
+          "classRoom": "Presencial sincrónico",
           "building": "External",
           "hourFrom": "19:00",
           "hourTo": "22:00"
@@ -11062,7 +11069,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38756",
-        "quota": "0",
+        "quota": "41",
         "enrolledStudents": "18",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -11152,11 +11159,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38761",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "15",
         "courseCommissionTimes": {
           "day": "TUESDAY",
-          "classRoom": "501F",
+          "classRoom": "504F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -11170,7 +11177,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38762",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "18",
         "courseCommissionTimes": {
           "day": "FRIDAY",
@@ -11206,11 +11213,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38764",
-        "quota": "0",
+        "quota": "16",
         "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "402F",
+          "classRoom": "404F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "17:00",
           "hourTo": "20:00"
@@ -11224,7 +11231,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38765",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "29",
         "courseCommissionTimes": [
           {
@@ -11251,7 +11258,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38766",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "21",
         "courseCommissionTimes": [
           {
@@ -11278,8 +11285,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38767",
-        "quota": "0",
-        "enrolledStudents": "78",
+        "quota": "41",
+        "enrolledStudents": "41",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "501F",
@@ -11296,8 +11303,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38768",
-        "quota": "0",
-        "enrolledStudents": "2",
+        "quota": "24",
+        "enrolledStudents": "24",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "902F",
@@ -11314,8 +11321,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38769",
-        "quota": "0",
-        "enrolledStudents": "62",
+        "quota": "40",
+        "enrolledStudents": "40",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -11341,7 +11348,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38770",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "9",
         "courseCommissionTimes": [
           {
@@ -11368,7 +11375,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "38771",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "8",
         "courseCommissionTimes": [
           {
@@ -11395,7 +11402,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38772",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "17",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -11413,11 +11420,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38773",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "2",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "704F",
+          "classRoom": "400F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -11431,11 +11438,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38774",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "801F",
+          "classRoom": "602F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -11449,11 +11456,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38775",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "29",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "302F",
+          "classRoom": "401F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
@@ -11467,7 +11474,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38776",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "31",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -11485,7 +11492,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38777",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "18",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -11503,7 +11510,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "39412",
-        "quota": "24",
+        "quota": "35",
         "enrolledStudents": "35",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -11514,24 +11521,6 @@
         }
       },
       {
-        "subjectCode": "11.78",
-        "subjectName": "Estadística Aplicada II",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "A",
-        "commissionId": "38778",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": {
-          "day": "WEDNESDAY",
-          "classRoom": "004T",
-          "building": "SDT",
-          "hourFrom": "11:00",
-          "hourTo": "14:00"
-        }
-      },
-      {
         "subjectCode": "11.83",
         "subjectName": "Gestión de Operaciones",
         "subjectType": "NORMAL",
@@ -11539,8 +11528,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38784",
-        "quota": "0",
-        "enrolledStudents": "15",
+        "quota": "18",
+        "enrolledStudents": "16",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -11551,7 +11540,7 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "302F",
+            "classRoom": "704F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "15:00",
             "hourTo": "18:00"
@@ -11566,7 +11555,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38785",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "15",
         "courseCommissionTimes": [
           {
@@ -11593,8 +11582,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38786",
-        "quota": "0",
-        "enrolledStudents": "51",
+        "quota": "42",
+        "enrolledStudents": "42",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "501F",
@@ -11611,7 +11600,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38787",
-        "quota": "0",
+        "quota": "42",
         "enrolledStudents": "26",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -11629,7 +11618,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "39089",
-        "quota": "0",
+        "quota": "36",
         "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -11647,8 +11636,8 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38788",
-        "quota": "0",
-        "enrolledStudents": "60",
+        "quota": "42",
+        "enrolledStudents": "42",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -11660,6 +11649,33 @@
           {
             "day": "FRIDAY",
             "classRoom": "901F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "14:00",
+            "hourTo": "17:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "11.85",
+        "subjectName": "Toma de Decisiones",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "B",
+        "commissionId": "39585",
+        "quota": "18",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "704F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "14:00",
+            "hourTo": "17:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "704F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "14:00",
             "hourTo": "17:00"
@@ -11942,7 +11958,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39096",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "7",
         "courseCommissionTimes": [
           {
@@ -11969,12 +11985,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38806",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "704F",
+            "classRoom": "800F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "15:00",
             "hourTo": "18:00"
@@ -11984,7 +12000,7 @@
             "classRoom": "700F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "15:00",
-            "hourTo": "21:00"
+            "hourTo": "18:00"
           }
         ]
       },
@@ -11996,19 +12012,19 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38807",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "4",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "700F",
+            "classRoom": "800F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "403F",
+            "classRoom": "800F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
@@ -12023,11 +12039,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38808",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "2",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "504F",
+          "classRoom": "700F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
@@ -12158,12 +12174,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39063",
-        "quota": "0",
+        "quota": "15",
         "enrolledStudents": "13",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
-            "classRoom": "005R",
+            "classRoom": "006R",
             "building": "Sede Rectorado",
             "hourFrom": "16:00",
             "hourTo": "19:00"
@@ -12185,9 +12201,16 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "39064",
-        "quota": "0",
+        "quota": "55",
         "enrolledStudents": "55",
         "courseCommissionTimes": [
+          {
+            "day": "THURSDAY",
+            "classRoom": "005R",
+            "building": "Sede Rectorado",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
+          },
           {
             "day": "THURSDAY",
             "classRoom": "006R",
@@ -12212,13 +12235,13 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38816",
-        "quota": "0",
-        "enrolledStudents": "51",
+        "quota": "40",
+        "enrolledStudents": "40",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "003T",
-            "building": "SDT",
+            "classRoom": "203R",
+            "building": "Sede Rectorado",
             "hourFrom": "15:00",
             "hourTo": "18:00"
           },
@@ -12239,20 +12262,20 @@
         "courseEnd": "21/07/24",
         "commissionName": "B",
         "commissionId": "38817",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "6",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "003T",
-            "building": "SDT",
+            "classRoom": "005R",
+            "building": "Sede Rectorado",
             "hourFrom": "19:00",
             "hourTo": "22:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "102R",
-            "building": "Sede Rectorado",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "19:00",
             "hourTo": "22:00"
           }
@@ -12266,11 +12289,11 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39099",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "2",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "904F",
+          "classRoom": "S901",
           "building": "Sede Distrito Financiero",
           "hourFrom": "15:00",
           "hourTo": "18:00"
@@ -12500,7 +12523,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38829",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "52",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -12518,7 +12541,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38830",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "6",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -12536,7 +12559,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38831",
-        "quota": "0",
+        "quota": "16",
         "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -12554,7 +12577,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38832",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "6",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -12572,7 +12595,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38833",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -12608,7 +12631,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38835",
-        "quota": "0",
+        "quota": "4",
         "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -12638,34 +12661,7 @@
         "commissionName": "A",
         "commissionId": "38836",
         "quota": "0",
-        "enrolledStudents": "24",
-        "courseCommissionTimes": [
-          {
-            "day": "WEDNESDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "14:00",
-            "hourTo": "18:00"
-          },
-          {
-            "day": "THURSDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "14:00",
-            "hourTo": "16:00"
-          }
-        ]
-      },
-      {
-        "subjectCode": "22.10",
-        "subjectName": "Electrónica e Instrumentación",
-        "subjectType": "NORMAL",
-        "courseStart": "19/02/24",
-        "courseEnd": "21/07/24",
-        "commissionName": "B",
-        "commissionId": "38837",
-        "quota": "0",
-        "enrolledStudents": "3",
+        "enrolledStudents": "27",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
@@ -12726,7 +12722,7 @@
         "commissionName": "K",
         "commissionId": "38839",
         "quota": "24",
-        "enrolledStudents": "15",
+        "enrolledStudents": "16",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -14076,7 +14072,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38884",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "33",
         "courseCommissionTimes": [
           {
@@ -14110,7 +14106,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38885",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "36",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -14128,7 +14124,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38886",
-        "quota": "0",
+        "quota": "40",
         "enrolledStudents": "46",
         "courseCommissionTimes": [
           {
@@ -14191,7 +14187,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38889",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "35",
         "courseCommissionTimes": {
           "day": "MONDAY",
@@ -14209,7 +14205,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38890",
-        "quota": "0",
+        "quota": "16",
         "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -14245,7 +14241,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "S",
         "commissionId": "38892",
-        "quota": "0",
+        "quota": "16",
         "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -14263,7 +14259,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38893",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "13",
         "courseCommissionTimes": {
           "day": "FRIDAY",
@@ -14335,20 +14331,20 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39041",
-        "quota": "24",
+        "quota": "13",
         "enrolledStudents": "10",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "104R",
-            "building": "Sede Rectorado",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "17:00",
             "hourTo": "19:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "007R",
-            "building": "Sede Rectorado",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "17:00",
             "hourTo": "19:00"
           }
@@ -14389,12 +14385,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "38894",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "802F",
+            "classRoom": "800F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "11:00",
             "hourTo": "13:00"
@@ -14758,7 +14754,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "38987",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "8",
         "courseCommissionTimes": {
           "day": "TUESDAY",
@@ -14822,7 +14818,7 @@
         "commissionName": "A",
         "commissionId": "39019",
         "quota": "0",
-        "enrolledStudents": "5",
+        "enrolledStudents": "6",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -14884,7 +14880,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "39097",
-        "quota": "0",
+        "quota": "30",
         "enrolledStudents": "50",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
@@ -14924,8 +14920,8 @@
         "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "201F",
-          "building": "Sede Distrito Financiero",
+          "classRoom": "Presencial",
+          "building": "External",
           "hourFrom": "15:00",
           "hourTo": "18:00"
         }
@@ -14956,12 +14952,12 @@
         "courseEnd": "21/07/24",
         "commissionName": "A",
         "commissionId": "39102",
-        "quota": "0",
+        "quota": "8",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "704F",
+            "classRoom": "800F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "15:00",
             "hourTo": "18:00"
@@ -15002,7 +14998,7 @@
         "commissionName": "B",
         "commissionId": "39120",
         "quota": "0",
-        "enrolledStudents": "44",
+        "enrolledStudents": "46",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual",
@@ -15019,7 +15015,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "C",
         "commissionId": "39406",
-        "quota": "0",
+        "quota": "24",
         "enrolledStudents": "4",
         "courseCommissionTimes": {
           "day": "THURSDAY",
@@ -15037,7 +15033,7 @@
         "courseEnd": "21/07/24",
         "commissionName": "BIO",
         "commissionId": "39123",
-        "quota": "0",
+        "quota": "18",
         "enrolledStudents": "17",
         "courseCommissionTimes": [
           {
@@ -15146,7 +15142,7 @@
         "commissionName": "BIO",
         "commissionId": "39131",
         "quota": "0",
-        "enrolledStudents": "26",
+        "enrolledStudents": "27",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Híbrido",
@@ -15164,7 +15160,7 @@
         "commissionName": "BIO",
         "commissionId": "39132",
         "quota": "0",
-        "enrolledStudents": "22",
+        "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Híbrido",
@@ -15182,7 +15178,7 @@
         "commissionName": "BIO",
         "commissionId": "39133",
         "quota": "0",
-        "enrolledStudents": "27",
+        "enrolledStudents": "28",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Híbrido",
@@ -15292,20 +15288,20 @@
         "courseEnd": "21/07/24",
         "commissionName": "K",
         "commissionId": "39539",
-        "quota": "0",
+        "quota": "3",
         "enrolledStudents": "3",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
             "hourFrom": "17:00",
             "hourTo": "19:00"
           },
           {
             "day": "THURSDAY",
-            "classRoom": "Presencial",
-            "building": "External",
+            "classRoom": "002T",
+            "building": "SDT",
             "hourFrom": "17:00",
             "hourTo": "19:00"
           },

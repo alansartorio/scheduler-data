@@ -189,8 +189,8 @@
         "courseEnd": "31/12/24",
         "commissionName": "BIO",
         "commissionId": "38445",
-        "quota": "0",
-        "enrolledStudents": "15",
+        "quota": "16",
+        "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "404F",
@@ -211,7 +211,7 @@
         "enrolledStudents": "79",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "Presencial",
+          "classRoom": "Presencial sincrónico",
           "building": "External",
           "hourFrom": "19:00",
           "hourTo": "22:00"
