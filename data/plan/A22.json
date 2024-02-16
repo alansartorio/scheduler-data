@@ -884,9 +884,7 @@
               "code": "82.08",
               "credits": "3",
               "creditsRequired": "96",
-              "dependencies": {
-                "dependency": "81.57"
-              }
+              "dependencies": null
             },
             {
               "type": "subject",
