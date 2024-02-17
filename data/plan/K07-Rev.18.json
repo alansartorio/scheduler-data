@@ -748,6 +748,14 @@
               "credits": "3",
               "creditsRequired": "96",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Practica Profesional supervisada",
+              "code": "94.65",
+              "credits": "0",
+              "creditsRequired": "192",
+              "dependencies": null
             }
           ]
         }
@@ -1128,6 +1136,14 @@
               "credits": "3",
               "creditsRequired": "96",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Practica Profesional supervisada",
+              "code": "94.65",
+              "credits": "0",
+              "creditsRequired": "192",
+              "dependencies": null
             }
           ]
         }
@@ -1504,6 +1520,14 @@
               "code": "94.42",
               "credits": "3",
               "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Practica Profesional supervisada",
+              "code": "94.65",
+              "credits": "0",
+              "creditsRequired": "192",
               "dependencies": null
             }
           ]

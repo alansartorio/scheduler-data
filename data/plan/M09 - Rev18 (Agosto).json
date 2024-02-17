@@ -1565,6 +1565,20 @@
           ]
         },
         "withoutTerm": null
+      },
+      {
+        "name": "PRACTICA PROFESIONAL SUPERVISADA",
+        "terms": null,
+        "withoutTerm": {
+          "withoutTerm": {
+            "type": "subject",
+            "name": "Practica Profesional supervisada",
+            "code": "94.65",
+            "credits": "0",
+            "creditsRequired": "170",
+            "dependencies": null
+          }
+        }
       }
     ]
   }

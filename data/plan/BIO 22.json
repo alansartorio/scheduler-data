@@ -986,6 +986,15 @@
             },
             {
               "type": "subject",
+              "name": "Introducción al Diseño de Bases de Datos Relacionales y No-Relacionales",
+              "code": "71.94",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "71.59"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Base de Datos I",
               "code": "72.37",
               "credits": "6",

@@ -301,7 +301,9 @@
                     "name": "Proyecto Interdisciplinario",
                     "code": "94.44",
                     "credits": "3",
-                    "dependencies": null
+                    "dependencies": {
+                      "dependency": "94.43"
+                    }
                   }
                 ]
               }

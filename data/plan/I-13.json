@@ -1210,6 +1210,13 @@
               "credits": "3",
               "creditsRequired": "160",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Practica Profesional supervisada",
+              "code": "94.65",
+              "credits": "0",
+              "dependencies": null
             }
           ]
         }

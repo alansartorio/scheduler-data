@@ -818,6 +818,13 @@
               "code": "94.27",
               "credits": "3",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Practica Profesional supervisada",
+              "code": "94.65",
+              "credits": "0",
+              "dependencies": null
             }
           ]
         }
