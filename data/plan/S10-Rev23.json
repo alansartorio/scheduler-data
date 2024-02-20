@@ -1203,6 +1203,14 @@
             },
             {
               "type": "subject",
+              "name": "Practica Profesional supervisada",
+              "code": "94.65",
+              "credits": "0",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Escritura Académica",
               "code": "94.92",
               "credits": "3",
