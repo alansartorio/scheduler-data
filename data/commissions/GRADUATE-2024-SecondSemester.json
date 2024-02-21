@@ -46,7 +46,7 @@
         "commissionName": "A",
         "commissionId": "38383",
         "quota": "12",
-        "enrolledStudents": "6",
+        "enrolledStudents": "5",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -72,8 +72,8 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "38384",
-        "quota": "4",
-        "enrolledStudents": "3",
+        "quota": "15",
+        "enrolledStudents": "6",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -100,7 +100,7 @@
         "commissionName": "D",
         "commissionId": "38385",
         "quota": "8",
-        "enrolledStudents": "4",
+        "enrolledStudents": "5",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -174,7 +174,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "404F",
+            "classRoom": "800F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "18:00",
             "hourTo": "21:00"
