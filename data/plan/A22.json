@@ -681,6 +681,14 @@
             },
             {
               "type": "subject",
+              "name": "Cálculo de Huella de Carbono en Organizaciones",
+              "code": "17.22",
+              "credits": "1",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Econometría Aplicada",
               "code": "61.30",
               "credits": "3",

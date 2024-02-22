@@ -571,6 +571,14 @@
             },
             {
               "type": "subject",
+              "name": "Cálculo de Huella de Carbono en Organizaciones",
+              "code": "17.22",
+              "credits": "1",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Sistema Monetario y Financiero en Argentina",
               "code": "61.04",
               "credits": "3",
