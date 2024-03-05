@@ -385,7 +385,14 @@
                     "code": "81.42",
                     "credits": "3",
                     "creditsRequired": "144",
-                    "dependencies": null
+                    "dependencies": {
+                      "dependency": [
+                        "81.48",
+                        "11.83",
+                        "81.57",
+                        "61.12"
+                      ]
+                    }
                   }
                 ]
               }
