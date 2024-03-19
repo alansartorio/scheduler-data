@@ -854,7 +854,13 @@
               "name": "Integración de Sistemas de Información",
               "code": "72.71",
               "credits": "3",
-              "dependencies": null
+              "dependencies": {
+                "dependency": [
+                  "72.07",
+                  "72.37",
+                  "72.35"
+                ]
+              }
             },
             {
               "type": "subject",
