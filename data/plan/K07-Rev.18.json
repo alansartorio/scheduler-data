@@ -639,6 +639,13 @@
             },
             {
               "type": "subject",
+              "name": "Metodología de la Investigación",
+              "code": "11.91",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Química II",
               "code": "12.02",
               "credits": "6",
@@ -693,14 +700,6 @@
                   "93.57"
                 ]
               }
-            },
-            {
-              "type": "subject",
-              "name": "Introducción a la Investigación",
-              "code": "23.12",
-              "credits": "3",
-              "creditsRequired": "180",
-              "dependencies": null
             },
             {
               "type": "subject",
@@ -1045,6 +1044,13 @@
             },
             {
               "type": "subject",
+              "name": "Metodología de la Investigación",
+              "code": "11.91",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Química II",
               "code": "12.02",
               "credits": "6",
@@ -1081,14 +1087,6 @@
                   "93.57"
                 ]
               }
-            },
-            {
-              "type": "subject",
-              "name": "Introducción a la Investigación",
-              "code": "23.12",
-              "credits": "3",
-              "creditsRequired": "180",
-              "dependencies": null
             },
             {
               "type": "subject",
@@ -1421,6 +1419,13 @@
             },
             {
               "type": "subject",
+              "name": "Metodología de la Investigación",
+              "code": "11.91",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Química II",
               "code": "12.02",
               "credits": "6",
@@ -1466,14 +1471,6 @@
                   "93.57"
                 ]
               }
-            },
-            {
-              "type": "subject",
-              "name": "Introducción a la Investigación",
-              "code": "23.12",
-              "credits": "3",
-              "creditsRequired": "183",
-              "dependencies": null
             },
             {
               "type": "subject",
