@@ -924,6 +924,16 @@
             },
             {
               "type": "subject",
+              "name": "Comportamiento Organizacional",
+              "code": "94.19",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": {
+                "dependency": "94.33"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Formación General III",
               "code": "94.23",
               "credits": "3",

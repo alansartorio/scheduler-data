@@ -788,7 +788,7 @@
             },
             {
               "type": "subject",
-              "name": "Párticulas en Agua",
+              "name": "Partículas en Agua",
               "code": "12.68",
               "credits": "3",
               "dependencies": {
@@ -908,7 +908,7 @@
             },
             {
               "type": "subject",
-              "name": "Nanotecnología",
+              "name": "Introducción a la Nanotecnología",
               "code": "17.16",
               "credits": "3",
               "dependencies": {
