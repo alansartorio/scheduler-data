@@ -16,8 +16,8 @@
             "day": "TUESDAY",
             "classRoom": "S901",
             "building": "Sede Distrito Financiero",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
+            "hourFrom": "16:00",
+            "hourTo": "19:00"
           },
           {
             "day": "THURSDAY",
@@ -1551,8 +1551,8 @@
             "day": "TUESDAY",
             "classRoom": "S901",
             "building": "Sede Distrito Financiero",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
+            "hourFrom": "16:00",
+            "hourTo": "19:00"
           },
           {
             "day": "THURSDAY",
@@ -4481,7 +4481,7 @@
         "commissionName": "A",
         "commissionId": "38516",
         "quota": "0",
-        "enrolledStudents": "51",
+        "enrolledStudents": "50",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual sincrónico",
@@ -5400,7 +5400,7 @@
         "commissionName": "B",
         "commissionId": "38539",
         "quota": "42",
-        "enrolledStudents": "42",
+        "enrolledStudents": "41",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -7222,7 +7222,7 @@
         "commissionName": "CM",
         "commissionId": "38599",
         "quota": "36",
-        "enrolledStudents": "35",
+        "enrolledStudents": "36",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "601F",
@@ -10350,7 +10350,7 @@
         "commissionName": "D",
         "commissionId": "39070",
         "quota": "30",
-        "enrolledStudents": "24",
+        "enrolledStudents": "25",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "104R",
@@ -10416,13 +10416,13 @@
       {
         "subjectCode": "94.65",
         "subjectName": "Practica Profesional supervisada",
-        "subjectType": "NORMAL",
+        "subjectType": "SEMINARY",
         "courseStart": "19/02/24",
         "courseEnd": "21/07/24",
         "commissionName": "A2024",
         "commissionId": "39623",
         "quota": "0",
-        "enrolledStudents": "138",
+        "enrolledStudents": "140",
         "courseCommissionTimes": {
           "day": "SUNDAY",
           "classRoom": "ASINCRONICA",
@@ -10830,7 +10830,7 @@
         "commissionName": "A",
         "commissionId": "38746",
         "quota": "40",
-        "enrolledStudents": "32",
+        "enrolledStudents": "31",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "301F",
@@ -10848,7 +10848,7 @@
         "commissionName": "B",
         "commissionId": "39054",
         "quota": "42",
-        "enrolledStudents": "35",
+        "enrolledStudents": "36",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "302F",
@@ -11037,7 +11037,7 @@
         "commissionName": "A",
         "commissionId": "38755",
         "quota": "43",
-        "enrolledStudents": "43",
+        "enrolledStudents": "42",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "501F",
@@ -13225,7 +13225,7 @@
         "commissionName": "A",
         "commissionId": "38855",
         "quota": "43",
-        "enrolledStudents": "43",
+        "enrolledStudents": "42",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "701F",
@@ -13243,7 +13243,7 @@
         "commissionName": "B",
         "commissionId": "38856",
         "quota": "37",
-        "enrolledStudents": "35",
+        "enrolledStudents": "36",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "401F",
@@ -15592,7 +15592,7 @@
         "commissionName": "S",
         "commissionId": "39695",
         "quota": "18",
-        "enrolledStudents": "0",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "704F",
@@ -15610,7 +15610,7 @@
         "commissionName": "A",
         "commissionId": "39696",
         "quota": "15",
-        "enrolledStudents": "3",
+        "enrolledStudents": "11",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual",
@@ -15628,31 +15628,13 @@
         "commissionName": "A",
         "commissionId": "39697",
         "quota": "15",
-        "enrolledStudents": "0",
+        "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Virtual",
           "building": "External",
           "hourFrom": "09:00",
           "hourTo": "12:00"
-        }
-      },
-      {
-        "subjectCode": "14.97",
-        "subjectName": "Diseño Circular: Sustentabilidad e Innovación en la Cadena de Valor.",
-        "subjectType": "SEMINARY",
-        "courseStart": "18/04/24",
-        "courseEnd": "09/05/24",
-        "commissionName": "A",
-        "commissionId": "39698",
-        "quota": "16",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": {
-          "day": "THURSDAY",
-          "classRoom": "Virtual",
-          "building": "External",
-          "hourFrom": "10:00",
-          "hourTo": "13:00"
         }
       },
       {
@@ -15664,7 +15646,7 @@
         "commissionName": "A",
         "commissionId": "39699",
         "quota": "15",
-        "enrolledStudents": "0",
+        "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "Virtual",
@@ -15682,7 +15664,7 @@
         "commissionName": "A",
         "commissionId": "39700",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Híbrido",
@@ -15700,7 +15682,7 @@
         "commissionName": "A",
         "commissionId": "39701",
         "quota": "0",
-        "enrolledStudents": "3",
+        "enrolledStudents": "24",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -15718,7 +15700,7 @@
         "commissionName": "A",
         "commissionId": "39702",
         "quota": "0",
-        "enrolledStudents": "4",
+        "enrolledStudents": "24",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -15736,7 +15718,7 @@
         "commissionName": "A",
         "commissionId": "39703",
         "quota": "0",
-        "enrolledStudents": "5",
+        "enrolledStudents": "16",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -15754,7 +15736,7 @@
         "commissionName": "A",
         "commissionId": "39704",
         "quota": "16",
-        "enrolledStudents": "1",
+        "enrolledStudents": "6",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "604F",
@@ -15772,31 +15754,13 @@
         "commissionName": "A",
         "commissionId": "39705",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "7",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Virtual",
           "building": "External",
           "hourFrom": "17:00",
           "hourTo": "20:00"
-        }
-      },
-      {
-        "subjectCode": "82.22",
-        "subjectName": "Inteligencia Artificial Generativa",
-        "subjectType": "SEMINARY",
-        "courseStart": "08/04/24",
-        "courseEnd": "13/05/24",
-        "commissionName": "A",
-        "commissionId": "39706",
-        "quota": "24",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": {
-          "day": "WEDNESDAY",
-          "classRoom": "002T",
-          "building": "SDT",
-          "hourFrom": "15:00",
-          "hourTo": "18:00"
         }
       },
       {
@@ -15808,13 +15772,49 @@
         "commissionName": "Q",
         "commissionId": "39711",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "2",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Virtual",
           "building": "External",
           "hourFrom": "13:00",
           "hourTo": "16:00"
+        }
+      },
+      {
+        "subjectCode": "92.09",
+        "subjectName": "Complementos de Análisis Matemático IV",
+        "subjectType": "SEMINARY",
+        "courseStart": "12/04/24",
+        "courseEnd": "10/05/24",
+        "commissionName": "A",
+        "commissionId": "39712",
+        "quota": "0",
+        "enrolledStudents": "2",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "S103",
+          "building": "Sede Rectorado",
+          "hourFrom": "15:00",
+          "hourTo": "18:00"
+        }
+      },
+      {
+        "subjectCode": "94.65",
+        "subjectName": "Practica Profesional supervisada",
+        "subjectType": "SEMINARY",
+        "courseStart": "08/04/24",
+        "courseEnd": "13/05/24",
+        "commissionName": "A",
+        "commissionId": "39713",
+        "quota": "0",
+        "enrolledStudents": "34",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
+          "hourFrom": "21:00",
+          "hourTo": "22:00"
         }
       }
     ]

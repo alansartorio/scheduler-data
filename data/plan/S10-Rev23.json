@@ -623,6 +623,13 @@
             },
             {
               "type": "subject",
+              "name": "Derecho Laboral y Seguridad Social en la Empresa",
+              "code": "61.11",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Finanzas de la Empresa",
               "code": "61.50",
               "credits": "3",
