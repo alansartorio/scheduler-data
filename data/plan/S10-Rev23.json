@@ -626,7 +626,9 @@
               "name": "Derecho Laboral y Seguridad Social en la Empresa",
               "code": "61.11",
               "credits": "1",
-              "dependencies": null
+              "dependencies": {
+                "dependency": "61.32"
+              }
             },
             {
               "type": "subject",

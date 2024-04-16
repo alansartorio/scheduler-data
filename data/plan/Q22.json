@@ -1194,6 +1194,18 @@
             },
             {
               "type": "subject",
+              "name": "Física IV",
+              "code": "93.61",
+              "credits": "4",
+              "dependencies": {
+                "dependency": [
+                  "93.42",
+                  "93.43"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Comportamiento Organizacional",
               "code": "94.19",
               "credits": "3",
