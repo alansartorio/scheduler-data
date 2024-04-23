@@ -167,7 +167,7 @@
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
-            "classRoom": "S901",
+            "classRoom": "S900",
             "building": "Sede Distrito Financiero",
             "hourFrom": "16:00",
             "hourTo": "19:00"
