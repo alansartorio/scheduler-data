@@ -830,6 +830,15 @@
             },
             {
               "type": "subject",
+              "name": "Gestión de Procesos Hospitalarios",
+              "code": "16.75",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.25"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Microfluídica",
               "code": "16.80",
               "credits": "3",
