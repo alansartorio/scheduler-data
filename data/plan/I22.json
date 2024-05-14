@@ -598,14 +598,6 @@
             },
             {
               "type": "subject",
-              "name": "Teoría de la Decisión",
-              "code": "11.73",
-              "credits": "3",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Gestión de Calidad",
               "code": "11.76",
               "credits": "3",
@@ -1086,6 +1078,14 @@
               "name": "Introducción al Desarrollo Energético Sustentable",
               "code": "10.20",
               "credits": "2",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Economía de la Transición Energética",
+              "code": "10.24",
+              "credits": "3",
               "creditsRequired": "72",
               "dependencies": null
             }

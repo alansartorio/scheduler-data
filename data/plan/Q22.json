@@ -959,6 +959,13 @@
             },
             {
               "type": "subject",
+              "name": "Máquinas Eléctricas",
+              "code": "21.09",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Mecánica de Fluidos Computacional",
               "code": "30.14",
               "credits": "3",

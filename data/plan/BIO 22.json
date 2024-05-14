@@ -903,6 +903,18 @@
             },
             {
               "type": "subject",
+              "name": "Introducción a la Nanotecnología",
+              "code": "17.16",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.42",
+                  "16.64"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Microprocesadores y Control",
               "code": "22.57",
               "credits": "6",

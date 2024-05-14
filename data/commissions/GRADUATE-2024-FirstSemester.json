@@ -7312,7 +7312,7 @@
         "commissionName": "A",
         "commissionId": "38604",
         "quota": "42",
-        "enrolledStudents": "35",
+        "enrolledStudents": "34",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "901F",
@@ -7348,7 +7348,7 @@
         "commissionName": "C",
         "commissionId": "38984",
         "quota": "36",
-        "enrolledStudents": "35",
+        "enrolledStudents": "36",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "801F",
@@ -15754,7 +15754,7 @@
         "commissionName": "Q",
         "commissionId": "39711",
         "quota": "0",
-        "enrolledStudents": "2",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Virtual",
@@ -15862,7 +15862,7 @@
         "commissionName": "A",
         "commissionId": "39727",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "Virtual",
@@ -15897,12 +15897,12 @@
         "courseEnd": "24/06/24",
         "commissionName": "A",
         "commissionId": "39729",
-        "quota": "20",
-        "enrolledStudents": "0",
+        "quota": "24",
+        "enrolledStudents": "5",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "Presencial",
-          "building": "External",
+          "classRoom": "403F",
+          "building": "Sede Distrito Financiero",
           "hourFrom": "18:00",
           "hourTo": "21:00"
         }
@@ -15916,7 +15916,7 @@
         "commissionName": "A",
         "commissionId": "39730",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "54",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -15934,7 +15934,7 @@
         "commissionName": "A",
         "commissionId": "39731",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "4",
         "courseCommissionTimes": {
           "day": "FRIDAY",
           "classRoom": "Híbrido",
@@ -15952,7 +15952,7 @@
         "commissionName": "A",
         "commissionId": "39732",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -15970,7 +15970,7 @@
         "commissionName": "A",
         "commissionId": "39733",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "2",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -15988,13 +15988,103 @@
         "commissionName": "A",
         "commissionId": "39734",
         "quota": "0",
-        "enrolledStudents": "0",
+        "enrolledStudents": "3",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
           "building": "External",
           "hourFrom": "18:00",
           "hourTo": "19:00"
+        }
+      },
+      {
+        "subjectCode": "14.89",
+        "subjectName": "Ventas",
+        "subjectType": "SEMINARY",
+        "courseStart": "27/05/24",
+        "courseEnd": "24/06/24",
+        "commissionName": "A",
+        "commissionId": "39769",
+        "quota": "15",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "18:00",
+          "hourTo": "22:00"
+        }
+      },
+      {
+        "subjectCode": "15.06",
+        "subjectName": "Storytelling aplicado a los negocios",
+        "subjectType": "SEMINARY",
+        "courseStart": "21/05/24",
+        "courseEnd": "18/06/24",
+        "commissionName": "A",
+        "commissionId": "39770",
+        "quota": "15",
+        "enrolledStudents": "4",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "14.97",
+        "subjectName": "Diseño Circular: Sustentabilidad e Innovación en la Cadena de Valor.",
+        "subjectType": "SEMINARY",
+        "courseStart": "22/05/24",
+        "courseEnd": "19/06/24",
+        "commissionName": "A",
+        "commissionId": "39771",
+        "quota": "15",
+        "enrolledStudents": "1",
+        "courseCommissionTimes": {
+          "day": "WEDNESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "13:00"
+        }
+      },
+      {
+        "subjectCode": "14.24",
+        "subjectName": "La Evolución de la Calidad y la Mejora Continua",
+        "subjectType": "SEMINARY",
+        "courseStart": "21/05/24",
+        "courseEnd": "18/06/24",
+        "commissionName": "A",
+        "commissionId": "39772",
+        "quota": "15",
+        "enrolledStudents": "10",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "14.14",
+        "subjectName": "Introducción a la Consultoría",
+        "subjectType": "SEMINARY",
+        "courseStart": "27/05/24",
+        "courseEnd": "24/06/24",
+        "commissionName": "A",
+        "commissionId": "39773",
+        "quota": "15",
+        "enrolledStudents": "3",
+        "courseCommissionTimes": {
+          "day": "MONDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "19:00",
+          "hourTo": "21:00"
         }
       }
     ]
