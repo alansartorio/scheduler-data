@@ -631,7 +631,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39890",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -642,7 +642,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39891",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -653,7 +653,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39892",
-        "quota": "46",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -664,7 +664,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39893",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -675,7 +675,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "E",
         "commissionId": "39894",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -686,7 +686,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "F",
         "commissionId": "39895",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -697,7 +697,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "G",
         "commissionId": "39896",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -708,7 +708,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "H",
         "commissionId": "39897",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -719,7 +719,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39898",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -730,7 +730,18 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39899",
-        "quota": "30",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "92.02",
+        "subjectName": "Análisis Matemático II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40126",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -741,7 +752,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39900",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -752,7 +763,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "E",
         "commissionId": "39901",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -763,7 +774,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "F",
         "commissionId": "39902",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -774,7 +785,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "G",
         "commissionId": "39903",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -785,7 +796,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "H",
         "commissionId": "39904",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -796,7 +807,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39905",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -807,7 +818,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39906",
-        "quota": "41",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -818,7 +829,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39907",
-        "quota": "25",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -829,7 +840,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39908",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -840,7 +851,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "E",
         "commissionId": "39909",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -851,7 +862,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "F",
         "commissionId": "39910",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -862,7 +873,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "G",
         "commissionId": "39911",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -873,7 +884,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39912",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -884,7 +895,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39913",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -895,18 +906,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39914",
-        "quota": "24",
-        "enrolledStudents": "0"
-      },
-      {
-        "subjectCode": "92.04",
-        "subjectName": "Análisis Matemàtico IV",
-        "subjectType": "NORMAL",
-        "courseStart": "22/07/24",
-        "courseEnd": "31/12/24",
-        "commissionName": "D",
-        "commissionId": "39915",
-        "quota": "41",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -917,7 +917,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39916",
-        "quota": "43",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -928,7 +928,29 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39917",
-        "quota": "42",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "92.05",
+        "subjectName": "Análisis Matemático IV",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40128",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "92.07",
+        "subjectName": "Análisis Matemático V",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40129",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -939,7 +961,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39918",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -950,7 +972,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39919",
-        "quota": "34",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -961,7 +983,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39920",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -972,7 +994,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39921",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -983,7 +1005,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "E",
         "commissionId": "39922",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -994,7 +1016,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "F",
         "commissionId": "39923",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1005,7 +1027,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "G",
         "commissionId": "39924",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1016,7 +1038,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "H",
         "commissionId": "39925",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1027,7 +1049,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "K",
         "commissionId": "39926",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1038,7 +1060,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "S",
         "commissionId": "39927",
-        "quota": "36",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1049,7 +1071,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "S1",
         "commissionId": "39928",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1060,7 +1082,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39929",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1071,7 +1093,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39930",
-        "quota": "37",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1082,7 +1104,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39931",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1093,7 +1115,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39932",
-        "quota": "36",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1104,7 +1126,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "E",
         "commissionId": "39933",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1115,7 +1137,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "F",
         "commissionId": "39934",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1126,7 +1148,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "G",
         "commissionId": "39935",
-        "quota": "34",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1137,7 +1159,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "K",
         "commissionId": "39936",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1148,7 +1170,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "MN",
         "commissionId": "39937",
-        "quota": "39",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1159,7 +1181,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "S",
         "commissionId": "39938",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1170,7 +1192,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39939",
-        "quota": "45",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1181,7 +1203,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39940",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1192,7 +1214,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39941",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1203,7 +1225,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39942",
-        "quota": "36",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1214,7 +1236,18 @@
         "courseEnd": "31/12/24",
         "commissionName": "E",
         "commissionId": "39943",
-        "quota": "30",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.43",
+        "subjectName": "Física III",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "F",
+        "commissionId": "40141",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1225,7 +1258,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "MNP",
         "commissionId": "39944",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1236,7 +1269,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "Q",
         "commissionId": "39945",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1247,7 +1280,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "S",
         "commissionId": "39946",
-        "quota": "42",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1258,7 +1291,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39947",
-        "quota": "34",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1269,7 +1302,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39948",
-        "quota": "70",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1313,7 +1346,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "39951",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1324,7 +1357,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "B",
         "commissionId": "39952",
-        "quota": "24",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1335,7 +1368,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "C",
         "commissionId": "39953",
-        "quota": "40",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1346,7 +1379,7 @@
         "courseEnd": "31/12/24",
         "commissionName": "D",
         "commissionId": "39954",
-        "quota": "30",
+        "quota": "0",
         "enrolledStudents": "0"
       },
       {
@@ -1984,17 +2017,6 @@
         "enrolledStudents": "0"
       },
       {
-        "subjectCode": "16.63",
-        "subjectName": "Procesamiento de Señales e Imágenes Biomédicas",
-        "subjectType": "NORMAL",
-        "courseStart": "22/07/24",
-        "courseEnd": "31/12/24",
-        "commissionName": "BIO2",
-        "commissionId": "40016",
-        "quota": "0",
-        "enrolledStudents": "0"
-      },
-      {
         "subjectCode": "16.16",
         "subjectName": "Procesamiento de Imágenes Biomédicas",
         "subjectType": "NORMAL",
@@ -2310,7 +2332,1816 @@
         "courseEnd": "31/12/24",
         "commissionName": "A",
         "commissionId": "40044",
-        "quota": "8",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.07",
+        "subjectName": "Máquinas e Instalaciones Eléctricas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "p",
+        "commissionId": "40045",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.08",
+        "subjectName": "Electrotecnia",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "MQ",
+        "commissionId": "40046",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.10",
+        "subjectName": "Instalaciones Eléctricas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40047",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.10",
+        "subjectName": "Instalaciones Eléctricas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40048",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.10",
+        "subjectName": "Instalaciones Eléctricas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40049",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.30",
+        "subjectName": "Principios y Aplicaciones Eléctricas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40050",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "21.30",
+        "subjectName": "Principios y Aplicaciones Eléctricas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40051",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.21",
+        "subjectName": "Geología I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40052",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.41",
+        "subjectName": "Petrofísica y Fluidos de Reservorio",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40053",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.61",
+        "subjectName": "Ingeniería de Perforación I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40054",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.66",
+        "subjectName": "Gas y Gasolina Natural",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40055",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.67",
+        "subjectName": "Ingeniería de Producción I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40056",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.70",
+        "subjectName": "Industrialización y Economía de los Hidrocarburos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40057",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.81",
+        "subjectName": "Gestión Ambiental en la Industria",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40058",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.82",
+        "subjectName": "Evaluación de Proyectos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40059",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "46.83",
+        "subjectName": "Desarrollo de Yacimientos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40060",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "47.47",
+        "subjectName": "Recuperación Asistida de Petróleo",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40061",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "47.87",
+        "subjectName": "Desarrollo de Negocios",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40062",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.09",
+        "subjectName": "Química",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "S",
+        "commissionId": "40063",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.09",
+        "subjectName": "Química",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "S1",
+        "commissionId": "40064",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.19",
+        "subjectName": "Química Analítica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40065",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "TUESDAY",
+            "classRoom": "Presencial",
+            "building": "External",
+            "hourFrom": "13:00",
+            "hourTo": "16:00"
+          },
+          {
+            "day": "FRIDAY",
+            "classRoom": "Laboratorio",
+            "building": "External",
+            "hourFrom": "15:00",
+            "hourTo": "18:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "12.20",
+        "subjectName": "Química-Física",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40066",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.33",
+        "subjectName": "Química Orgánica II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40067",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.34",
+        "subjectName": "Química Orgánica para Petroleo",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40068",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40069",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40070",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40071",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "40072",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "E",
+        "commissionId": "40073",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "F",
+        "commissionId": "40074",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "G",
+        "commissionId": "40075",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.67",
+        "subjectName": "Química General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "H",
+        "commissionId": "40076",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "13.01",
+        "subjectName": "Química Inorgánica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40077",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "13.02",
+        "subjectName": "Fundamentos de Química Orgánica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40078",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "13.02",
+        "subjectName": "Fundamentos de Química Orgánica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40124",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "13.03",
+        "subjectName": "Química Orgánica I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40079",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.20",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40080",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.20",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40081",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.20",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40082",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.20",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "40083",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.20",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "E",
+        "commissionId": "40125",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.30",
+        "subjectName": "Introducción a la tecnología informática",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40084",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.30",
+        "subjectName": "Introducción a la tecnología informática",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40085",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.58",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "40086",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.58",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "E",
+        "commissionId": "40087",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.58",
+        "subjectName": "Informática General",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "H",
+        "commissionId": "40088",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.80",
+        "subjectName": "Utilitarios en Informática",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "L",
+        "commissionId": "40089",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "71.90",
+        "subjectName": "Certificaciones tecnológicas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40090",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.07",
+        "subjectName": "Métodos Numéricos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40091",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.07",
+        "subjectName": "Métodos Numéricos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40143",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.07",
+        "subjectName": "Métodos Numéricos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40144",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.07",
+        "subjectName": "Métodos Numéricos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "40093",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.16",
+        "subjectName": "Matemática Discreta",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40095",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40096",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40097",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40098",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "40099",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "E",
+        "commissionId": "40100",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "F",
+        "commissionId": "40101",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "G",
+        "commissionId": "40130",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "H",
+        "commissionId": "40102",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.18",
+        "subjectName": "Álgebra Lineal",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40103",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.20",
+        "subjectName": "Análisis Matemático",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40104",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.20",
+        "subjectName": "Análisis Matemático",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40105",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.20",
+        "subjectName": "Análisis Matemático",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40106",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.21",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40107",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.21",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40108",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.21",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40109",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40131",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40132",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40133",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "D",
+        "commissionId": "40134",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.24",
+        "subjectName": "Probabilidad y Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "E",
+        "commissionId": "40135",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.26",
+        "subjectName": "Análisis Matemático I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40145",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.26",
+        "subjectName": "Análisis Matemático I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40146",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.26",
+        "subjectName": "Análisis Matemático I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40147",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.28",
+        "subjectName": "Análisis Matemático II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40136",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.28",
+        "subjectName": "Análisis Matemático II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40137",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.35",
+        "subjectName": "Lógica Computacional",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40148",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.35",
+        "subjectName": "Lógica Computacional",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40149",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.35",
+        "subjectName": "Lógica Computacional",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40150",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.36",
+        "subjectName": "Probabilidad",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40119",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.36",
+        "subjectName": "Probabilidad",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40120",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.39",
+        "subjectName": "Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40121",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.39",
+        "subjectName": "Estadística",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40138",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.75",
+        "subjectName": "Métodos Numéricos Avanzados",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40139",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.54",
+        "subjectName": "Métodos Numéricos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40140",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.11",
+        "subjectName": "Operaciones Unitarias I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40151",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.12",
+        "subjectName": "Operaciones Unitarias II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40152",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.13",
+        "subjectName": "Operaciones Unitarias III",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40153",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.24",
+        "subjectName": "Ingenieria de Reacciones y Reactores I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40155",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.25",
+        "subjectName": "Ingeniería de Reacciones y Reactores II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q1",
+        "commissionId": "40156",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.26",
+        "subjectName": "Termodinámica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40157",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.27",
+        "subjectName": "Simulación de Procesos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40159",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.27",
+        "subjectName": "Simulación de Procesos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "INGLES",
+        "commissionId": "40158",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.29",
+        "subjectName": "Modelado Matemático en Ingeniería Química",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40160",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.30",
+        "subjectName": "Industrialización y Economía Petrolera",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "PQ",
+        "commissionId": "40161",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.51",
+        "subjectName": "Tecnología de los Alimentos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40162",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.52",
+        "subjectName": "Bioquímica de los Alimentos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40163",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.57",
+        "subjectName": "Seguridad e Inocuidad Alimentaria",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40164",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.77",
+        "subjectName": "Industrias Químicas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40165",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.83",
+        "subjectName": "Seguridad Ocupacional y Ambiental",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO",
+        "commissionId": "40166",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.83",
+        "subjectName": "Seguridad Ocupacional y Ambiental",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "S",
+        "commissionId": "40167",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.85",
+        "subjectName": "Diseño Conceptual de Procesos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40168",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.87",
+        "subjectName": "Tratamiento de Efluentes",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40169",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "12.94",
+        "subjectName": "Introducción a la Ingeniería Nuclear",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40170",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.01",
+        "subjectName": "Introducción a la Ingeniería Química",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40171",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.02",
+        "subjectName": "Procesos Industriales",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40172",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "23.10",
+        "subjectName": "Formación General II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40173",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.22",
+        "subjectName": "Antenas y Radiopropagacion",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40174",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.29",
+        "subjectName": "Microondas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40175",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.37",
+        "subjectName": "Electromagnetismo",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40176",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.45",
+        "subjectName": "Redes Neuronales",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40177",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.46",
+        "subjectName": "Procesamiento Adaptativo de Señales",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40178",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.48",
+        "subjectName": "Procesamiento de Imágenes",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40179",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.49",
+        "subjectName": "Laboratorio de Dsp_fpga",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40180",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.66",
+        "subjectName": "Redes Digitales",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40181",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.73",
+        "subjectName": "Instrumentación y Control Industrial",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "E",
+        "commissionId": "40182",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.90",
+        "subjectName": "Automación Industrial",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "KM",
+        "commissionId": "40183",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.93",
+        "subjectName": "Control Automático",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40184",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "22.94",
+        "subjectName": "Control Discreto",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "M",
+        "commissionId": "40185",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "23.02",
+        "subjectName": "Electrónica Analógica y Digital",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO",
+        "commissionId": "40186",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "23.03",
+        "subjectName": "Sistemas de Control",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO",
+        "commissionId": "40187",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "23.15",
+        "subjectName": "Realidad Virtual",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40188",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "23.17",
+        "subjectName": "Electrónica e Instrumentación",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40189",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "23.18",
+        "subjectName": "Electrónica e Instrumentación",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40190",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.01",
+        "subjectName": "Fundamentos de Electrónica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40191",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.02",
+        "subjectName": "Programación I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40192",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.03",
+        "subjectName": "Algoritmos y Estructuras de Datos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40193",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.10",
+        "subjectName": "Teoría de Circuitos 1",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40194",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.12",
+        "subjectName": "Tecnología de Materiales Electrónicos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40195",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.13",
+        "subjectName": "Laboratorio de Electrónica 1",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40196",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.14",
+        "subjectName": "Teoría de Circuitos 2",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40197",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.15",
+        "subjectName": "Electrónica I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40198",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.16",
+        "subjectName": "Laboratorio de Electrónica 2",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40199",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.17",
+        "subjectName": "Electrónica II",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40200",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.18",
+        "subjectName": "Física Electrónica",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40201",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.20",
+        "subjectName": "Análisis de Señales y Sistemas Digitales",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40202",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.21",
+        "subjectName": "Electrónica III",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40203",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.22",
+        "subjectName": "Electromagnetismo",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40204",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.23",
+        "subjectName": "Sistemas de Control",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40205",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.26",
+        "subjectName": "Transmisión de la Información",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40206",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.27",
+        "subjectName": "Sistemas Embebidos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40207",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.28",
+        "subjectName": "Electrónica IV",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40208",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "25.24",
+        "subjectName": "Laboratorio de Electrónica 3",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "K",
+        "commissionId": "40209",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "16.64",
+        "subjectName": "Mecánica de biomateriales y tejidos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO",
+        "commissionId": "40210",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "16.64",
+        "subjectName": "Mecánica de biomateriales y tejidos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO2",
+        "commissionId": "40211",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.16",
+        "subjectName": "Introducción a la Nanotecnología",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "BIO",
+        "commissionId": "40212",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.03",
+        "subjectName": "Bioquímica y Microbiología Aplicadas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40213",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.04",
+        "subjectName": "Fenómenos de Transporte",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "Q",
+        "commissionId": "40214",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.05",
+        "subjectName": "Control de Procesos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40215",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.06",
+        "subjectName": "Proyecto Final de Carrera I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40216",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.06",
+        "subjectName": "Proyecto Final de Carrera I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40217",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.06",
+        "subjectName": "Proyecto Final de Carrera I",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40218",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.08",
+        "subjectName": "Seguridad de Procesos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40219",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.09",
+        "subjectName": "Industrias Químicas",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40220",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.20",
+        "subjectName": "Agua y Efluentes Líquidos",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40221",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "17.23",
+        "subjectName": "Triple Impacto: Estrategias para el Desarrollo Sostenible",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40222",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.58",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "A",
+        "commissionId": "40237",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.58",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "B",
+        "commissionId": "40238",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.58",
+        "subjectName": "Álgebra",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "C",
+        "commissionId": "40239",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.59",
+        "subjectName": "Matemática Discreta",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "S",
+        "commissionId": "40252",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "93.59",
+        "subjectName": "Matemática Discreta",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "S2",
+        "commissionId": "40253",
+        "quota": "0",
         "enrolledStudents": "0"
       }
     ]

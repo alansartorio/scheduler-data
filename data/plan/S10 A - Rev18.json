@@ -643,6 +643,14 @@
             },
             {
               "type": "subject",
+              "name": "Computación Cuántica",
+              "code": "25.04",
+              "credits": "6",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Derecho Digital",
               "code": "61.08",
               "credits": "1",
@@ -1652,6 +1660,14 @@
             },
             {
               "type": "subject",
+              "name": "Computación Cuántica",
+              "code": "25.04",
+              "credits": "6",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Derecho Digital",
               "code": "61.08",
               "credits": "1",
@@ -2608,6 +2624,14 @@
             },
             {
               "type": "subject",
+              "name": "Computación Cuántica",
+              "code": "25.04",
+              "credits": "6",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Derecho Digital",
               "code": "61.08",
               "credits": "1",
@@ -3190,6 +3214,14 @@
               "dependencies": {
                 "dependency": "93.75"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Computación Cuántica",
+              "code": "25.04",
+              "credits": "6",
+              "creditsRequired": "144",
+              "dependencies": null
             },
             {
               "type": "subject",

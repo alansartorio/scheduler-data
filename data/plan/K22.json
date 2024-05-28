@@ -703,6 +703,14 @@
             },
             {
               "type": "subject",
+              "name": "Computación Cuántica",
+              "code": "25.04",
+              "credits": "6",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Electrónica aplicada a Movilidad Eléctrica",
               "code": "25.51",
               "credits": "4",

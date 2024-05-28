@@ -959,6 +959,14 @@
             },
             {
               "type": "subject",
+              "name": "Triple Impacto: Estrategias para el Desarrollo Sostenible",
+              "code": "17.23",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Máquinas Eléctricas",
               "code": "21.09",
               "credits": "3",
