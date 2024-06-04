@@ -1135,6 +1135,15 @@
             },
             {
               "type": "subject",
+              "name": "Temas Avanzados en Deep Learning",
+              "code": "73.64",
+              "credits": "2",
+              "dependencies": {
+                "dependency": "72.27"
+              }
+            },
+            {
+              "type": "subject",
               "name": "SEGURIDAD OFENSIVA",
               "code": "73.80",
               "credits": "1",
@@ -1222,6 +1231,14 @@
               "name": "Ética en los Negocios",
               "code": "94.62",
               "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Prácticas Expositivas",
+              "code": "94.64",
+              "credits": "3",
+              "creditsRequired": "120",
               "dependencies": null
             },
             {
