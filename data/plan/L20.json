@@ -586,6 +586,14 @@
             },
             {
               "type": "subject",
+              "name": "Triple Impacto: Estrategias para el Desarrollo Sostenible",
+              "code": "17.23",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Sistema Monetario y Financiero en Argentina",
               "code": "61.04",
               "credits": "3",

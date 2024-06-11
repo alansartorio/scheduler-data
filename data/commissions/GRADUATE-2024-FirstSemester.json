@@ -2085,7 +2085,7 @@
         "commissionName": "BIO",
         "commissionId": "38435",
         "quota": "18",
-        "enrolledStudents": "17",
+        "enrolledStudents": "16",
         "courseCommissionTimes": [
           {
             "day": "WEDNESDAY",
@@ -2173,7 +2173,7 @@
         "commissionName": "BIO",
         "commissionId": "38438",
         "quota": "24",
-        "enrolledStudents": "22",
+        "enrolledStudents": "21",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -3590,7 +3590,7 @@
         "commissionName": "A",
         "commissionId": "38486",
         "quota": "0",
-        "enrolledStudents": "106",
+        "enrolledStudents": "105",
         "courseCommissionTimes": {
           "day": "SATURDAY",
           "classRoom": "Asincrónico",
@@ -4843,7 +4843,7 @@
         "commissionName": "A",
         "commissionId": "38527",
         "quota": "41",
-        "enrolledStudents": "41",
+        "enrolledStudents": "40",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -7055,7 +7055,7 @@
         "commissionName": "B",
         "commissionId": "38589",
         "quota": "30",
-        "enrolledStudents": "29",
+        "enrolledStudents": "28",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -7502,7 +7502,7 @@
         "commissionName": "ESPAÑOL",
         "commissionId": "38611",
         "quota": "0",
-        "enrolledStudents": "28",
+        "enrolledStudents": "27",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "Híbrida",
@@ -12966,7 +12966,7 @@
         "commissionName": "BIO",
         "commissionId": "38850",
         "quota": "36",
-        "enrolledStudents": "28",
+        "enrolledStudents": "27",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "601F",
@@ -13441,7 +13441,7 @@
         "commissionName": "E",
         "commissionId": "38863",
         "quota": "40",
-        "enrolledStudents": "37",
+        "enrolledStudents": "36",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -15826,7 +15826,7 @@
         "commissionName": "BIO",
         "commissionId": "39725",
         "quota": "0",
-        "enrolledStudents": "1",
+        "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "Presencial",
@@ -16014,6 +16014,99 @@
           "hourFrom": "19:00",
           "hourTo": "21:00"
         }
+      },
+      {
+        "subjectCode": "73.64",
+        "subjectName": "Temas Avanzados en Deep Learning",
+        "subjectType": "NORMAL",
+        "courseStart": "19/02/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "S",
+        "commissionId": "40537",
+        "quota": "0",
+        "enrolledStudents": "0"
+      },
+      {
+        "subjectCode": "94.54",
+        "subjectName": "Español intensivo para extranjeros A2",
+        "subjectType": "SEMINARY",
+        "courseStart": "01/07/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "40584",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "09:00",
+            "hourTo": "12:00"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "09:00",
+            "hourTo": "12:00"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "09:00",
+            "hourTo": "12:00"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "09:00",
+            "hourTo": "12:00"
+          }
+        ]
+      },
+      {
+        "subjectCode": "94.55",
+        "subjectName": "Español intensivo para extranjeros B1",
+        "subjectType": "SEMINARY",
+        "courseStart": "01/07/24",
+        "courseEnd": "21/07/24",
+        "commissionName": "A",
+        "commissionId": "40585",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": [
+          {
+            "day": "MONDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "13:30",
+            "hourTo": "16:30"
+          },
+          {
+            "day": "TUESDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "13:30",
+            "hourTo": "16:30"
+          },
+          {
+            "day": "WEDNESDAY",
+            "classRoom": "404F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "13:30",
+            "hourTo": "16:30"
+          },
+          {
+            "day": "THURSDAY",
+            "classRoom": "Virtual",
+            "building": "External",
+            "hourFrom": "08:00",
+            "hourTo": "11:30"
+          }
+        ]
       }
     ]
   }
