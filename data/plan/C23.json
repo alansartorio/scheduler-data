@@ -688,13 +688,6 @@
             },
             {
               "type": "subject",
-              "name": "Energías Alternativas",
-              "code": "21.73",
-              "credits": "6",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Redes Neuronales",
               "code": "25.63",
               "credits": "3",
@@ -720,6 +713,13 @@
               "code": "25.69",
               "credits": "3",
               "creditsRequired": "183",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Evaluación de Proyectos",
+              "code": "46.82",
+              "credits": "3",
               "dependencies": null
             },
             {

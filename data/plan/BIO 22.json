@@ -894,6 +894,15 @@
             },
             {
               "type": "subject",
+              "name": "Procesamiento Avanzado de Imágenes en Biología y Biomedicina",
+              "code": "16.85",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.63"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Introducción a la Ingeniería Ambiental",
               "code": "17.15",
               "credits": "3",
@@ -946,10 +955,7 @@
               "code": "23.08",
               "credits": "3",
               "dependencies": {
-                "dependency": [
-                  "22.94",
-                  "23.16"
-                ]
+                "dependency": "23.16"
               }
             },
             {
