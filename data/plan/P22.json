@@ -763,15 +763,6 @@
             },
             {
               "type": "subject",
-              "name": "Complementos de Física Mecánica",
-              "code": "92.15",
-              "credits": "3",
-              "dependencies": {
-                "dependency": "31.19"
-              }
-            },
-            {
-              "type": "subject",
               "name": "Complementos de Física de la Relatividad",
               "code": "92.92",
               "credits": "2",
@@ -995,6 +986,15 @@
               "code": "92.09",
               "credits": "0",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Complementos de Física Mecánica",
+              "code": "92.15",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "31.19"
+              }
             }
           ]
         }

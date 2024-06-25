@@ -926,13 +926,6 @@
             },
             {
               "type": "subject",
-              "name": "Formación General III",
-              "code": "94.23",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Metodología del Aprendizaje",
               "code": "94.24",
               "credits": "3",
@@ -944,6 +937,13 @@
               "code": "94.27",
               "credits": "3",
               "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Estructura de las Organizaciones",
+              "code": "94.40",
+              "credits": "3",
               "dependencies": null
             },
             {
