@@ -621,13 +621,6 @@
             },
             {
               "type": "subject",
-              "name": "Química Inorgánica",
-              "code": "13.01",
-              "credits": "6",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Gestión de la Innovación",
               "code": "14.03",
               "credits": "1",
@@ -707,6 +700,96 @@
             },
             {
               "type": "subject",
+              "name": "Mecánica de Fluidos Computacional",
+              "code": "15.61",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Ciclos reales en motores de combustión interna",
+              "code": "15.62",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Deformación y fractura de materiales",
+              "code": "15.63",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Factibilidad de proyectos Data Driven",
+              "code": "15.69",
+              "credits": "3",
+              "creditsRequired": "145",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Service Design",
+              "code": "15.70",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la realidad virtual",
+              "code": "15.71",
+              "credits": "1",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Growth Hacking",
+              "code": "15.72",
+              "credits": "1",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Formación General III",
+              "code": "15.73",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Metodología del Aprendizaje",
+              "code": "15.74",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Filosofía",
+              "code": "15.75",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Prácticas Expositivas",
+              "code": "15.76",
+              "credits": "3",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Química Inorgánica",
+              "code": "15.77",
+              "credits": "6",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Neurociencias y Desarrollo Productivo",
               "code": "16.04",
               "credits": "3",
@@ -722,29 +805,20 @@
             },
             {
               "type": "subject",
-              "name": "Mecánica de Fluidos Computacional",
-              "code": "30.14",
+              "name": "Realidad Virtual",
+              "code": "23.15",
               "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Ciclos Reales en Motores de Combustión Interna",
-              "code": "30.21",
-              "credits": "3",
-              "dependencies": null
+              "dependencies": {
+                "dependency": [
+                  "71.45",
+                  "71.20"
+                ]
+              }
             },
             {
               "type": "subject",
               "name": "Procesos de Manufactura I",
               "code": "31.67",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Deformación y Fractura de Materiales",
-              "code": "31.96",
               "credits": "3",
               "dependencies": null
             },
@@ -816,14 +890,6 @@
             },
             {
               "type": "subject",
-              "name": "Service Design",
-              "code": "81.58",
-              "credits": "3",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Gestión de Servicios",
               "code": "81.59",
               "credits": "3",
@@ -842,14 +908,6 @@
             },
             {
               "type": "subject",
-              "name": "Introducción a la realidad virtual",
-              "code": "81.72",
-              "credits": "1",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Introducción a la IOT",
               "code": "81.73",
               "credits": "1",
@@ -860,14 +918,6 @@
               "type": "subject",
               "name": "Introducción a la realidad aumentada",
               "code": "81.74",
-              "credits": "1",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Growth Hacking",
-              "code": "81.82",
               "credits": "1",
               "creditsRequired": "72",
               "dependencies": null
@@ -900,14 +950,6 @@
             },
             {
               "type": "subject",
-              "name": "Factibilidad de Proyectos Data Driven",
-              "code": "82.21",
-              "credits": "3",
-              "creditsRequired": "145",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Gestión de Organizaciones Sociales",
               "code": "94.13",
               "credits": "6",
@@ -923,13 +965,6 @@
               "dependencies": {
                 "dependency": "94.33"
               }
-            },
-            {
-              "type": "subject",
-              "name": "Metodología del Aprendizaje",
-              "code": "94.24",
-              "credits": "3",
-              "dependencies": null
             },
             {
               "type": "subject",
@@ -950,22 +985,6 @@
               "type": "subject",
               "name": "Comunicación Estratégica",
               "code": "94.42",
-              "credits": "3",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Filosofía",
-              "code": "94.61",
-              "credits": "3",
-              "creditsRequired": "72",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
-              "name": "Prácticas Expositivas",
-              "code": "94.64",
               "credits": "3",
               "creditsRequired": "72",
               "dependencies": null
@@ -1004,8 +1023,8 @@
           "withoutTerm": [
             {
               "type": "subject",
-              "name": "Derecho Digital",
-              "code": "61.08",
+              "name": "Derecho digital",
+              "code": "15.65",
               "credits": "1",
               "creditsRequired": "72",
               "dependencies": null
@@ -1013,7 +1032,7 @@
             {
               "type": "subject",
               "name": "Programación web",
-              "code": "71.38",
+              "code": "15.67",
               "credits": "3",
               "creditsRequired": "72",
               "dependencies": null
@@ -1021,7 +1040,7 @@
             {
               "type": "subject",
               "name": "Programación Básica",
-              "code": "71.56",
+              "code": "15.68",
               "credits": "3",
               "dependencies": null
             },
@@ -1100,7 +1119,7 @@
             {
               "type": "subject",
               "name": "Sistema Monetario y Financiero en Argentina",
-              "code": "61.04",
+              "code": "15.64",
               "credits": "3",
               "creditsRequired": "72",
               "dependencies": null
@@ -1108,7 +1127,7 @@
             {
               "type": "subject",
               "name": "Econometría Aplicada",
-              "code": "61.30",
+              "code": "15.66",
               "credits": "3",
               "creditsRequired": "72",
               "dependencies": {

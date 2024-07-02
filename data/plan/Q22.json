@@ -1186,6 +1186,18 @@
             },
             {
               "type": "subject",
+              "name": "Aprendizaje Automático (Machine Learning)",
+              "code": "72.75",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "71.58",
+                  "93.24"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Gestión de Servicios",
               "code": "81.59",
               "credits": "3",
