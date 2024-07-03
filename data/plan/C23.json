@@ -141,7 +141,7 @@
                   {
                     "type": "subject",
                     "name": "Probabilidad y Estadística",
-                    "code": "93.22",
+                    "code": "93.24",
                     "credits": "6",
                     "dependencies": {
                       "dependency": "92.02"

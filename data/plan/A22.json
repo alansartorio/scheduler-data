@@ -718,6 +718,14 @@
             },
             {
               "type": "subject",
+              "name": "Marketing Digital",
+              "code": "81.19",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Comercialización",
               "code": "81.20",
               "credits": "3",
@@ -1048,6 +1056,26 @@
               "credits": "3",
               "creditsRequired": "96",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Economía Internacional Real",
+              "code": "61.14",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": {
+                "dependency": "61.82"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Economía Internacional Monetaria",
+              "code": "61.15",
+              "credits": "3",
+              "creditsRequired": "96",
+              "dependencies": {
+                "dependency": "61.82"
+              }
             },
             {
               "type": "subject",

@@ -385,14 +385,7 @@
                     "code": "81.42",
                     "credits": "3",
                     "creditsRequired": "144",
-                    "dependencies": {
-                      "dependency": [
-                        "81.48",
-                        "11.83",
-                        "81.57",
-                        "61.12"
-                      ]
-                    }
+                    "dependencies": null
                   }
                 ]
               }
@@ -1074,7 +1067,13 @@
               "code": "81.95",
               "credits": "3",
               "dependencies": {
-                "dependency": "81.42"
+                "dependency": [
+                  "81.48",
+                  "11.83",
+                  "61.12",
+                  "81.57",
+                  "81.42"
+                ]
               }
             },
             {
@@ -1083,7 +1082,13 @@
               "code": "81.96",
               "credits": "3",
               "dependencies": {
-                "dependency": "81.42"
+                "dependency": [
+                  "81.48",
+                  "11.83",
+                  "61.12",
+                  "81.57",
+                  "81.42"
+                ]
               }
             },
             {
@@ -1092,7 +1097,13 @@
               "code": "81.97",
               "credits": "3",
               "dependencies": {
-                "dependency": "81.42"
+                "dependency": [
+                  "81.48",
+                  "11.83",
+                  "81.57",
+                  "61.12",
+                  "81.42"
+                ]
               }
             }
           ]

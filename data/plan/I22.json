@@ -753,13 +753,6 @@
             },
             {
               "type": "subject",
-              "name": "Formación General III",
-              "code": "15.73",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Metodología del Aprendizaje",
               "code": "15.74",
               "credits": "3",
