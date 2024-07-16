@@ -289,6 +289,7 @@
                     "name": "Metodología del Diseño",
                     "code": "94.43",
                     "credits": "3",
+                    "creditsRequired": "72",
                     "dependencies": {
                       "dependency": "93.24"
                     }
@@ -309,7 +310,8 @@
                     "dependencies": {
                       "dependency": [
                         "25.10",
-                        "25.12"
+                        "25.12",
+                        "92.07"
                       ]
                     }
                   },

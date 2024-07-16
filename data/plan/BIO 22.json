@@ -363,15 +363,6 @@
                   },
                   {
                     "type": "subject",
-                    "name": "Seguridad Ocupacional y Ambiental",
-                    "code": "12.83",
-                    "credits": "3",
-                    "dependencies": {
-                      "dependency": "21.06"
-                    }
-                  },
-                  {
-                    "type": "subject",
                     "name": "Instrumentación Biomédica I",
                     "code": "16.17",
                     "credits": "6",
@@ -399,6 +390,15 @@
                     "dependencies": {
                       "dependency": "16.68"
                     }
+                  },
+                  {
+                    "type": "subject",
+                    "name": "Análisis de Coyuntura Económica",
+                    "code": "61.27",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "93.24"
+                    }
                   }
                 ]
               }
@@ -408,6 +408,15 @@
               "period": "2",
               "entries": {
                 "entry": [
+                  {
+                    "type": "subject",
+                    "name": "Seguridad Ocupacional y Ambiental",
+                    "code": "12.83",
+                    "credits": "3",
+                    "dependencies": {
+                      "dependency": "21.06"
+                    }
+                  },
                   {
                     "type": "subject",
                     "name": "Instrumentación Biomédica II",
@@ -432,16 +441,10 @@
                     "code": "61.16",
                     "credits": "3",
                     "dependencies": {
-                      "dependency": "11.15"
-                    }
-                  },
-                  {
-                    "type": "subject",
-                    "name": "Análisis de Coyuntura Económica",
-                    "code": "61.27",
-                    "credits": "3",
-                    "dependencies": {
-                      "dependency": "93.24"
+                      "dependency": [
+                        "11.15",
+                        "61.27"
+                      ]
                     }
                   },
                   {
@@ -466,10 +469,7 @@
                   "credits": "6",
                   "creditsRequired": "192",
                   "dependencies": {
-                    "dependency": [
-                      "16.63",
-                      "16.18"
-                    ]
+                    "dependency": "16.63"
                   }
                 }
               }
@@ -705,7 +705,10 @@
               "code": "16.52",
               "credits": "3",
               "dependencies": {
-                "dependency": "16.03"
+                "dependency": [
+                  "16.03",
+                  "16.01"
+                ]
               }
             },
             {
@@ -867,7 +870,7 @@
                 "dependency": [
                   "71.59",
                   "92.03",
-                  "16.03"
+                  "93.24"
                 ]
               }
             },

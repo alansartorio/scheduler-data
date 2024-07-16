@@ -322,6 +322,7 @@
                     "name": "Metodología del Diseño",
                     "code": "94.43",
                     "credits": "3",
+                    "creditsRequired": "72",
                     "dependencies": null
                   }
                 ]

@@ -508,9 +508,7 @@
                     "code": "16.30",
                     "credits": "6",
                     "creditsRequired": "180",
-                    "dependencies": {
-                      "dependency": "16.18"
-                    }
+                    "dependencies": null
                   },
                   {
                     "type": "subject",
@@ -833,7 +831,10 @@
               "code": "16.52",
               "credits": "3",
               "dependencies": {
-                "dependency": "16.03"
+                "dependency": [
+                  "16.03",
+                  "16.01"
+                ]
               }
             },
             {
@@ -980,6 +981,27 @@
             },
             {
               "type": "subject",
+              "name": "Procesamiento Avanzado de Imágenes en Biología y Biomedicina",
+              "code": "16.85",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "16.16"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción a la Nanotecnología",
+              "code": "17.16",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "93.42",
+                  "16.13"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Programación I",
               "code": "22.07",
               "credits": "6",
@@ -1045,6 +1067,15 @@
               "type": "subject",
               "name": "Programación web",
               "code": "71.38",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "71.44"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Introducción al Diseño de Bases de Datos Relacionales y No-Relacionales",
+              "code": "71.94",
               "credits": "3",
               "dependencies": {
                 "dependency": "71.44"
