@@ -572,14 +572,6 @@
             },
             {
               "type": "subject",
-              "name": "Apoyo Proyecto Final de Carrera",
-              "code": "10.98",
-              "credits": "6",
-              "creditsRequired": "160",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Marketing",
               "code": "11.39",
               "credits": "3",
