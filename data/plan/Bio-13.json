@@ -1065,6 +1065,18 @@
             },
             {
               "type": "subject",
+              "name": "Sistemas de Inteligencia Artificial",
+              "code": "71.22",
+              "credits": "3",
+              "dependencies": {
+                "dependency": [
+                  "71.44",
+                  "93.24"
+                ]
+              }
+            },
+            {
+              "type": "subject",
               "name": "Programación web",
               "code": "71.38",
               "credits": "3",
