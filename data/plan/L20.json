@@ -868,10 +868,7 @@
               "credits": "3",
               "creditsRequired": "48",
               "dependencies": {
-                "dependency": [
-                  "11.83",
-                  "81.26"
-                ]
+                "dependency": "11.83"
               }
             },
             {

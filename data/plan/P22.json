@@ -689,6 +689,13 @@
             },
             {
               "type": "subject",
+              "name": "Storytelling aplicado a los negocios",
+              "code": "15.06",
+              "credits": "1",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Introducción a la Ingeniería Ambiental",
               "code": "17.15",
               "credits": "3",

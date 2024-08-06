@@ -9,11 +9,11 @@
         "courseEnd": "20/07/25",
         "commissionName": "BIO",
         "commissionId": "40683",
-        "quota": "19",
-        "enrolledStudents": "19",
+        "quota": "24",
+        "enrolledStudents": "20",
         "courseCommissionTimes": {
           "day": "MONDAY",
-          "classRoom": "704F",
+          "classRoom": "803F",
           "building": "Sede Distrito Financiero",
           "hourFrom": "08:00",
           "hourTo": "11:00"
@@ -56,24 +56,6 @@
         }
       },
       {
-        "subjectCode": "10.01",
-        "subjectName": "Proyecto Final de Ingeniería Industrial (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "22/07/24",
-        "courseEnd": "20/07/25",
-        "commissionName": "A",
-        "commissionId": "40686",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": {
-          "day": "MONDAY",
-          "classRoom": "901F",
-          "building": "Sede Distrito Financiero",
-          "hourFrom": "19:00",
-          "hourTo": "22:00"
-        }
-      },
-      {
         "subjectCode": "41.34",
         "subjectName": "Desarrollo de Yacimientos (Anual)",
         "subjectType": "ANNUAL",
@@ -97,33 +79,6 @@
         "subjectType": "ANNUAL",
         "courseStart": "22/07/24",
         "courseEnd": "20/07/25",
-        "commissionName": "A",
-        "commissionId": "40691",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": [
-          {
-            "day": "MONDAY",
-            "classRoom": "Presencial",
-            "building": "External",
-            "hourFrom": "19:00",
-            "hourTo": "22:00"
-          },
-          {
-            "day": "TUESDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
-          }
-        ]
-      },
-      {
-        "subjectCode": "12.90",
-        "subjectName": "Proyecto de Plantas  (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "22/07/24",
-        "courseEnd": "20/07/25",
         "commissionName": "B",
         "commissionId": "40692",
         "quota": "0",
@@ -138,33 +93,6 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
-          }
-        ]
-      },
-      {
-        "subjectCode": "12.90",
-        "subjectName": "Proyecto de Plantas  (Anual)",
-        "subjectType": "ANNUAL",
-        "courseStart": "22/07/24",
-        "courseEnd": "20/07/25",
-        "commissionName": "C",
-        "commissionId": "40693",
-        "quota": "0",
-        "enrolledStudents": "0",
-        "courseCommissionTimes": [
-          {
-            "day": "MONDAY",
-            "classRoom": "Presencial",
-            "building": "External",
-            "hourFrom": "19:00",
-            "hourTo": "22:00"
-          },
-          {
-            "day": "TUESDAY",
             "classRoom": "Virtual",
             "building": "External",
             "hourFrom": "18:00",
