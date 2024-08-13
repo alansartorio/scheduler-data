@@ -340,6 +340,7 @@
                     "credits": "6",
                     "dependencies": {
                       "dependency": [
+                        "30.41",
                         "30.43",
                         "30.25",
                         "30.44"
@@ -730,24 +731,6 @@
                 "entry": [
                   {
                     "type": "subject",
-                    "name": "Dinámica del Autómovil Avanzada",
-                    "code": "30.20",
-                    "credits": "3",
-                    "dependencies": {
-                      "dependency": "30.19"
-                    }
-                  },
-                  {
-                    "type": "subject",
-                    "name": "Ciclos Reales en Motores de Combustión Interna",
-                    "code": "30.21",
-                    "credits": "3",
-                    "dependencies": {
-                      "dependency": "30.09"
-                    }
-                  },
-                  {
-                    "type": "subject",
                     "name": "Sistemas Mecatrónicos del Autómovil",
                     "code": "30.40",
                     "credits": "4",
@@ -793,15 +776,6 @@
               "period": "2",
               "entries": {
                 "entry": [
-                  {
-                    "type": "subject",
-                    "name": "Proceso de Combustión en Motores de Combustión Interna",
-                    "code": "30.22",
-                    "credits": "3",
-                    "dependencies": {
-                      "dependency": "30.21"
-                    }
-                  },
                   {
                     "type": "subject",
                     "name": "Transmisiones Automotrices",
@@ -975,6 +949,33 @@
               "credits": "3",
               "dependencies": {
                 "dependency": "30.48"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Dinámica del Autómovil Avanzada",
+              "code": "30.20",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.19"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Ciclos Reales en Motores de Combustión Interna",
+              "code": "30.21",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.09"
+              }
+            },
+            {
+              "type": "subject",
+              "name": "Proceso de Combustión en Motores de Combustión Interna",
+              "code": "30.22",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "30.21"
               }
             },
             {
