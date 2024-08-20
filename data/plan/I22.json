@@ -495,7 +495,7 @@
             "code": "71.45",
             "credits": "6",
             "dependencies": {
-              "dependency": "71.88"
+              "dependency": "71.20"
             }
           }
         }
@@ -775,6 +775,13 @@
             },
             {
               "type": "subject",
+              "name": "Sistemas de Información",
+              "code": "15.78",
+              "credits": "3",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Neurociencias y Desarrollo Productivo",
               "code": "16.04",
               "credits": "3",
@@ -839,6 +846,13 @@
               "code": "71.22",
               "credits": "3",
               "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Programación Básica",
+              "code": "71.56",
+              "credits": "3",
               "dependencies": null
             },
             {
