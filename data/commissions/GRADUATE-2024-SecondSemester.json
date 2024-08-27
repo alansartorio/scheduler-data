@@ -316,7 +316,7 @@
         "commissionName": "A",
         "commissionId": "39854",
         "quota": "24",
-        "enrolledStudents": "24",
+        "enrolledStudents": "25",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "703F",
@@ -334,7 +334,7 @@
         "commissionName": "C",
         "commissionId": "39856",
         "quota": "24",
-        "enrolledStudents": "22",
+        "enrolledStudents": "21",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "702F",
@@ -703,7 +703,7 @@
         "commissionName": "E",
         "commissionId": "39883",
         "quota": "24",
-        "enrolledStudents": "22",
+        "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "101T",
@@ -775,7 +775,7 @@
         "commissionName": "K",
         "commissionId": "39887",
         "quota": "24",
-        "enrolledStudents": "24",
+        "enrolledStudents": "23",
         "courseCommissionTimes": {
           "day": "THURSDAY",
           "classRoom": "101T",
@@ -3727,7 +3727,7 @@
         "commissionName": "A",
         "commissionId": "39998",
         "quota": "48",
-        "enrolledStudents": "48",
+        "enrolledStudents": "49",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "801F",
@@ -4569,8 +4569,8 @@
         "enrolledStudents": "10",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
-          "classRoom": "105R",
-          "building": "Sede Rectorado",
+          "classRoom": "004T",
+          "building": "SDT",
           "hourFrom": "19:00",
           "hourTo": "22:00"
         }
@@ -5683,7 +5683,7 @@
         "commissionName": "C",
         "commissionId": "40082",
         "quota": "30",
-        "enrolledStudents": "27",
+        "enrolledStudents": "28",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "005R",
@@ -5719,7 +5719,7 @@
         "commissionName": "E",
         "commissionId": "40125",
         "quota": "40",
-        "enrolledStudents": "33",
+        "enrolledStudents": "32",
         "courseCommissionTimes": {
           "day": "TUESDAY",
           "classRoom": "001R",
@@ -8838,7 +8838,7 @@
         "commissionName": "A",
         "commissionId": "40269",
         "quota": "48",
-        "enrolledStudents": "38",
+        "enrolledStudents": "39",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -9061,7 +9061,7 @@
         "commissionName": "D",
         "commissionId": "40283",
         "quota": "35",
-        "enrolledStudents": "18",
+        "enrolledStudents": "17",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -12292,7 +12292,7 @@
         "commissionName": "C",
         "commissionId": "40464",
         "quota": "30",
-        "enrolledStudents": "23",
+        "enrolledStudents": "30",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "005R",
@@ -12310,7 +12310,7 @@
         "commissionName": "DF",
         "commissionId": "40465",
         "quota": "48",
-        "enrolledStudents": "46",
+        "enrolledStudents": "39",
         "courseCommissionTimes": {
           "day": "WEDNESDAY",
           "classRoom": "201T",
@@ -12634,7 +12634,7 @@
         "commissionName": "A",
         "commissionId": "40477",
         "quota": "24",
-        "enrolledStudents": "18",
+        "enrolledStudents": "19",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "403F",
@@ -14930,7 +14930,7 @@
         "enrolledStudents": "13",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "101T",
+          "classRoom": "001T",
           "building": "SDT",
           "hourFrom": "16:00",
           "hourTo": "19:00"
@@ -15776,6 +15776,186 @@
           "building": "SDT",
           "hourFrom": "13:00",
           "hourTo": "16:00"
+        }
+      },
+      {
+        "subjectCode": "61.13",
+        "subjectName": "Práctica Contractual",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40828",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Híbrido",
+          "building": "External",
+          "hourFrom": "16:00",
+          "hourTo": "19:00"
+        }
+      },
+      {
+        "subjectCode": "61.34",
+        "subjectName": "Valuación de Empresas",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40829",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "THURSDAY",
+          "classRoom": "Híbrido",
+          "building": "External",
+          "hourFrom": "16:00",
+          "hourTo": "19:00"
+        }
+      },
+      {
+        "subjectCode": "81.13",
+        "subjectName": "Futuros Posibles",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40830",
+        "quota": "24",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "702F",
+          "building": "Sede Distrito Financiero",
+          "hourFrom": "10:00",
+          "hourTo": "13:00"
+        }
+      },
+      {
+        "subjectCode": "81.72",
+        "subjectName": "Introducción a la realidad virtual",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40831",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SUNDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
+          "hourFrom": "08:00",
+          "hourTo": "09:00"
+        }
+      },
+      {
+        "subjectCode": "81.73",
+        "subjectName": "Introducción a la IOT",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40832",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SUNDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "10:00"
+        }
+      },
+      {
+        "subjectCode": "81.74",
+        "subjectName": "Introducción a la realidad aumentada",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40833",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SUNDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
+          "hourFrom": "10:00",
+          "hourTo": "11:00"
+        }
+      },
+      {
+        "subjectCode": "94.65",
+        "subjectName": "Practica Profesional supervisada",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40834",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SUNDAY",
+          "classRoom": "Asincrónico",
+          "building": "External",
+          "hourFrom": "11:00",
+          "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "81.83",
+        "subjectName": "Tecnología e Innovación Aplicada a la Industria",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40835",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "Híbrido",
+          "building": "External",
+          "hourFrom": "16:00",
+          "hourTo": "19:00"
+        }
+      },
+      {
+        "subjectCode": "82.86",
+        "subjectName": "Análisis Estratégico Cuantitativo",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "A",
+        "commissionId": "40836",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "FRIDAY",
+          "classRoom": "702F",
+          "building": "Sede Distrito Financiero",
+          "hourFrom": "19:00",
+          "hourTo": "22:00"
+        }
+      },
+      {
+        "subjectCode": "73.62",
+        "subjectName": "Introducción a la Programación Paralela",
+        "subjectType": "SEMINARY",
+        "courseStart": "09/09/24",
+        "courseEnd": "14/10/24",
+        "commissionName": "S",
+        "commissionId": "40837",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "TUESDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "17:00",
+          "hourTo": "20:00"
         }
       }
     ]
