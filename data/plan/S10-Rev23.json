@@ -640,6 +640,15 @@
             },
             {
               "type": "subject",
+              "name": "Práctica Contractual",
+              "code": "61.13",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "61.32"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Finanzas de la Empresa",
               "code": "61.50",
               "credits": "3",
@@ -1141,6 +1150,13 @@
               "dependencies": {
                 "dependency": "72.27"
               }
+            },
+            {
+              "type": "subject",
+              "name": "Procesamiento de Imágenes Satelitales",
+              "code": "73.66",
+              "credits": "1",
+              "dependencies": null
             },
             {
               "type": "subject",
