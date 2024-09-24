@@ -696,17 +696,12 @@
             },
             {
               "type": "subject",
-              "name": "Seguridad de Procesos",
-              "code": "17.08",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Industrias Químicas",
               "code": "17.09",
               "credits": "3",
-              "dependencies": null
+              "dependencies": {
+                "dependency": "31.21"
+              }
             },
             {
               "type": "subject",
@@ -721,6 +716,7 @@
               "name": "Cálculo de Huella de Carbono en Organizaciones",
               "code": "17.22",
               "credits": "1",
+              "creditsRequired": "144",
               "dependencies": null
             },
             {
@@ -728,6 +724,7 @@
               "name": "Triple Impacto: Estrategias para el Desarrollo Sostenible",
               "code": "17.23",
               "credits": "3",
+              "creditsRequired": "144",
               "dependencies": null
             },
             {
@@ -832,6 +829,14 @@
         "terms": null,
         "withoutTerm": {
           "withoutTerm": [
+            {
+              "type": "subject",
+              "name": "Seguridad de Procesos",
+              "code": "17.08",
+              "credits": "3",
+              "creditsRequired": "144",
+              "dependencies": null
+            },
             {
               "type": "subject",
               "name": "Geoestadística",

@@ -850,13 +850,6 @@
             },
             {
               "type": "subject",
-              "name": "Programación Básica",
-              "code": "71.56",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Teoría de Juegos y Estrategia",
               "code": "81.04",
               "credits": "3",

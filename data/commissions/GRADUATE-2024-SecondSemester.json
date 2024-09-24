@@ -14306,11 +14306,11 @@
         "commissionName": "A",
         "commissionId": "40562",
         "quota": "24",
-        "enrolledStudents": "1",
+        "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "003T",
-          "building": "SDT",
+          "classRoom": "Comisión Cerrada",
+          "building": "External",
           "hourFrom": "12:30",
           "hourTo": "14:30"
         }
@@ -14324,10 +14324,10 @@
         "commissionName": "B",
         "commissionId": "40563",
         "quota": "24",
-        "enrolledStudents": "16",
+        "enrolledStudents": "17",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "003T",
+          "classRoom": "101T",
           "building": "SDT",
           "hourFrom": "14:30",
           "hourTo": "17:30"
@@ -14585,11 +14585,11 @@
         "commissionName": "A",
         "commissionId": "40586",
         "quota": "24",
-        "enrolledStudents": "1",
+        "enrolledStudents": "0",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "004T",
-          "building": "SDT",
+          "classRoom": "Comisión Cerrada",
+          "building": "External",
           "hourFrom": "12:30",
           "hourTo": "14:30"
         }
@@ -14603,10 +14603,10 @@
         "commissionName": "B",
         "commissionId": "40587",
         "quota": "24",
-        "enrolledStudents": "13",
+        "enrolledStudents": "14",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "004T",
+          "classRoom": "102T",
           "building": "SDT",
           "hourFrom": "14:30",
           "hourTo": "17:30"
@@ -15772,7 +15772,7 @@
         "enrolledStudents": "9",
         "courseCommissionTimes": {
           "day": "FRIDAY",
-          "classRoom": "101T",
+          "classRoom": "003T",
           "building": "SDT",
           "hourFrom": "13:00",
           "hourTo": "16:00"
@@ -15992,6 +15992,24 @@
           "building": "External",
           "hourFrom": "09:00",
           "hourTo": "12:00"
+        }
+      },
+      {
+        "subjectCode": "32.72",
+        "subjectName": "Proyecto de Buques",
+        "subjectType": "NORMAL",
+        "courseStart": "22/07/24",
+        "courseEnd": "31/12/24",
+        "commissionName": "N",
+        "commissionId": "40853",
+        "quota": "0",
+        "enrolledStudents": "0",
+        "courseCommissionTimes": {
+          "day": "SATURDAY",
+          "classRoom": "Virtual",
+          "building": "External",
+          "hourFrom": "09:00",
+          "hourTo": "15:00"
         }
       }
     ]
