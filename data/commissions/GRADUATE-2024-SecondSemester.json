@@ -5863,7 +5863,7 @@
         "commissionName": "L",
         "commissionId": "40089",
         "quota": "40",
-        "enrolledStudents": "34",
+        "enrolledStudents": "33",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -6345,7 +6345,7 @@
         "commissionName": "B",
         "commissionId": "40105",
         "quota": "30",
-        "enrolledStudents": "29",
+        "enrolledStudents": "28",
         "courseCommissionTimes": [
           {
             "day": "MONDAY",
@@ -6413,7 +6413,7 @@
         "commissionName": "A",
         "commissionId": "40107",
         "quota": "40",
-        "enrolledStudents": "34",
+        "enrolledStudents": "33",
         "courseCommissionTimes": [
           {
             "day": "THURSDAY",
@@ -8077,8 +8077,8 @@
           },
           {
             "day": "WEDNESDAY",
-            "classRoom": "704F",
-            "building": "Sede Distrito Financiero",
+            "classRoom": "001T",
+            "building": "SDT",
             "hourFrom": "19:00",
             "hourTo": "22:00"
           }
@@ -10822,7 +10822,7 @@
         "commissionName": "A",
         "commissionId": "40384",
         "quota": "40",
-        "enrolledStudents": "21",
+        "enrolledStudents": "20",
         "courseCommissionTimes": [
           {
             "day": "TUESDAY",
@@ -12634,7 +12634,7 @@
         "commissionName": "A",
         "commissionId": "40477",
         "quota": "24",
-        "enrolledStudents": "19",
+        "enrolledStudents": "18",
         "courseCommissionTimes": {
           "day": "MONDAY",
           "classRoom": "403F",
@@ -15117,11 +15117,11 @@
             "hourTo": "22:00"
           },
           {
-            "day": "THURSDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
+            "day": "TUESDAY",
+            "classRoom": "400F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
           }
         ]
       },

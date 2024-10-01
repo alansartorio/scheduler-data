@@ -92,11 +92,11 @@
             "hourTo": "22:00"
           },
           {
-            "day": "THURSDAY",
-            "classRoom": "Virtual",
-            "building": "External",
-            "hourFrom": "18:00",
-            "hourTo": "21:00"
+            "day": "TUESDAY",
+            "classRoom": "400F",
+            "building": "Sede Distrito Financiero",
+            "hourFrom": "19:00",
+            "hourTo": "22:00"
           }
         ]
       },
