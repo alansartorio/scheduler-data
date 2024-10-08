@@ -692,6 +692,14 @@
             },
             {
               "type": "subject",
+              "name": "Análisis Estratégico del Mercado",
+              "code": "15.12",
+              "credits": "1",
+              "creditsRequired": "72",
+              "dependencies": null
+            },
+            {
+              "type": "subject",
               "name": "Mecánica de Fluidos Computacional",
               "code": "15.61",
               "credits": "3",

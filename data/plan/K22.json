@@ -698,13 +698,6 @@
             },
             {
               "type": "subject",
-              "name": "Electrónica e Instrumentación",
-              "code": "23.18",
-              "credits": "6",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Computación Cuántica",
               "code": "25.04",
               "credits": "6",

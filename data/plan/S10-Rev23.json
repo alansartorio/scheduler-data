@@ -1169,6 +1169,15 @@
             },
             {
               "type": "subject",
+              "name": "Bases de Datos Espaciales y de Movilidad",
+              "code": "73.82",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "72.37"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Desarrollo Integral de Videojuegos",
               "code": "73.98",
               "credits": "3",

@@ -842,6 +842,15 @@
             },
             {
               "type": "subject",
+              "name": "Bases Fisicomatemáticas de la Biomecánica del Deporte",
+              "code": "16.76",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "16.64"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Microfluídica",
               "code": "16.80",
               "credits": "3",
@@ -1173,7 +1182,9 @@
               "name": "Comportamiento Organizacional",
               "code": "94.19",
               "credits": "3",
-              "dependencies": null
+              "dependencies": {
+                "dependency": "94.43"
+              }
             },
             {
               "type": "subject",
@@ -1181,6 +1192,15 @@
               "code": "94.24",
               "credits": "3",
               "dependencies": null
+            },
+            {
+              "type": "subject",
+              "name": "Estructura de las Organizaciones",
+              "code": "94.40",
+              "credits": "3",
+              "dependencies": {
+                "dependency": "94.19"
+              }
             },
             {
               "type": "subject",

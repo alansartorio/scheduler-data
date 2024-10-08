@@ -4871,7 +4871,7 @@
           },
           {
             "day": "THURSDAY",
-            "classRoom": "700F",
+            "classRoom": "504F",
             "building": "Sede Distrito Financiero",
             "hourFrom": "16:00",
             "hourTo": "19:00"
@@ -15895,7 +15895,7 @@
         "commissionName": "A",
         "commissionId": "40834",
         "quota": "0",
-        "enrolledStudents": "70",
+        "enrolledStudents": "69",
         "courseCommissionTimes": {
           "day": "SUNDAY",
           "classRoom": "Asincrónico",

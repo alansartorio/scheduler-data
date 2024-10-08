@@ -926,6 +926,15 @@
             },
             {
               "type": "subject",
+              "name": "Bases Fisicomatemáticas de la Biomecánica del Deporte",
+              "code": "16.76",
+              "credits": "1",
+              "dependencies": {
+                "dependency": "16.13"
+              }
+            },
+            {
+              "type": "subject",
               "name": "Microfluídica",
               "code": "16.80",
               "credits": "3",
