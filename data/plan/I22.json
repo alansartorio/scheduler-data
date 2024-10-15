@@ -783,13 +783,6 @@
             },
             {
               "type": "subject",
-              "name": "Sistemas de Información",
-              "code": "15.78",
-              "credits": "3",
-              "dependencies": null
-            },
-            {
-              "type": "subject",
               "name": "Neurociencias y Desarrollo Productivo",
               "code": "16.04",
               "credits": "3",
